@@ -8,7 +8,7 @@ categories = ["buying-guide"]
 tags = ["balcony", "container-gardening", "drip-irrigation", "buying-guide", "patio"]
 intent = "buyer"
 cluster = "balcony-kits-core"
-verification_status = "structure-ready"
+verification_status = "live"
 affiliate_ready = false
 show_disclosure = true
 +++
@@ -27,12 +27,12 @@ That matters because balcony gardens are rarely uniform. A few herb pots, a rail
 
 ## Quick picks
 
-| Best for | Recommendation | Why it stands out | Current governed destination |
+| Best for | Recommendation | Why it stands out | Best destination type |
 |---|---|---|---|
-| Best overall with faucet access | **Drip Depot container garden kit path** | Verified container-garden kit line, modular sizing, and custom-kit option | `bdi-kit-dripdepot-container-primary` |
-| Best for no-faucet balconies | **RainPoint Solar-Powered Drip Irrigation Kit** | Solar pump kit explicitly positioned for potted plants and balcony use | `bdi-kit-rainpoint-solar-primary` |
-| Best for a small, simple pot collection | **RainPoint Large Display Automatic Plant Waterer** | Clear potted-plant positioning, cycle-and-soak mode, small included parts set | `bdi-kit-rainpoint-small-primary` |
-| Best for gardeners who keep adding pots | **Build-your-own kit from Drip Depot** | Easier to size tubing, emitters, and future add-ons | `bdi-kit-dripdepot-selector-primary` |
+| Best overall with faucet access | **Drip Depot container garden kit path** | Verified container-garden kit line, modular sizing, and custom-kit option | Container-specific faucet-fed kit or custom selector |
+| Best for no-faucet balconies | **RainPoint Solar-Powered Drip Irrigation Kit** | Solar pump kit explicitly positioned for potted plants and balcony use | Solar reservoir-fed balcony kit |
+| Best for a small, simple pot collection | **RainPoint Large Display Automatic Plant Waterer** | Clear potted-plant positioning, cycle-and-soak mode, small included parts set | Compact reservoir-fed potted-plant kit |
+| Best for gardeners who keep adding pots | **Build-your-own kit from Drip Depot** | Easier to size tubing, emitters, and future add-ons | Modular container irrigation selector |
 
 ## My plain-English advice
 
@@ -189,12 +189,12 @@ The best drip irrigation kit for a balcony container garden is usually the one t
 - For **no-faucet balconies**, start with **RainPoint’s solar reservoir-fed kit**.
 - For a **small, simple pot collection**, RainPoint’s **10-15 potted plant** kit is a reasonable convenience pick.
 
-## Implementation status
+## Publication note
 
-This page is structurally ready for a pilot site and can be published safely in non-monetized form.
+This page is live in non-monetized form.
 
-Before monetized publication, complete all of the following:
+Before affiliate links are added, complete all of the following:
 
 - owner affiliate account approval and payout/tax setup
-- governed affiliate URL insertion for approved slots in `data/link-registry.yaml`
+- governed affiliate URL insertion after program approval
 - one final fact check on current product naming and availability
