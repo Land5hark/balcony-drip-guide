@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <link rel="icon" type="image/png" href="/assets/logo.png" />
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{ .Site.Params.site_url }}assets/logo.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.site_url }}assets/logo.png" />
+    <style>
+      body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.75; color: #18303a; background: #f6fbfc; }
+      a { color: #0e5a73; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      main { max-width: 820px; margin: 0 auto; padding: 28px 18px 56px; }
+      .topnav { color: #5b7983; font-size: 0.95rem; margin-bottom: 18px; }
+      .shell { background: #fff; border: 1px solid #d9e8ea; border-radius: 20px; padding: 26px; box-shadow: 0 10px 28px rgba(16, 59, 74, 0.06); }
+      h1 { margin: 0 0 10px; font-size: clamp(1.9rem, 3vw, 2.6rem); line-height: 1.15; }
+      .meta { color: #597883; font-size: 0.95rem; margin-bottom: 16px; }
+      .notice { padding: 12px 14px; border-radius: 10px; margin: 14px 0; }
+      .notice.disclosure { background: #fff8e6; border-left: 4px solid #b8860b; }
+      .notice.warning { background: #fff3f3; border-left: 4px solid #b22222; }
+      article p, article li { color: #25414b; }
+      article h2, article h3 { margin-top: 28px; }
+      article ul, article ol { padding-left: 22px; }
+    </style>
+    {{ with .Site.Params.cloudflare_analytics_token }}
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ . }}"}'></script>
+    {{ end }}
+  </head>
+  <body>
+    <main>
+      <p class="topnav"><a href="/">← Home</a> · <a href="/about/">About</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="{{ .Site.Params.disclosure_page }}">Affiliate Disclosure</a> · <a href="/search/">Search</a></p>
+      <article class="shell">
+        <header>
+          <h1>{{ .Title }}</h1>
+          {{ if or .Params.intent .Params.cluster }}
+          <p class="meta">
+            {{ with .Params.intent }}<strong>Intent:</strong> {{ . }}{{ end }}{{ if and .Params.intent .Params.cluster }} · {{ end }}{{ with .Params.cluster }}<strong>Cluster:</strong> {{ . }}{{ end }}
+          </p>
+          {{ end }}
+          {{ if .Params.show_disclosure }}
+          <p class="notice disclosure">
+            {{ .Site.Params.disclosure }}
+            {{ with .Site.Params.disclosure_page }}<a href="{{ . }}"> Read the full disclosure.</a>{{ end }}
+          </p>
+          {{ end }}
+          {{ if and .Params.verification_status (or (eq .Params.verification_status "needs-review") (eq .Params.verification_status "structure-ready") (eq .Params.verification_status "policy-draft")) }}
+          <p class="notice warning">
+            {{ .Site.Params.verification_warning }}
+          </p>
+          {{ end }}
+        </header>
+        {{ .Content }}
+        <hr style="margin: 32px 0; border: 0; border-top: 1px solid #d9e8ea;" />
+        <section>
+          <h2 style="margin-top: 0;">Keep reading</h2>
+          <ul style="list-style: none; padding: 0; margin: 0; display: grid; gap: 10px;">
+            {{ $current := .RelPermalink }}
+            {{ range first 3 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "ne" $current) }}
+            <li style="background: #f9fcfc; border: 1px solid #d9e8ea; border-radius: 12px; padding: 12px 14px;">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>

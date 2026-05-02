@@ -1,0 +1,41 @@
+site: balcony-drip-irrigation
+policy:
+  status: governed-placeholders-only
+  owner_affiliate_approval_required: true
+  publishing_without_affiliate_links_allowed: true
+  notes:
+    - Use direct destination URLs for editorial research only until owner-approved affiliate accounts exist.
+    - Replace destination_url with affiliate_url only after account approval, tax setup, and link review.
+links:
+  - slot: bdi-kit-dripdepot-container-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/drip-irrigation-kit-for-container-gardening
+    affiliate_url: ""
+    notes: Faucet-access primary path for balcony container kits.
+  - slot: bdi-kit-dripdepot-selector-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/irrigation-kit-selector
+    affiliate_url: ""
+    notes: Expansion-friendly build-your-own selector.
+  - slot: bdi-kit-rainpoint-solar-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: RainPoint
+    role: secondary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: ""
+    notes: No-faucet solar kit path.
+  - slot: bdi-kit-rainpoint-small-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: RainPoint
+    role: secondary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: ""
+    notes: Smaller uniform pot collection path.

@@ -1,0 +1,23 @@
+baseURL = "https://land5hark.github.io/balcony-drip-guide/"
+languageCode = "en-us"
+title = "Balcony Drip Guide"
+enableRobotsTXT = true
+
+[params]
+  description = "Practical guides for balcony and patio container gardeners choosing, setting up, and troubleshooting drip irrigation kits."
+  site_url = "https://land5hark.github.io/balcony-drip-guide/"
+  default_og_image = "/assets/logo.png"
+  cloudflare_analytics_token = ""
+  disclosure = "Some pages on this site may include affiliate links. Recommendations should stay tied to small-space fit, watering constraints, and real setup tradeoffs — not hype."
+  verification_label = "Verification status"
+  verification_warning = "This page is structurally ready, but product facts, availability, and any governed commercial links should be verified before wider promotion."
+  disclosure_page = "/affiliate-disclosure/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
