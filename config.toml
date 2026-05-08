@@ -1,11 +1,11 @@
-baseURL = "https://land5hark.github.io/balcony-drip-guide/"
+baseURL = "https://balcony-drip-guide.pages.dev/"
 languageCode = "en-us"
 title = "Balcony Drip Guide"
 enableRobotsTXT = true
 
 [params]
   description = "Practical guides for balcony and patio container gardeners choosing, setting up, and troubleshooting drip irrigation kits."
-  site_url = "https://land5hark.github.io/balcony-drip-guide/"
+  site_url = "https://balcony-drip-guide.pages.dev/"
   default_og_image = "/assets/logo.png"
   cloudflare_analytics_token = ""
   disclosure = "Some pages on this site may include affiliate links. Recommendations should stay tied to small-space fit, watering constraints, and real setup tradeoffs — not hype."

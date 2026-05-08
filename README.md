@@ -1,13 +1,13 @@
 # Balcony Drip Irrigation Hugo Site
 
-## Recommended deployment target
-Primary: **Cloudflare Pages**
-Fallback: **GitHub Pages**
+## Deployment target
+**Cloudflare Pages** (standard for all passive-income niche sites)
 
-## Why this stack
-- Hugo is installed locally and already used in the broader passive-income workspace.
-- Markdown-first content keeps the draft-to-site flow boring and repeatable.
-- This pilot can publish safely before affiliate monetization is activated.
+## Why this stack (standard)
+- **Hugo**: Static site generator, fast builds, markdown-native
+- **Cloudflare Pages**: Clean `*.pages.dev` URLs, free, fast CDN, simple GitHub integration
+- **GitHub**: Source control + automatic deploys on push to main
+- This is the standard passive-income site architecture. Use it for all future niches.
 
 ## Local build
 ```bash
@@ -44,11 +44,18 @@ Each post should include:
 - `affiliate_ready`
 - `show_disclosure`
 
+## Cloudflare Pages setup (one-time)
+1. Go to [Cloudflare Pages dashboard](https://dash.cloudflare.com/pages)
+2. Create project → Connect to GitHub → Select this repo
+3. Framework preset: **Hugo**
+4. Build command: `hugo --minify`
+5. Build output: `public`
+6. Root directory: `/`
+7. Environment variable: `HUGO_VERSION=0.125.4`
+8. Save & deploy
+
 ## Current state
-- Public site target remains GitHub Pages at `https://land5hark.github.io/balcony-drip-guide/`.
-- Core trust pages are live: About, Privacy Policy, Affiliate Disclosure, and Search.
-- Local workspace now has a **16-post built cluster**: `topics.csv` shows `16` topics marked `live`, and local `site/public/posts/` contains `16` post pages.
-- Public GitHub Pages is currently **behind local state** and still exposes only the older 3-post snapshot in the live sitemap; deployment parity is the immediate operational gap.
-- Governed placeholder coverage is complete across the local commercial cluster, but monetized link insertion is still intentionally blocked on owner affiliate approvals and final URL insertion.
-- Highest-priority editorial hardening is fact review on the commercial hub pages before wider promotion.
-- Publishing gotcha logged: future-dated Hugo content will silently stay out of `public/` until its publish time passes, so article promotion should use current-or-earlier timestamps.
+- **Live URL:** https://balcony-drip-guide.pages.dev/
+- **16 articles** published and live
+- Affiliate placeholders mapped but not yet monetized (waiting on account approvals)
+- Trust pages live: About, Privacy, Disclosure, Search
