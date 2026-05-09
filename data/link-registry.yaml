@@ -75,10 +75,10 @@ links:
     article_slug: best-solar-drip-irrigation-kits-for-patios-and-balconies
     merchant: RainPoint
     role: primary
-    monetization_status: placeholder_pending_owner_approval
-    destination_url: https://www.rainpointonline.com/products/rainpoint-smart-wifi-solar-automatic-plant-watering-system-for-house-potted-plants-gen-2
-    affiliate_url: ""
-    notes: Premium smart solar path for the solar buyer guide.
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: Premium smart solar path - RainPoint all-in-one system (approved 2026-05-08).
   - slot: bdi-solar-shaded-reservoir-primary
     article_slug: best-solar-drip-irrigation-kits-for-patios-and-balconies
     merchant: RainPoint
@@ -91,10 +91,10 @@ links:
     article_slug: balcony-drip-irrigation-without-a-faucet
     merchant: RainPoint
     role: primary
-    monetization_status: placeholder_pending_owner_approval
-    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
-    affiliate_url: ""
-    notes: Main no-faucet solar reservoir path for renter-focused balcony guidance.
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: Main no-faucet smart irrigation path - RainPoint all-in-one system (approved 2026-05-08).
   - slot: bdi-nofaucet-compact-reservoir-primary
     article_slug: balcony-drip-irrigation-without-a-faucet
     merchant: RainPoint
@@ -123,10 +123,10 @@ links:
     article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
     merchant: RainPoint
     role: primary
-    monetization_status: placeholder_pending_owner_approval
-    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
-    affiliate_url: ""
-    notes: No-faucet vacation watering path for solar reservoir-fed container setups.
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: No-faucet vacation watering path - RainPoint all-in-one system (approved 2026-05-08).
   - slot: bdi-vacation-compact-primary
     article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
     merchant: RainPoint
