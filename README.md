@@ -55,7 +55,8 @@ Each post should include:
 8. Save & deploy
 
 ## Current state
-- **Live URL:** https://balcony-drip-guide.pages.dev/
-- **16 articles** published and live
+- **Live URL:** https://land5hark.github.io/balcony-drip-guide/ (GitHub Pages)
+- **Target URL:** https://balcony-drip-guide.pages.dev/ (Cloudflare Pages - pending setup)
+- **21 articles** published and live (deployed 2026-05-10)
 - Affiliate placeholders mapped but not yet monetized (waiting on account approvals)
 - Trust pages live: About, Privacy, Disclosure, Search
