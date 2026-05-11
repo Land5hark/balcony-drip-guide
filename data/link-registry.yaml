@@ -383,6 +383,46 @@ links:
     destination_url: https://www.dripdepot.com/bhyve-smart-hose-faucet-timer
     affiliate_url: ""
     notes: Timer-accessory placeholder for automation-focused container growers whose real bottleneck is schedule control.
+  - slot: bdi-troubleshoot-pressure-reducer-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/irrigation-supplies-pressure-regulators
+    affiliate_url: ""
+    notes: Pressure reducer placeholder for troubleshooting article - addresses pressure-related flow issues.
+  - slot: bdi-troubleshoot-filter-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: ""
+    notes: Filter placeholder for troubleshooting article - addresses clog and sediment issues.
+  - slot: bdi-troubleshoot-emitters-replacement-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: ""
+    notes: Replacement emitters for troubleshooting article - addresses clogged or failed drippers.
+  - slot: bdi-troubleshoot-tubing-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/category/polyethylene-irrigation-tubing
+    affiliate_url: ""
+    notes: Tubing placeholder for troubleshooting article - addresses kinks, cracks, and sizing issues.
+  - slot: bdi-troubleshoot-timer-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: placeholder_pending_owner_approval
+    destination_url: https://www.dripdepot.com/1-zone-digital-water-timer-w-rain-sensor
+    affiliate_url: ""
+    notes: Timer placeholder for troubleshooting article - addresses timer failure and cycling issues.
   - slot: bdi-expand-connectors-primary
     article_slug: how-to-expand-a-patio-drip-kit-without-losing-pressure
     merchant: Drip Depot
