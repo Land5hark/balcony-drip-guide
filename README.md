@@ -57,8 +57,8 @@ Each post should include:
 ## Current state
 - **Live URL:** https://land5hark.github.io/balcony-drip-guide/ (GitHub Pages)
 - **Target URL:** https://balcony-drip-guide.pages.dev/ (Cloudflare Pages - pending setup)
-- **23 articles** published and live (deployed 2026-05-11)
-- **168 total pages** including hub pages, trust pages, taxonomy pages
+- **24 articles** published and live (deployed 2026-05-11)
+- **171 total pages** including hub pages, trust pages, taxonomy pages
 - Affiliate placeholders mapped but not yet monetized (waiting on account approvals)
 - Trust pages live: About, Privacy, Disclosure, Search
 - **Promotion assets:** 3 Pinterest pins generated and committed to `static/promotion/`
