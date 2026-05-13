@@ -8,7 +8,7 @@ categories = ["buying-guide"]
 tags = ["balcony", "soaker-hose", "drip-irrigation", "container-gardening", "watering-methods"]
 intent = "solution-aware"
 cluster = "watering-methods"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
