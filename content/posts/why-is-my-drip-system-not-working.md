@@ -8,7 +8,7 @@ categories = ["troubleshooting"]
 tags = ["balcony", "drip-irrigation", "troubleshooting", "maintenance", "not-working", "container-gardening"]
 intent = "problem-aware"
 cluster = "troubleshooting"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
@@ -127,7 +127,7 @@ Pressure regulators can fail or become clogged.
 - Test system pressure with and without the regulator
 - Replace if flow improves significantly without the regulator
 
-**Note:** Household water pressure (60-80 PSI) can blow apart drip fittings. Do not run without a regulator unless you have verified low pressure.
+**Note:** Household water pressure (40-60 PSI) can blow apart drip fittings. Do not run without a regulator unless you have verified low pressure.
 
 ### Check 2: Partial clogs
 
