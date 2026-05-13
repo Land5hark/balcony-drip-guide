@@ -8,7 +8,7 @@ categories = ["troubleshooting"]
 tags = ["balcony", "drip-irrigation", "troubleshooting", "maintenance", "problems", "container-gardening"]
 intent = "problem-aware"
 cluster = "troubleshooting"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
@@ -23,7 +23,7 @@ Here are the most common drip irrigation problems, organized by symptom, with sp
 
 **Causes:**
 
-**Pressure imbalance.** Household water pressure is often too high for drip systems, or it fluctuates throughout the day. Without a pressure regulator, emitters near the source gush while distant ones trickle.
+**Pressure imbalance.** Household water pressure (typically 40-60 PSI) is often too high for drip systems, or it fluctuates throughout the day. Without a pressure regulator, emitters near the source gush while distant ones trickle.
 
 **Mixed emitter types.** Combining adjustable drippers, fixed drippers, and micro-sprayers on the same zone creates uneven flow. Each type has different pressure and flow requirements.
 
@@ -64,7 +64,7 @@ Here are the most common drip irrigation problems, organized by symptom, with sp
 
 **Causes:**
 
-**Excessive pressure.** Without a pressure regulator, household water pressure (often 60-80 PSI) exceeds what barbed fittings can hold. The tubing literally blows off.
+**Excessive pressure.** Without a pressure regulator, household water pressure (40-60 PSI or higher) exceeds what barbed fittings can hold. The tubing literally blows off.
 
 **Poor connections.** Barbed fittings require firm pressure to seat properly. If tubing is not pushed fully onto the barb, it slips off under pressure.
 
