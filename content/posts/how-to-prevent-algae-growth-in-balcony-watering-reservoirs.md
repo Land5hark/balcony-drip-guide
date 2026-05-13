@@ -8,7 +8,7 @@ categories = ["maintenance"]
 tags = ["balcony", "algae", "reservoir", "maintenance", "no-faucet", "container-gardening"]
 intent = "problem-aware"
 cluster = "reservoir-maintenance"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
