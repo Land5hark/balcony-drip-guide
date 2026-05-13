@@ -8,7 +8,7 @@ categories = ["maintenance"]
 tags = ["balcony", "watering", "schedules", "maintenance", "container-gardening", "plant-care"]
 intent = "problem-aware"
 cluster = "watering-schedules"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
