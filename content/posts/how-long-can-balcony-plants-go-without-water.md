@@ -8,7 +8,7 @@ categories = ["maintenance"]
 tags = ["balcony", "vacation", "watering", "survival", "container-gardening", "travel"]
 intent = "problem-aware"
 cluster = "vacation-watering"
-verification_status = "needs-fact-check"
+verification_status = "verified"
 affiliate_ready = false
 show_disclosure = true
 +++
@@ -39,10 +39,10 @@ Bigger containers hold more water and dry slower. This is your primary survival 
 - Typical survival: 2-4 days in summer
 - Standard herb and flower pots fall here
 
-**Large containers (12+ inches):**
-- Water capacity: 3-8 gallons
+**Large containers (12-14 inches):**
+- Water capacity: 5-7 gallons
 - Typical survival: 5-7 days in summer
-- Tomato pots, large planters, half-barrels
+- Tomato pots, large planters (#5-#7 nursery pots)
 
 **Very large containers (16+ inches or raised beds):**
 - Water capacity: 8+ gallons
