@@ -64,6 +64,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 - [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/) - Timer safety
 - [Smart watering timers](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/) - Automation options
 - [How long can balcony plants go without water?](/posts/how-long-can-balcony-plants-go-without-water/) - Trip planning
+- [How often should you water balcony plants?](/posts/how-often-should-you-water-balcony-plants/) - Scheduling guidance
 
 ## By watering method
 
@@ -71,9 +72,13 @@ This hub organizes every balcony watering approach by your actual constraints: w
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) - Main buyer guide
 - [Drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) - No-spigot options
 - [Do you need a filter and pressure reducer?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/) - Component decisions
+- [Best drip irrigation accessories that actually help](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/) - Worthwhile add-ons
 
 ### Soaker hoses (bed-style coverage)
 - [Can I use soaker hoses on a balcony?](/posts/can-i-use-soaker-hoses-on-a-balcony/) - When soakers make sense
+
+### Small space / urban constraints
+- [Small space irrigation for urban balconies](/posts/small-space-irrigation-for-urban-balconies/) - 20-50 sq ft solutions
 
 
 ## Component deep dives
