@@ -93,4 +93,4 @@ This hub organizes every balcony watering approach by your actual constraints: w
 
 ---
 
-*This hub is updated as new guides are published. Last updated: 2026-05-12*
+*This hub is updated as new guides are published. Last updated: 2026-05-14*
