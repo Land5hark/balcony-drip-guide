@@ -56,7 +56,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 - [Adjustable emitters vs button drippers](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) - Choosing emitter types
 
 ### Maintenance and care
-- [ATO maintenance schedule for balcony systems](/posts/ato-maintenance-schedule-for-balcony-drip-systems/) - Regular upkeep
+- [Container drip irrigation maintenance checklist for summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/) - Regular upkeep
 - [How to winterize a balcony watering system](/posts/how-to-winterize-a-balcony-watering-system/) - Cold climate protection
 - [How to prevent algae growth in reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/) - Algae prevention
 
@@ -74,7 +74,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 
 ### Soaker hoses (bed-style coverage)
 - [Can I use soaker hoses on a balcony?](/posts/can-i-use-soaker-hoses-on-a-balcony/) - When soakers make sense
-- [Soaker hose vs drip irrigation for container gardens](/posts/soaker-hose-vs-drip-irrigation-for-container-gardens/) - Head-to-head comparison
+
 
 ## Component deep dives
 
@@ -89,7 +89,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 
 - [How much water do balcony plants really need?](/posts/how-much-water-do-balcony-plants-really-need/) - Calculating water requirements
 - [What are common problems with drip irrigation?](/posts/what-are-common-problems-with-drip-irrigation-systems/) - Issue checklist
-- [Drip system for beginners](/posts/drip-irrigation-system-for-beginners/) - Getting started basics
+
 
 ---
 
