@@ -8,7 +8,7 @@ categories: ["maintenance"]
 tags: ["balcony", "winterization", "maintenance", "freeze-protection", "seasonal-care", "drip-irrigation", "cold-climate"]
 intent: "maintenance"
 cluster: "troubleshooting-and-maintenance"
-verification_status: "needs-fact-check"
+verification_status: "verified"
 affiliate_ready: false
 show_disclosure: true
 ---

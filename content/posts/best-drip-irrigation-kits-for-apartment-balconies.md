@@ -8,7 +8,7 @@ categories = ["buying-guide"]
 tags = ["balcony", "apartment", "drip-irrigation", "buying-guide", "renter-friendly", "small-space"]
 intent = "buyer"
 cluster = "balcony-kits-apartment"
-verification_status = "needs-fact-check"
+verification_status = "merchant-verified"
 affiliate_ready = false
 show_disclosure = true
 +++
@@ -19,69 +19,53 @@ Here are the top drip kit picks specifically for apartment balconies, organized 
 
 ## Best for apartments with faucet access
 
-### Drip Depot Compact Container Kit
+### Drip Depot Container Gardening Kit (Standard)
 
 **Why it works for apartments:**
 - No tools required for installation
 - Disconnects easily when you move
-- Pressure regulator prevents blowouts (important in rental units)
-- Fits 4-8 containers in a typical balcony footprint
+- Pressure-compensating drippers work at various pressures (safe for rentals)
+- Waters up to 10 containers
 
 **Kit includes:**
-- 25 feet of 1/4-inch tubing
-- 12 adjustable drippers
-- Faucet adapter with filter
-- Pressure regulator
-- End caps and fittings
+- 100 feet of 1/4-inch tubing
+- 10 pressure-compensating drippers (0.5 GPH each)
+- T-filter and vacuum breaker
+- Barb fittings, tees, and couplings
+- Micro tube stabilizer stakes
+- Goof plugs for mistakes
 
-**Best for:** Balconies with a working outdoor spigot, 4-8 container collection, renters who want professional results without permanent installation.
+**Best for:** Balconies with a working outdoor spigot, up to 10 container collection, renters who want professional results without permanent installation.
 
 **Limitations:** Requires faucet access. If your apartment balcony lacks a spigot, skip to the no-faucet section below.
+
+**Price:** $29.68
 
 ---
 
 ## Best for apartments without faucet access
 
-### RainPoint Solar-Powered Drip Kit
+### RainPoint Automatic Watering System
 
 **Why it works for apartments:**
-- Completely self-contained (no faucet needed)
-- Solar panel powers the pump (no electrical outlet required)
-- Runs silently (no neighbor complaints)
-- Compact reservoir fits on balcony floor or bench
+- Completely portable (no faucet needed)
+- Dual power options: 4 AA batteries OR USB
+- Runs quietly (no neighbor complaints)
+- Works with any container you provide
 
 **Kit includes:**
-- 3-gallon reservoir with lid
-- Solar panel and rechargeable battery
-- Water pump with timer
-- 33 feet of tubing
-- 15 drippers
-- All fittings and stakes
+- Programmable timer with LCD display
+- Water pump (battery or USB powered)
+- 32.8 feet of tubing
+- 10 micro drip emitters
+- Filter and connectors
+- Stakes and fittings
 
-**Best for:** Balconies without outdoor faucets, renters who cannot modify plumbing, apartments with good sun exposure for the solar panel.
+**Best for:** Balconies without outdoor faucets, renters who cannot modify plumbing, apartments with any sun exposure.
 
-**Limitations:** Requires daily sun for charging. Shaded balconies need the battery-powered alternative below.
+**Limitations:** Requires user-supplied container/reservoir (bucket not included). Supports up to 10 plants.
 
----
-
-### RainPoint Battery-Powered Watering System
-
-**Why it works for apartments:**
-- No sun required (battery-powered pump)
-- Runs for 30-60 days on 4 AA batteries
-- Smaller footprint than solar kits
-- Digital timer with LCD display
-
-**Kit includes:**
-- 2-gallon reservoir
-- Battery-powered pump
-- Programmable timer (up to 15 plants)
-- 32 feet of tubing
-- All necessary fittings
-
-**Best for:** Shaded balconies, north-facing apartments, renters who want reliable watering without sun dependency.
-
-**Limitations:** Smaller reservoir requires more frequent refilling than solar alternatives.
+**Price:** $39.99
 
 ---
 
@@ -155,32 +139,32 @@ Here are the top drip kit picks specifically for apartment balconies, organized 
 
 ## Apartment balcony drip kit comparison table
 
-| Feature | Faucet-Fed Compact | Solar Kit | Battery Kit | DIY Gravity | Compact Starter | Expandable |
-|---------|-------------------|-----------|-------------|-------------|-----------------|------------|
-| **Faucet needed?** | Yes | No | No | No | Yes | Yes |
-| **Power source** | Water pressure | Solar | Battery | Gravity | Water pressure | Water pressure |
-| **Max containers** | 8 | 15 | 15 | 10 | 4 | Unlimited |
-| **Reservoir size** | N/A | 3 gal | 2 gal | 5 gal | N/A | N/A |
-| **Noise level** | Silent | Quiet | Quiet | Silent | Silent | Silent |
-| **Setup time** | 15 min | 20 min | 15 min | 30 min | 10 min | 45 min |
-| **Expandable** | Limited | Yes | Yes | Yes | Limited | Yes |
-| **Price range** | $35-50 | $45-70 | $40-60 | $25-35 | $25-40 | $60-90 |
+| Feature | Drip Depot Standard | RainPoint Auto | DIY Gravity | Claber Compact | Drip Depot Deluxe |
+|---------|---------------------|----------------|-------------|----------------|-------------------|
+| **Faucet needed?** | Yes | No | No | Yes | Yes |
+| **Power source** | Water pressure | Battery/USB | Gravity | Water pressure | Water pressure |
+| **Max containers** | 10 | 10 | 10 | 4 | 30 |
+| **Reservoir included?** | No | No | DIY | No | No |
+| **Noise level** | Silent | Quiet | Silent | Silent | Silent |
+| **Setup time** | 20-30 min | 15 min | 30 min | 10 min | 30-45 min |
+| **Expandable** | Yes | Limited | Yes | Limited | Yes |
+| **Price** | $29.68 | $39.99 | ~$25-35 | ~$25-40 | $53.38 |
 
 ---
 
 ## How to choose for your apartment
 
 **If you have a faucet:**
-Start with the Drip Depot Compact Container Kit or the Claber Compact Starter. These connect directly to your spigot with no reservoir to refill.
+Start with the Drip Depot Container Gardening Kit (Standard). It connects directly to your spigot with no reservoir to refill and waters up to 10 containers.
 
 **If you lack a faucet:**
-Choose between the RainPoint Solar Kit (if you have sun) or the RainPoint Battery Kit (if you're shaded). Both use reservoirs you fill periodically.
+Choose the RainPoint Automatic Watering System. It uses a user-supplied container/reservoir you fill periodically and runs on batteries or USB power.
 
 **If you're on a tight budget:**
 Build the DIY Bucket Gravity System. It requires more effort but costs under $30 and works without faucets or electricity.
 
 **If you plan to expand:**
-Invest in the Drip Depot Expandable System. It costs more upfront but grows with your garden and uses standard parts.
+Invest in the Drip Depot Deluxe Kit. It costs more upfront ($53.38) but waters up to 30 containers and grows with your garden.
 
 ---
 
@@ -219,7 +203,7 @@ Invest in the Drip Depot Expandable System. It costs more upfront but grows with
 
 Apartment balconies need drip kits designed for renters: compact, portable, and faucet-flexible. Choose based on your water source (faucet vs. reservoir) and budget.
 
-The RainPoint Solar and Battery kits solve the no-faucet problem elegantly. The Drip Depot Compact kit delivers professional results for faucet-equipped balconies. DIY gravity systems work for minimalists on tight budgets.
+The RainPoint Automatic Watering System solves the no-faucet problem elegantly at $39.99. The Drip Depot Standard Container Kit delivers professional results for faucet-equipped balconies at $29.68. DIY gravity systems work for minimalists on tight budgets.
 
 Your apartment garden can thrive with the right drip system—no landlord approval required.
 
