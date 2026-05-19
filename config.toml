@@ -1,0 +1,104 @@
+baseURL = "https://balcony-drip-guide.pages.dev"
+languageCode = "en-us"
+title = "The Balcony Drip"
+# theme = ""
+enableRobotsTXT = true
+enableEmoji = false
+
+# Pretty URLs / canonicals
+canonifyURLs = false
+relativeURLs = false
+
+# Markup pipeline
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true   # allow raw HTML for affiliate buttons inside shortcodes
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
+
+[params]
+  description    = "Honest, tested writing on balcony drip irrigation for renters."
+  author         = "Maya Chen"
+  location       = "Brooklyn, NY"
+  established    = 2022
+  newsletter_url = "https://buttondown.email/balcony-drip"
+  twitter        = "@balconydrip"
+  # Default OG image (per-page can override via frontmatter `image`)
+  og_image       = "/images/og-default.jpg"
+  # Set to a path under /static if you have a custom favicon, else leave empty
+  favicon        = "/favicon.ico"
+
+# Article taxonomies. Existing articles already use these; do not rename.
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+# Category metadata (used by partials/categories.html). Order is preserved.
+[[params.categories]]
+  slug    = "setup-guides"
+  name    = "Setup Guides"
+  blurb   = "Get a working system in an afternoon, even in a rental with no hose bib."
+  icon    = "setup"
+[[params.categories]]
+  slug    = "buying-guides"
+  name    = "Buying Guides"
+  blurb   = "Honest, tested gear picks. No kit on this list costs more than $80."
+  icon    = "buying"
+[[params.categories]]
+  slug    = "troubleshooting"
+  name    = "Troubleshooting"
+  blurb   = "When something's wrong, start here. Pressure, clogs, leaks, dead emitters."
+  icon    = "trouble"
+[[params.categories]]
+  slug    = "plant-care"
+  name    = "Plant Care"
+  blurb   = "How much water, how often, and what to do when the leaves yellow."
+  icon    = "plant"
+[[params.categories]]
+  slug    = "winter-prep"
+  name    = "Winter Prep"
+  blurb   = "Draining, storing, and what to leave outside when the freeze comes."
+  icon    = "winter"
+
+# The Start-here numbered path on the homepage. Edit paths to match your slugs.
+[[params.start_here]]
+  number = "01"
+  title  = "Do you actually need drip?"
+  blurb  = "A four-question test. If you water more than once a week, the answer is probably yes."
+  time   = "4 min read"
+  url    = "/setup-guides/do-you-need-drip/"
+[[params.start_here]]
+  number = "02"
+  title  = "The cheapest viable kit"
+  blurb  = "What $42 buys you and what it doesn't. Skip the $200 starter kits and the $15 'complete' ones."
+  time   = "7 min read"
+  url    = "/buying-guides/cheapest-viable-kit/"
+[[params.start_here]]
+  number = "03"
+  title  = "Your first 30 minutes"
+  blurb  = "Faucet to first drop. The install order matters more than the parts."
+  time   = "12 min read"
+  url    = "/setup-guides/self-watering-balcony-drip-system/"
+
+# Build outputs
+[outputs]
+  home = ["HTML", "RSS"]
+
+# Pagination
+paginate = 12
+
+# Cloudflare Web Analytics (privacy-friendly, no cookie banner required)
+# Get your token from: https://dash.cloudflare.com → Analytics & Logs → Web Analytics
+[params.cloudflare_analytics]
+  enabled = false  # Set to true after adding your token below
+  token = ""       # Paste your Cloudflare analytics token here (looks like: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+
+# Permalinks: keep existing structure — DO NOT CHANGE without redirects.
+[permalinks]
+  setup-guides    = "/setup-guides/:slug/"
+  buying-guides   = "/buying-guides/:slug/"
+  troubleshooting = "/troubleshooting/:slug/"
+  plant-care      = "/plant-care/:slug/"
+  winter-prep     = "/winter-prep/:slug/"

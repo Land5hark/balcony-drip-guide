@@ -1,0 +1,14 @@
+{{/*
+  {{% warning title="Heads up" %}}
+  Body markdown — use for common mistakes / safety / install order.
+  {{% /warning %}}
+*/}}
+<aside class="callout callout--warn">
+  <div class="callout__head">
+    <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="var(--clay)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M10 2 1.5 17h17L10 2Z"/><path d="M10 8v4"/><path d="M10 14.5v.1"/>
+    </svg>
+    <span>{{ .Get "title" | default "Heads up" }}</span>
+  </div>
+  <div class="callout__body">{{ .Inner }}</div>
+</aside>

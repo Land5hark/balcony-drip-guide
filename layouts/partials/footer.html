@@ -1,0 +1,54 @@
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <a class="brand" href="{{ "/" | relURL }}">
+          <span class="brand__mark" aria-hidden="true"></span>
+          <span>{{ .Site.Title }}</span>
+        </a>
+        <p class="footer__about">
+          A field journal for renters who want to keep tomatoes alive on small balconies.
+          Independent. Affiliate-supported. No sponsored content.
+        </p>
+      </div>
+
+      <div class="footer__col">
+        <h4>Sections</h4>
+        <ul>
+          {{- range .Site.Params.categories }}
+          <li><a href="{{ printf "/%s/" .slug | relURL }}">{{ .name }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+
+      <div class="footer__col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="{{ "/glossary/" | relURL }}">Glossary</a></li>
+          <li><a href="{{ "/calculator/" | relURL }}">GPH calculator</a></li>
+          <li><a href="{{ .Site.Params.newsletter_url | default "/newsletter/" }}">Newsletter</a></li>
+          <li><a href="{{ "/index.xml" | relURL }}">RSS</a></li>
+          <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer__col">
+        <h4>About</h4>
+        <ul>
+          <li><a href="{{ "/about/" | relURL }}">Who we are</a></li>
+          <li><a href="{{ "/methodology/" | relURL }}">Methodology</a></li>
+          <li><a href="{{ "/disclosure/" | relURL }}">Ethics &amp; disclosure</a></li>
+          <li><a href="{{ "/reader-notes/" | relURL }}">Reader notes</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <span>© {{ now.Year }} {{ .Site.Title }} · {{ .Site.Params.location | default "Brooklyn, NY" }}</span>
+      <span>
+        Some links earn us a commission.
+        Read our <a href="{{ "/disclosure/" | relURL }}">disclosure</a>.
+      </span>
+    </div>
+  </div>
+</footer>

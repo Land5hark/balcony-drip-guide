@@ -1,0 +1,16 @@
+{{/* toc.html — context: a page (.). Renders Hugo's auto-TOC in our wrapper.
+     Frontmatter override: toc_position = "left" | "floating" | "inline"
+     Default position is "left" on wide screens. */}}
+{{- $pos := .Params.toc_position | default "left" -}}
+{{- if .TableOfContents -}}
+<aside class="toc toc--{{ $pos }}" aria-label="Article contents">
+  <div class="toc__label">In this guide</div>
+  {{ .TableOfContents }}
+  {{- if eq $pos "left" }}
+  <div class="toc__hint">
+    <strong>~{{ .ReadingTime }} min read</strong><br>
+    Last updated {{ (.Lastmod | default .Date).Format "Jan 2006" }}.
+  </div>
+  {{- end }}
+</aside>
+{{- end }}

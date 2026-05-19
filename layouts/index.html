@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ partial "hero.html" . }}
+  {{ partial "start-here.html" . }}
+  {{ partial "categories.html" . }}
+  {{ partial "latest-entries.html" (dict "ctx" . "count" 6) }}
+  {{ partial "newsletter.html" . }}
+{{ end }}

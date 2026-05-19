@@ -1,0 +1,498 @@
+site: balcony-drip-irrigation
+policy:
+  status: governed-approved-links-active
+  owner_affiliate_approval_required: false
+  publishing_without_affiliate_links_allowed: true
+  notes:
+    - RainPoint approved active 2026-05-08.
+    - Drip Depot approved active 2026-05-14.
+    - Drip Depot deep-link parameters were removed 2026-05-18; current approved base affiliate URL is active.
+links:
+  - slot: bdi-kit-dripdepot-container-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/drip-irrigation-kit-for-container-gardening
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Faucet-access primary path for balcony container kits (approved 2026-05-14).
+  - slot: bdi-kit-dripdepot-selector-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-kit-selector
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Expansion-friendly build-your-own selector (approved 2026-05-14).
+  - slot: bdi-kit-rainpoint-solar-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: No-faucet solar kit path (approved 2026-05-08).
+  - slot: bdi-kit-rainpoint-small-primary
+    article_slug: best-drip-irrigation-kits-for-balcony-container-gardens
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Smaller uniform pot collection path (approved 2026-05-08).
+  - slot: bdi-solar-vs-faucet-faucet-primary
+    article_slug: solar-vs-faucet-timer-drip-systems-for-patio-plants
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/drip-irrigation-kit-for-container-gardening
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Faucet-access modular path for the solar-vs-faucet comparison article (approved 2026-05-14).
+  - slot: bdi-solar-vs-faucet-solar-primary
+    article_slug: solar-vs-faucet-timer-drip-systems-for-patio-plants
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: No-faucet solar reservoir path for the solar-vs-faucet comparison article (approved 2026-05-08).
+  - slot: bdi-solar-vs-faucet-reservoir-fallback-primary
+    article_slug: solar-vs-faucet-timer-drip-systems-for-patio-plants
+    merchant: RainPoint
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Non-solar no-faucet fallback path for renters whose balcony constraints make faucet access impossible and solar output unreliable (approved 2026-05-08).
+  - slot: bdi-solar-rainpoint-compact-primary
+    article_slug: best-solar-drip-irrigation-kits-for-patios-and-balconies
+    merchant: RainPoint
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Best-overall compact solar reservoir path for the solar buyer guide (approved 2026-05-08).
+  - slot: bdi-solar-rainpoint-smart-primary
+    article_slug: best-solar-drip-irrigation-kits-for-patios-and-balconies
+    merchant: RainPoint
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: Premium smart solar path - RainPoint all-in-one system (approved 2026-05-08).
+  - slot: bdi-solar-shaded-reservoir-primary
+    article_slug: best-solar-drip-irrigation-kits-for-patios-and-balconies
+    merchant: RainPoint
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Non-solar reservoir-fed fallback path for shaded balconies where solar panel output is the wrong hill to die on (approved 2026-05-08).
+  - slot: bdi-nofaucet-rainpoint-solar-primary
+    article_slug: balcony-drip-irrigation-without-a-faucet
+    merchant: RainPoint
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: Main no-faucet smart irrigation path - RainPoint all-in-one system (approved 2026-05-08).
+  - slot: bdi-nofaucet-compact-reservoir-primary
+    article_slug: balcony-drip-irrigation-without-a-faucet
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Compact reservoir-fed kit path for small no-faucet balcony collections (approved 2026-05-08).
+  - slot: bdi-nofaucet-bucketfed-components-primary
+    article_slug: balcony-drip-irrigation-without-a-faucet
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/polyethylene-irrigation-tubing
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Bucket-fed DIY component path for gravity-fed layouts (approved 2026-05-14).
+  - slot: bdi-vacation-faucet-timer-primary
+    article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/bhyve-smart-hose-faucet-timer
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Faucet-access vacation watering path for timer-driven setups (approved 2026-05-14).
+  - slot: bdi-vacation-solar-primary
+    article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
+    merchant: RainPoint
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering
+    affiliate_url: "https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC"
+    notes: No-faucet vacation watering path - RainPoint all-in-one system (approved 2026-05-08).
+  - slot: bdi-vacation-compact-primary
+    article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Compact vacation-watering path for smaller, simpler pot collections (approved 2026-05-08).
+  - slot: bdi-vacation-shaded-reservoir-primary
+    article_slug: vacation-watering-for-container-gardens-using-drip-irrigation
+    merchant: RainPoint
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Non-solar reservoir-fed fallback for trip coverage on shaded no-faucet balconies where solar sounds neat but sun exposure is lying (approved 2026-05-08).
+  - slot: bdi-emitters-adjustable-primary
+    article_slug: how-many-drip-emitters-per-pot-container-size-chart
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/adjustable-dripper
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Adjustable-emitter for variable container sizes (approved 2026-05-14).
+  - slot: bdi-emitters-fixedflow-primary
+    article_slug: how-many-drip-emitters-per-pot-container-size-chart
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Fixed-flow dripper category for uniform pot runs (approved 2026-05-14).
+  - slot: bdi-emitters-filter-primary
+    article_slug: how-many-drip-emitters-per-pot-container-size-chart
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/pressure-regulating-plastic-y-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for emitter-clog prevention (approved 2026-05-14).
+  - slot: bdi-troubleshoot-filter-primary
+    article_slug: why-your-container-drip-system-is-watering-unevenly
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for uneven-watering troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-pressure-primary
+    article_slug: why-your-container-drip-system-is-watering-unevenly
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-pressure-regulators
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Pressure-control for uneven-watering problems (approved 2026-05-14).
+  - slot: bdi-troubleshoot-emitters-primary
+    article_slug: why-your-container-drip-system-is-watering-unevenly
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Replacement-emitter for uneven-watering troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-connectors-primary
+    article_slug: why-your-container-drip-system-is-watering-unevenly
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector and tee for layout-related fixes (approved 2026-05-14).
+  - slot: bdi-adjustable-emitters-primary
+    article_slug: adjustable-emitters-vs-button-drippers-for-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/adjustable-dripper
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Adjustable-emitter for mixed-container tuning (approved 2026-05-14).
+  - slot: bdi-button-drippers-primary
+    article_slug: adjustable-emitters-vs-button-drippers-for-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Button-dripper category for repeatable-output runs (approved 2026-05-14).
+  - slot: bdi-emitter-comparison-filter-primary
+    article_slug: adjustable-emitters-vs-button-drippers-for-container-gardens
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/pressure-regulating-plastic-y-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for clog-prone setups (approved 2026-05-14).
+  - slot: bdi-filter-primary
+    article_slug: do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/high-flow-y-filter-three-quarter-inch-ght
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Primary filter for faucet-fed patio drip systems (approved 2026-05-14).
+  - slot: bdi-pressure-reducer-primary
+    article_slug: do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-pressure-regulators
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Pressure-regulator for faucet-fed patio drip systems (approved 2026-05-14).
+  - slot: bdi-filter-pressure-bundle-primary
+    article_slug: do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/pressure-regulating-plastic-y-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Combined filter/regulator one-piece control (approved 2026-05-14).
+  - slot: bdi-clogged-emitters-filter-primary
+    article_slug: how-to-fix-clogged-drip-emitters-in-potted-plants
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for repeated emitter-clog troubleshooting (approved 2026-05-14).
+  - slot: bdi-clogged-emitters-replacement-primary
+    article_slug: how-to-fix-clogged-drip-emitters-in-potted-plants
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Replacement-emitter for clogged-emitter troubleshooting (approved 2026-05-14).
+  - slot: bdi-clogged-emitters-connectors-primary
+    article_slug: how-to-fix-clogged-drip-emitters-in-potted-plants
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector for coupler/feed-line fitting issues (approved 2026-05-14).
+  - slot: bdi-baskets-emitters-primary
+    article_slug: best-drip-setup-for-hanging-baskets-and-rail-planters
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/adjustable-dripper
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Adjustable-emitter for basket layouts (approved 2026-05-14).
+  - slot: bdi-baskets-stakes-primary
+    article_slug: best-drip-setup-for-hanging-baskets-and-rail-planters
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/adjustable-dripper-on-6-inch-stake
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Staked-emitter for stabilizing watering points (approved 2026-05-14).
+  - slot: bdi-rail-planter-drippers-primary
+    article_slug: best-drip-setup-for-hanging-baskets-and-rail-planters
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Rail-planter dripper for multi-point setups (approved 2026-05-14).
+  - slot: bdi-rail-planter-connectors-primary
+    article_slug: best-drip-setup-for-hanging-baskets-and-rail-planters
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector for basket/rail-planter layouts (approved 2026-05-14).
+  - slot: bdi-maintenance-emitters-primary
+    article_slug: container-drip-irrigation-maintenance-checklist-for-summer
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Maintenance emitter for weak/clogged drippers (approved 2026-05-14).
+  - slot: bdi-maintenance-filter-primary
+    article_slug: container-drip-irrigation-maintenance-checklist-for-summer
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for summer maintenance (approved 2026-05-14).
+  - slot: bdi-maintenance-connectors-primary
+    article_slug: container-drip-irrigation-maintenance-checklist-for-summer
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector for leaks/loose tees (approved 2026-05-14).
+  - slot: bdi-maintenance-reservoir-primary
+    article_slug: container-drip-irrigation-maintenance-checklist-for-summer
+    merchant: RainPoint
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Reservoir-system maintenance for no-faucet setups where water cleanliness and refill habits matter (approved 2026-05-08).
+  - slot: bdi-bucket-vs-solar-reservoir-accessories-primary
+    article_slug: bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/polyethylene-irrigation-tubing
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Bucket-fed DIY components (approved 2026-05-14).
+  - slot: bdi-accessories-emitters-primary
+    article_slug: best-drip-irrigation-accessories-that-actually-help-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Emitter-pack for accessories roundup (approved 2026-05-14).
+  - slot: bdi-accessories-stakes-primary
+    article_slug: best-drip-irrigation-accessories-that-actually-help-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/adjustable-dripper-on-6-inch-stake
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Stakes and holders (approved 2026-05-14).
+  - slot: bdi-accessories-connectors-primary
+    article_slug: best-drip-irrigation-accessories-that-actually-help-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector and goof-plug parts (approved 2026-05-14).
+  - slot: bdi-accessories-filter-primary
+    article_slug: best-drip-irrigation-accessories-that-actually-help-container-gardens
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for clog-prone setups (approved 2026-05-14).
+  - slot: bdi-accessories-timer-primary
+    article_slug: best-drip-irrigation-accessories-that-actually-help-container-gardens
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/bhyve-smart-hose-faucet-timer
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Timer for automation-focused growers (approved 2026-05-14).
+  - slot: bdi-troubleshoot-pressure-reducer-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-pressure-regulators
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Pressure reducer for troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-filter-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/three-quarter-inch-hose-thread-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter for troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-emitters-replacement-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Replacement emitters for troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-tubing-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/polyethylene-irrigation-tubing
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Tubing for troubleshooting (approved 2026-05-14).
+  - slot: bdi-troubleshoot-timer-primary
+    article_slug: why-is-my-drip-system-not-working
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/1-zone-digital-water-timer-w-rain-sensor
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Timer for troubleshooting (approved 2026-05-14).
+  - slot: bdi-expand-connectors-primary
+    article_slug: how-to-expand-a-patio-drip-kit-without-losing-pressure
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/drip-irrigation-fittings-tubing-barbed-couplers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Connector and tee for expansion (approved 2026-05-14).
+  - slot: bdi-expand-tubing-primary
+    article_slug: how-to-expand-a-patio-drip-kit-without-losing-pressure
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/category/polyethylene-irrigation-tubing
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Extra-tubing for expansion (approved 2026-05-14).
+  - slot: bdi-expand-emitters-primary
+    article_slug: how-to-expand-a-patio-drip-kit-without-losing-pressure
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/irrigation-supplies-drippers
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Emitter for added watering points (approved 2026-05-14).
+  - slot: bdi-expand-filter-pressure-primary
+    article_slug: how-to-expand-a-patio-drip-kit-without-losing-pressure
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/pressure-regulating-plastic-y-filter
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Filter and pressure-control for expansion (approved 2026-05-14).
+  - slot: bdi-bucket-vs-solar-solar-kits-primary
+    article_slug: bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners
+    merchant: RainPoint
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Solar-kit for the apartment no-faucet comparison (approved 2026-05-08).
+  - slot: bdi-bucket-vs-solar-reservoir-kits-primary
+    article_slug: bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: Reservoir-fed kit for the apartment no-faucet comparison (approved 2026-05-08).
+  - slot: bdi-smart-timers-primary
+    article_slug: smart-watering-timers-for-balcony-and-patio-container-gardens
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/bhyve-smart-hose-faucet-timer
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Smart hose-timer for faucet-fed automation (approved 2026-05-14).
+  - slot: bdi-smart-timers-budget-primary
+    article_slug: smart-watering-timers-for-balcony-and-patio-container-gardens
+    merchant: Drip Depot
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/1-zone-digital-water-timer-w-rain-sensor
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Simpler programmable timer (approved 2026-05-14).
+  - slot: bdi-smart-timers-backup-basic-primary
+    article_slug: smart-watering-timers-for-balcony-and-patio-container-gardens
+    merchant: Drip Depot
+    role: supporting
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/product/orbit-mechanical-hose-faucet-timer
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Mechanical fallback timer (approved 2026-05-14).

@@ -1,0 +1,35 @@
+{{/* categories.html — illustrated category tiles. */}}
+<section class="section section--tinted">
+  <div class="wrap">
+    <header class="section-header">
+      <div>
+        <span class="kicker">By need</span>
+        <h2 class="section-header__title">What's your situation?</h2>
+      </div>
+      <p class="section-header__subtitle">
+        Most readers come here with a specific problem. Pick the one closest to yours.
+      </p>
+    </header>
+    <div class="cats-grid">
+      {{- range .Site.Params.categories }}
+      {{- $cat := site.GetPage (printf "/categories/%s" .slug) -}}
+      {{- $count := 0 -}}
+      {{- if $cat }}{{ $count = len $cat.RegularPages }}{{ end -}}
+      <a class="cat-card" href="{{ printf "/%s/" .slug | relURL }}">
+        {{ partial (printf "ill/%s" .icon) . }}
+        <div>
+          <div class="cat-card__title">{{ .name }}</div>
+          <div class="cat-card__count">{{ $count }} articles</div>
+        </div>
+        <p class="cat-card__blurb">{{ .blurb }}</p>
+        <span class="cat-card__more">
+          Browse
+          <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 10h12"/><path d="m11.5 5.5 4.5 4.5-4.5 4.5"/>
+          </svg>
+        </span>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>

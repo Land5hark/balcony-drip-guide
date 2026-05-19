@@ -1,0 +1,32 @@
+{{/* start-here.html — 3-step numbered path. Reads from site.Params.start_here. */}}
+{{- with .Site.Params.start_here }}
+<section class="section start-here">
+  <div class="wrap">
+    <header class="section-header">
+      <div>
+        <span class="kicker">New here?</span>
+        <h2 class="section-header__title">Start here.</h2>
+      </div>
+      <p class="section-header__subtitle">
+        Three guides, read in order. About 25 minutes total. By the end you'll have a working system and a parts list.
+      </p>
+    </header>
+    <div class="start-here__grid">
+      {{- range . }}
+      <a class="step-card" href="{{ .url }}">
+        <span class="step-card__time">{{ .time }}</span>
+        <span class="step-card__n">{{ .number }}</span>
+        <h3 class="step-card__title">{{ .title }}</h3>
+        <p class="step-card__blurb">{{ .blurb }}</p>
+        <span class="step-card__more">
+          Read step {{ .number | replaceRE "^0" "" }}
+          <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 10h12"/><path d="m11.5 5.5 4.5 4.5-4.5 4.5"/>
+          </svg>
+        </span>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}

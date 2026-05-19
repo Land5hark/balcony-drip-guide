@@ -1,0 +1,82 @@
+{{/*
+  {{< comparison-table >}}
+  [[rows]]
+  name      = "Raindrip R560DP"
+  url       = "https://amzn.to/..."
+  retailer  = "Amazon"
+  best_for  = "Renters, beginners"
+  emitters  = "20 × 2 GPH"
+  timer     = true
+  price     = "$42"
+  pick      = true
+
+  [[rows]]
+  name      = "DripWorks Renter's Bundle"
+  url       = "https://www.dripworks.com/..."
+  retailer  = "DripWorks"
+  best_for  = "Quality-first buyers"
+  emitters  = "24 × 1 GPH PC"
+  timer     = true
+  price     = "$77"
+  {{< /comparison-table >}}
+
+  Custom columns: pass `columns="name,best_for,timer,price"` to override the default set.
+*/}}
+{{- $data := .Inner | transform.Unmarshal -}}
+{{- $rows := $data.rows -}}
+{{- $columns := split (.Get "columns" | default "name,best_for,emitters,timer,price") "," -}}
+{{- $headings := dict "name" "Product" "best_for" "Best for" "emitters" "Emitters" "timer" "Timer" "price" "Price" -}}
+
+<div class="compare">
+  <table>
+    <thead>
+      <tr>
+        {{- range $columns }}<th>{{ index $headings . | default (humanize .) }}</th>{{ end }}
+        <th class="visually-hidden">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $rows }}
+      {{- $row := . }}
+      <tr>
+        {{- range $columns }}
+        {{- $col := . }}
+        <td>
+          {{- if eq $col "name" -}}
+            <div class="compare__product">
+              <div class="compare__thumb">
+                {{- with $row.image }}<img src="{{ . }}" alt="" loading="lazy">{{ end }}
+              </div>
+              <div>
+                <div class="compare__name">{{ $row.name }}</div>
+                {{- if $row.pick }}<div style="margin-top: 4px;"><span class="pick-badge">Editor's Pick</span></div>{{ end }}
+              </div>
+            </div>
+          {{- else if eq $col "timer" -}}
+            {{- if $row.timer -}}
+              <span class="compare__check" aria-label="Yes">✓</span>
+            {{- else -}}
+              <span class="compare__x" aria-label="No">—</span>
+            {{- end -}}
+          {{- else if eq $col "price" -}}
+            <span class="compare__price">{{ $row.price }}</span>
+          {{- else -}}
+            {{- index $row $col -}}
+          {{- end -}}
+        </td>
+        {{- end }}
+        <td style="text-align: right;">
+          {{- if $row.url }}
+          <a class="compare__link" href="{{ $row.url }}" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+          {{- end }}
+        </td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>

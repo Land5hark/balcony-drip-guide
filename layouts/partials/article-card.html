@@ -1,0 +1,39 @@
+{{/* article-card.html — context: a Page. Variant via dict: "default" | "compact". */}}
+{{- $p := .page | default . -}}
+{{- $variant := .variant | default "default" -}}
+{{- $img := $p.Params.image -}}
+
+{{- if eq $variant "compact" }}
+<a class="acard acard--compact" href="{{ $p.RelPermalink }}">
+  <div class="acard__img">
+    {{- if $img }}<img src="{{ $img }}" alt="{{ $p.Params.image_alt | default $p.Title }}" loading="lazy">{{ end }}
+  </div>
+  <div>
+    {{- with $p.Params.categories }}
+      {{- if gt (len .) 0 }}
+      <span class="kicker">{{ index . 0 | humanize | replace "-" " " | title }}</span>
+      {{- end }}
+    {{- end }}
+    <h3 class="acard__title">{{ $p.Title }}</h3>
+    <div class="acard__meta">{{ $p.ReadingTime }} min · {{ $p.Params.author | default $p.Site.Params.author }}</div>
+  </div>
+</a>
+{{- else }}
+<a class="acard" href="{{ $p.RelPermalink }}">
+  <div class="acard__img">
+    {{- if $img }}<img src="{{ $img }}" alt="{{ $p.Params.image_alt | default $p.Title }}" loading="lazy">{{ end }}
+  </div>
+  {{- with $p.Params.categories }}
+    {{- if gt (len .) 0 }}
+    <span class="kicker">{{ index . 0 | humanize | replace "-" " " | title }}</span>
+    {{- end }}
+  {{- end }}
+  <h3 class="acard__title">{{ $p.Title }}</h3>
+  {{- with ($p.Description | default $p.Summary) }}
+  <p class="acard__dek">{{ . | plainify | truncate 160 }}</p>
+  {{- end }}
+  <div class="acard__meta">
+    {{ $p.ReadingTime }} min read · {{ $p.Params.author | default $p.Site.Params.author }}
+  </div>
+</a>
+{{- end }}
