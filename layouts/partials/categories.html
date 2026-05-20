@@ -12,9 +12,13 @@
     </header>
     <div class="cats-grid">
       {{- range .Site.Params.categories }}
-      {{- $cat := site.GetPage (printf "/categories/%s" .slug) -}}
+      {{- $catSlug := .slug -}}
       {{- $count := 0 -}}
-      {{- if $cat }}{{ $count = len $cat.RegularPages }}{{ end -}}
+      {{- range where site.RegularPages "Section" "posts" -}}
+        {{- if in .Params.categories $catSlug -}}
+          {{- $count = add $count 1 -}}
+        {{- end -}}
+      {{- end -}}
       <a class="cat-card" href="{{ printf "/%s/" .slug | relURL }}">
         {{ partial (printf "ill/%s" .icon) . }}
         <div>
