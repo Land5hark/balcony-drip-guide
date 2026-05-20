@@ -2,7 +2,7 @@ baseURL = "https://balcony-drip-guide.pages.dev"
 languageCode = "en-us"
 title = "The Balcony Drip"
 # theme = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = false
 
 # Pretty URLs / canonicals
