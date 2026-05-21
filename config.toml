@@ -39,26 +39,31 @@ relativeURLs = false
 [[params.categories]]
   slug    = "setup-guides"
   name    = "Setup Guides"
+  count   = 6
   blurb   = "Get a working system in an afternoon, even in a rental with no hose bib."
   icon    = "setup"
 [[params.categories]]
   slug    = "buying-guides"
   name    = "Buying Guides"
+  count   = 19
   blurb   = "Honest, tested gear picks. No kit on this list costs more than $80."
   icon    = "buying"
 [[params.categories]]
   slug    = "troubleshooting"
   name    = "Troubleshooting"
+  count   = 13
   blurb   = "When something's wrong, start here. Pressure, clogs, leaks, dead emitters."
   icon    = "trouble"
 [[params.categories]]
   slug    = "plant-care"
   name    = "Plant Care"
+  count   = 1
   blurb   = "How much water, how often, and what to do when the leaves yellow."
   icon    = "plant"
 [[params.categories]]
   slug    = "winter-prep"
   name    = "Winter Prep"
+  count   = 0
   blurb   = "Draining, storing, and what to leave outside when the freeze comes."
   icon    = "winter"
 
