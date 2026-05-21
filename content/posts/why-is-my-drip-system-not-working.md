@@ -9,7 +9,7 @@ tags = ["balcony", "drip-irrigation", "troubleshooting", "maintenance", "not-wor
 intent = "problem-aware"
 cluster = "troubleshooting"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 affiliate_disclosure = "This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you."
 +++
