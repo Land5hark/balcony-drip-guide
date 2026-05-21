@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>solar-drip on The Balcony Drip</title>
-    <link>https://balcony-drip-guide.pages.dev/tags/solar-drip/</link>
-    <description>Recent content in solar-drip on The Balcony Drip</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 22:19:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://balcony-drip-guide.pages.dev/tags/solar-drip/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Bucket-Fed vs Solar-Pump Drip Systems for Apartment Gardeners</title>
-      <link>https://balcony-drip-guide.pages.dev/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/</link>
-      <pubDate>Sat, 02 May 2026 22:19:00 -0400</pubDate>
-      
-      <guid>https://balcony-drip-guide.pages.dev/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/</guid>
-      <description>Method note: This guide is built for apartment and renter growers who do not have an easy faucet connection and need to choose between two common workaround paths: simple bucket-fed drip setups and solar-pump watering kits.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>solar-drip on The Balcony Drip</title><link>https://balcony-drip-guide.pages.dev/tags/solar-drip/</link><description>Recent content in solar-drip on The Balcony Drip</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 22:19:00 -0400</lastBuildDate><atom:link href="https://balcony-drip-guide.pages.dev/tags/solar-drip/index.xml" rel="self" type="application/rss+xml"/><item><title>Bucket-Fed vs Solar-Pump Drip Systems for Apartment Gardeners</title><link>https://balcony-drip-guide.pages.dev/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/</link><pubDate>Sat, 02 May 2026 22:19:00 -0400</pubDate><guid>https://balcony-drip-guide.pages.dev/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/</guid><description>Method note: This guide is built for apartment and renter growers who do not have an easy faucet connection and need to choose between two common workaround paths: simple bucket-fed drip setups and solar-pump watering kits.
 Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See affiliate disclosure for details.
- If you do not have a faucet on the balcony, the usual drip-irrigation advice gets a lot less helpful.</description>
-    </item>
-    
-  </channel>
-</rss>
+If you do not have a faucet on the balcony, the usual drip-irrigation advice gets a lot less helpful.</description></item></channel></rss>
