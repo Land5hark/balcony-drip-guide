@@ -134,10 +134,10 @@ Start conservative and adjust by 2-minute increments every 3-4 days. Big timer j
 
 ## Related guides
 
-- [Best Hose Timers for Balcony Drip Irrigation](/buying-guides/best-hose-timers-for-balcony-drip-irrigation/) — dual-program models ranked
-- [How Often Should You Water Balcony Plants?](/troubleshooting/how-often-should-you-water-balcony-plants/) — season-by-season frequency guide
-- [Adjustable Emitters vs Button Drippers](/comparisons/adjustable-emitters-vs-button-drippers-for-container-gardens/) — when to switch emitter types
-- [DIY Balcony Watering System for Renters](/buying-guides/diy-balcony-watering-system-for-renters/) — budget gravity-fed setup for no-faucet balconies
+- [Best Hose Timers for Balcony Drip Irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — dual-program models ranked
+- [How Often Should You Water Balcony Plants?](/posts/how-often-should-you-water-balcony-plants/) — season-by-season frequency guide
+- [Adjustable Emitters vs Button Drippers](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — when to switch emitter types
+- [DIY Balcony Watering System for Renters](/posts/diy-balcony-watering-system-for-renters/) — budget gravity-fed setup for no-faucet balconies
 
 ---
 

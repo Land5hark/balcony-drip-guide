@@ -153,7 +153,7 @@ often — a 25 PSI regulator installed in the wrong direction. Walk the
 line from faucet to last emitter and confirm each is correct.
 
 See the dedicated guide,
-[The Pressure Regulator Mistake That Cost Me a Summer](/troubleshooting/regulator-mistake/),
+[Do You Need a Filter and Pressure Reducer for Patio Drip Kits?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/),
 for the full diagnostic.
 
 ## Winterizing your system

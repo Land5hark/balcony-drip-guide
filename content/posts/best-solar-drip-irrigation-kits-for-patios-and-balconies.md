@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: Recommendations below are based on niche fit plus merchant/product details re-checked on 2026-05-06. This is not long-term bench testing.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If you do not have a faucet on the patio or balcony, a solar drip irrigation kit can be one of the cleanest ways to automate watering.
 

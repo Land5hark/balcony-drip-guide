@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for balcony and patio growers whose drip setup already works well enough to matter and now needs to survive summer without turning into a dumb weekly crisis.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 A container drip system that worked fine in mild weather can get stupid fast in summer.
 

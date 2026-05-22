@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for patio and balcony growers who keep hearing that every drip setup needs a filter and pressure reducer but are not sure what problem those parts actually solve.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 Short answer: **usually yes for faucet-fed patio drip kits, and often “it depends” for reservoir-fed systems.**
 

@@ -17,7 +17,7 @@
             <path d="M4 10h12"/><path d="m11.5 5.5 4.5 4.5-4.5 4.5"/>
           </svg>
         </a>
-        <a class="btn btn--ghost" href="{{ "/all/" | relURL }}">
+        <a class="btn btn--ghost" href="{{ "/posts/" | relURL }}">
           All articles · {{ len (where .Site.RegularPages "Section" "in" (slice "setup-guides" "buying-guides" "troubleshooting" "plant-care" "winter-prep")) }}
         </a>
       </div>

@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for apartment and renter growers who do not have an easy faucet connection and need to choose between two common workaround paths: simple bucket-fed drip setups and solar-pump watering kits.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If you do not have a faucet on the balcony, the usual drip-irrigation advice gets a lot less helpful.
 

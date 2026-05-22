@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for small-space growers who already know they want automation, but need help sorting the timer options that actually fit container gardens instead of generic yard-watering setups.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 A smart watering timer sounds like one of those upgrades that should be obviously useful.
 

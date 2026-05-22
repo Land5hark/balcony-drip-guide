@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for the common small-space failure where a drip system is still running, but one or two pots quietly stop getting enough water.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If a potted plant keeps drying out while the rest of the system looks fine, a clogged drip emitter is one of the first things to suspect.
 

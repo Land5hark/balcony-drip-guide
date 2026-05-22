@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: Recommendations below are based on fit for balcony and container setups plus published merchant and product details re-checked on 2026-05-06. This is not long-term bench testing.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 Balcony drip kits are easiest to choose when you start with **your water source**, not the brand name.
 

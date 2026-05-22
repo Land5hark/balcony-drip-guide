@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for growers who started with a small patio or balcony drip kit, then did the predictable thing and added more containers until the system started acting weird.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 A patio drip kit usually works great right up until you get optimistic.
 

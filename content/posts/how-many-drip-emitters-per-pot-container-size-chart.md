@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This is a practical starting guide, not a promise that one chart fits every plant, mix, and climate.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 The honest answer is annoying but useful:
 

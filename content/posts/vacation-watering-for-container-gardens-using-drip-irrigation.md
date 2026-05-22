@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for readers trying to leave container plants unattended for a few days or a week without gambling on wishful thinking.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If you are leaving town for a few days, your container garden does not need a miracle.
 

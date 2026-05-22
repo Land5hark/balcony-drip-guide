@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for high-anxiety troubleshooting intent first. It helps readers diagnose why some pots stay too dry while others get too much water, without pretending the answer is always “buy a whole new kit.”
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If one pot keeps drying out while another gets overwatered, your drip system is not “kind of working.”
 

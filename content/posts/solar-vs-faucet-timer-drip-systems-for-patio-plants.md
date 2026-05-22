@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide compares system categories first, not gadget marketing, and the core merchant/category framing was re-checked against live source pages on 2026-05-05.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If you are automating watering for patio or balcony containers, the first real decision is not the brand.
 

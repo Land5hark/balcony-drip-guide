@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built around the real small-space constraint first: no hose bib, no outdoor spigot, and no appetite for leaks. The core product/category framing was re-checked against live source pages on 2026-05-05.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 If your balcony has **no faucet and no hose connection**, you still have three workable irrigation paths.
 

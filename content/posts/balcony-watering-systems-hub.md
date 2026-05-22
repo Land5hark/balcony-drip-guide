@@ -1,7 +1,7 @@
 +++
 title = "Balcony Watering Systems: A Complete Guide for Container Gardens"
 date = 2026-05-12T06:15:00-04:00
-draft = false
+draft = true
 description = "The complete hub for balcony and patio container watering systems. Find the right setup for your space, budget, and constraints."
 slug = "balcony-watering-systems"
 categories = ["buying-guides"]

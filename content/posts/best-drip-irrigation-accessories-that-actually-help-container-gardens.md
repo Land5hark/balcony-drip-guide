@@ -15,7 +15,7 @@ show_disclosure = true
 
 > Method note: This guide is built for balcony and patio growers who already understand the basic drip-kit idea and want to know which add-ons fix real problems instead of just inflating the cart.
 >
-> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/affiliate-disclosure/) for details.
+> Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you. See [affiliate disclosure](/disclosure/) for details.
 
 Most drip-irrigation accessory lists are padded nonsense.
 
