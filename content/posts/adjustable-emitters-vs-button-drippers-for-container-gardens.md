@@ -264,7 +264,7 @@ Natural product-fit categories include:
 - button drippers
 - filter support for clog-prone emitter setups
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-adjustable-emitters-primary`
 - `bdi-button-drippers-primary`
 - `bdi-emitter-comparison-filter-primary`

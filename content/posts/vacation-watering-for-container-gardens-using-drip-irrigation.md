@@ -327,7 +327,7 @@ Natural product-fit categories include:
 - solar reservoir-fed vacation watering kits
 - compact reservoir-fed potted-plant kits for shorter trips
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-vacation-faucet-timer-primary`
 - `bdi-vacation-solar-primary`
 - `bdi-vacation-compact-primary`

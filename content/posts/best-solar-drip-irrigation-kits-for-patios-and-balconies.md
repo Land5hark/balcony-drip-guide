@@ -194,17 +194,11 @@ Natural product-fit categories include:
 - premium smart solar watering kits
 - non-solar reservoir-fed fallback kits for shaded setups
 
-**Governed destination placeholders:**
-- `bdi-solar-rainpoint-compact-primary`
-- `bdi-solar-rainpoint-smart-primary`
-- `bdi-solar-shaded-reservoir-primary`
+**Active affiliate paths:**
+- RainPoint compact solar drip kit path
+- RainPoint smart solar watering kit path
+- RainPoint non-solar reservoir fallback path
 
 ## Publication note
 
-This page is live in non-monetized form.
-
-Before affiliate links are added, complete all of the following:
-
-- owner affiliate account approval and payout/tax setup
-- governed affiliate URL insertion after program approval
-- one final spot check on current product naming, availability, and pricing
+This page is live with governed affiliate links (RainPoint approved 2026-05-08).

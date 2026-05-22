@@ -264,7 +264,7 @@ Natural product-fit categories include:
 - compact reservoir-fed potted-plant kits
 - component selectors for bucket-fed DIY no-faucet setups
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-nofaucet-rainpoint-solar-primary`
 - `bdi-nofaucet-compact-reservoir-primary`
 - `bdi-nofaucet-bucketfed-components-primary`

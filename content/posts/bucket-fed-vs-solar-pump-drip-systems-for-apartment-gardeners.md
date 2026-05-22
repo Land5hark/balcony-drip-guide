@@ -234,7 +234,7 @@ Natural product-fit categories include:
 - compact reservoir-fed watering kits for simpler no-faucet setups
 - bucket-fed DIY component or reservoir-accessory paths for low-cost builds
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-bucket-vs-solar-solar-kits-primary`
 - `bdi-bucket-vs-solar-reservoir-kits-primary`
 - `bdi-bucket-vs-solar-reservoir-accessories-primary`

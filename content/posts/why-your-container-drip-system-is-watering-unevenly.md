@@ -254,7 +254,7 @@ Natural product-fit categories include:
 - pressure-control parts for faucet-fed setups
 - connectors and tees for layout cleanup
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-troubleshoot-filter-primary`
 - `bdi-troubleshoot-pressure-primary`
 - `bdi-troubleshoot-emitters-primary`

@@ -228,7 +228,7 @@ Natural product-fit categories include:
 - inline filters for recurring debris or sediment problems
 - connector and short-line repair parts when the emitter is not the only culprit
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-clogged-emitters-filter-primary`
 - `bdi-clogged-emitters-replacement-primary`
 - `bdi-clogged-emitters-connectors-primary`

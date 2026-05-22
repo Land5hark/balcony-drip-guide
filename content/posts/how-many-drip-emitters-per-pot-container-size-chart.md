@@ -248,7 +248,7 @@ Natural product-fit categories include:
 - fixed-flow drippers for simpler uniform pot runs
 - filter add-ons when repeated clogging distorts emitter-count decisions
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-emitters-adjustable-primary`
 - `bdi-emitters-fixedflow-primary`
 - `bdi-emitters-filter-primary`

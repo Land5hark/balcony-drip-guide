@@ -222,7 +222,7 @@ When setting up drip for these awkward formats, these parts from Drip Depot help
 - **[Rail-planter drippers](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546)** — for multi-point coverage across long planters
 - **[Connectors and tees](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546)** — for clean branch layouts that do not kink or leak
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-baskets-emitters-primary`
 - `bdi-baskets-stakes-primary`
 - `bdi-rail-planter-drippers-primary`

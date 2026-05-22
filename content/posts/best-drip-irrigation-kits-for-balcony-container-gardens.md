@@ -241,18 +241,12 @@ Natural product-fit categories include:
 - solar reservoir-fed balcony kits
 - compact reservoir-fed potted-plant kits
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - [Drip Depot Container Garden Kit](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546) — Start here for a pre-sized kit
 - [Drip Depot Build Your Own Kit Selector](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546) — Custom sizing for expanding setups
-- `bdi-kit-rainpoint-solar-primary`
-- `bdi-kit-rainpoint-small-primary`
+- RainPoint solar reservoir-fed kit path
+- RainPoint compact reservoir-fed plant waterer path
 
 ## Publication note
 
-This page is live in non-monetized form.
-
-Before affiliate links are added, complete all of the following:
-
-- owner affiliate account approval and payout/tax setup
-- governed affiliate URL insertion after program approval
-- one more quick re-check on current product naming and availability immediately before affiliate URLs are inserted
+This page is live with governed affiliate links (RainPoint approved 2026-05-08; Drip Depot approved 2026-05-14).

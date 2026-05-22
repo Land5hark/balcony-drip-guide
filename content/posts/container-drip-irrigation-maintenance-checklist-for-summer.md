@@ -245,7 +245,7 @@ Natural product-fit categories include:
 - tubing stakes/clips
 - reservoir accessories
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-maintenance-emitters-primary`
 - `bdi-maintenance-filter-primary`
 - `bdi-maintenance-connectors-primary`

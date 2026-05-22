@@ -257,7 +257,7 @@ Natural product-fit categories include:
 - pressure reducers or regulators for household-water patio kits
 - combined filter / pressure-control upgrade paths for expansion-prone systems
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-filter-primary`
 - `bdi-pressure-reducer-primary`
 - `bdi-filter-pressure-bundle-primary`

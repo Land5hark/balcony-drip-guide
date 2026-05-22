@@ -264,7 +264,7 @@ Natural product-fit categories include:
 - timer-related connectors/accessories
 - backup basic timers as a simpler alternative path
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-smart-timers-primary`
 - `bdi-smart-timers-budget-primary`
 - `bdi-smart-timers-backup-basic-primary`

@@ -243,7 +243,7 @@ When expanding a patio drip kit, these parts map directly to common needs:
 - **[Emitter packs](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546)** — for adding watering points instead of stretching one emitter too far
 - **[Filter/pressure accessories](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546)** — when expansion reveals debris or pressure issues
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-expand-connectors-primary`
 - `bdi-expand-tubing-primary`
 - `bdi-expand-emitters-primary`

@@ -252,7 +252,7 @@ Natural product-fit categories include:
 - filters
 - timers or automation accessories
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-accessories-emitters-primary`
 - `bdi-accessories-stakes-primary`
 - `bdi-accessories-connectors-primary`

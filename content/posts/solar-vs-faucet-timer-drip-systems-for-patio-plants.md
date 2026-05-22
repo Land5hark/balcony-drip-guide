@@ -326,7 +326,7 @@ Natural product-fit categories include:
 - solar reservoir-fed drip kits for balconies or patios without a faucet
 - renter-friendly no-faucet fallback setups that keep the comparison grounded in actual space constraints
 
-**Governed destination placeholders:**
+**Active affiliate paths:**
 - `bdi-solar-vs-faucet-faucet-primary`
 - `bdi-solar-vs-faucet-solar-primary`
 - `bdi-solar-vs-faucet-reservoir-fallback-primary`
