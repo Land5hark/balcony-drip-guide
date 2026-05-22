@@ -1102,3 +1102,19 @@ p { margin: 0; text-wrap: pretty; }
   width: 1px; height: 1px; overflow: hidden;
   clip: rect(0 0 0 0); white-space: nowrap;
 }
+
+/* Build fingerprint - deployment verification */
+.build-fingerprint {
+  margin-top: 8px;
+  color: var(--c-text-3, #8a9a9a);
+  font-size: 0.72rem;
+  font-family: var(--font-mono, 'IBM Plex Mono', monospace);
+  text-align: center;
+}
+.build-fingerprint code {
+  color: inherit;
+  background: var(--c-surface-2, #f0f4f4);
+  padding: 0.1rem 0.3rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+}
