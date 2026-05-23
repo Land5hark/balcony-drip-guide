@@ -1,5 +1,16 @@
 name: Deploy to Cloudflare Pages
 
+# ⚠️ OWNER ACTION REQUIRED:
+# This workflow needs a Cloudflare API token to deploy.
+# 1. Go to https://dash.cloudflare.com/profile/api-tokens
+# 2. Create a token with these permissions:
+#    - Zone:Read (for your domain zone)
+#    - Cloudflare Pages:Edit (for the balcony-drip-guide project)
+# 3. Go to GitHub repo → Settings → Secrets → Actions
+# 4. Add repository secret named: CLOUDFLARE_API_TOKEN
+# Without this secret, the deploy step will fail with:
+# "In a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN"
+
 on:
   push:
     branches:
