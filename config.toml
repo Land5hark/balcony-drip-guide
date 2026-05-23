@@ -72,19 +72,19 @@ relativeURLs = false
   title  = "Do you actually need drip?"
   blurb  = "A four-question test. If you water more than once a week, the answer is probably yes."
   time   = "4 min read"
-  url    = "/setup-guides/do-you-need-drip/"
+  url    = "/posts/balcony-watering-systems-complete-guide/"
 [[params.start_here]]
   number = "02"
   title  = "The cheapest viable kit"
   blurb  = "What $42 buys you and what it doesn't. Skip the $200 starter kits and the $15 'complete' ones."
   time   = "7 min read"
-  url    = "/buying-guides/cheapest-viable-kit/"
+  url    = "/posts/how-much-does-a-basic-balcony-watering-system-cost/"
 [[params.start_here]]
   number = "03"
   title  = "Your first 30 minutes"
   blurb  = "Faucet to first drop. The install order matters more than the parts."
   time   = "12 min read"
-  url    = "/setup-guides/self-watering-balcony-drip-system/"
+  url    = "/setup-guides/how-to-build-a-self-watering-balcony-drip-system-in-an-afternoon/"
 
 # Build outputs
 [outputs]
