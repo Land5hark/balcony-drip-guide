@@ -17,6 +17,32 @@ Apartment balconies come with unique constraints: limited space, no permanent in
 
 Here are the top drip kit picks specifically for apartment balconies, organized by your water source situation.
 
+## Apartment constraints to check first
+
+Do this before buying anything. Apartment balconies punish sloppy assumptions harder than yards do, because there is less space, less drainage margin, and usually a neighbor directly below the mistake.
+
+| Constraint | Why it matters | What to choose |
+|---|---|---|
+| **No outdoor faucet** | Hose-end kits will not work without water pressure | Reservoir pump kit or gravity bucket |
+| **Renter rules / landlord limits** | Permanent mounts, drilling, and plumbing changes can become deposit problems | Removable clips, stakes, bucket systems, portable timers |
+| **Tiny storage footprint** | Buckets, tubing coils, and unused kit parts need somewhere to live | Compact pump kit, 1/4-inch tubing, fewer oversized mainline parts |
+| **Noise sensitivity** | Pumps can annoy you or the unit next door if they run loudly | Quiet battery/USB pump or silent gravity setup |
+| **Shared drainage risk** | Overwatering can drip onto lower balconies | Short cycles, saucers, lower-flow emitters, test runs while home |
+
+If you only have 3-5 pots, keep the system small. A giant "expandable" kit looks like value until half the parts live in a closet and the tubing layout looks like a bad science fair project.
+
+## Match the kit to your balcony size
+
+| Balcony garden size | Best setup | Why |
+|---|---|---|
+| **3-5 pots** | Compact faucet kit or small RainPoint-style pump kit | Less tubing, fewer leak points, quick setup |
+| **6-10 pots** | Drip Depot container kit if you have a faucet; RainPoint pump kit if you do not | Enough emitters without overbuilding |
+| **10-20 pots** | Expandable Drip Depot-style kit or larger reservoir-fed pump setup | More consistent flow and easier future expansion |
+| **Railing planters / hanging baskets** | Adjustable emitters with clips and short branches | Easier to balance flow across awkward vertical layouts |
+| **Mixed herbs and vegetables** | Adjustable emitters or split zones by plant demand | Basil, mint, tomatoes, and peppers do not all want the same water |
+
+For mixed collections, buy flexibility before automation. Adjustable emitters and easy-to-move tubing solve more apartment problems than a fancier timer.
+
 ## Best for apartments with faucet access
 
 ### [Drip Depot Container Gardening Kit](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546) (Standard)
@@ -170,6 +196,12 @@ Build the DIY Bucket Gravity System. It requires more effort but costs under $30
 
 **If you plan to expand:**
 Invest in the Drip Depot Deluxe Kit. It costs more upfront ($53.38) but waters up to 30 containers and grows with your garden.
+
+**If your balcony is mostly railing planters or hanging baskets:**
+Prioritize adjustable emitters, tubing clips, and secure routing over kit size. Vertical layouts need control at each container because the top basket, rail planter, and floor pot will dry at different rates.
+
+**If you grow herbs and vegetables together:**
+Use adjustable emitters or separate short runs so thirsty plants like tomatoes do not force basil, rosemary, or mint onto the wrong schedule.
 
 ---
 

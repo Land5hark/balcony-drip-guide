@@ -17,6 +17,20 @@ Balcony gardeners waste enormous amounts of water and stunt plant growth by usin
 
 Here is how to determine exactly how much water your balcony plants need, adjusted for your specific conditions.
 
+## Quick water ranges by container size
+
+Use these ranges when you need a fast starting point before doing the full calculation. They assume outdoor balcony containers with drainage holes and normal potting mix.
+
+| Container size | Cool / partly shaded balcony | Warm sun exposure | Hot south/west exposure |
+|---|---:|---:|---:|
+| **6-inch pot** | 0.1-0.2 gal/day | 0.2-0.3 gal/day | 0.3-0.5 gal/day |
+| **8-inch pot** | 0.2-0.3 gal/day | 0.3-0.5 gal/day | 0.5-0.75 gal/day |
+| **10-12 inch pot** | 0.3-0.5 gal/day | 0.5-0.9 gal/day | 0.9-1.3 gal/day |
+| **14-16 inch pot** | 0.5-0.8 gal/day | 0.8-1.4 gal/day | 1.4-2.0 gal/day |
+| **24-inch window box** | 0.5-0.9 gal/day | 0.9-1.5 gal/day | 1.5-2.2 gal/day |
+
+These are not commandments from the balcony gods. They are first-pass estimates. Wind, black plastic pots, crowded roots, and fruiting plants can push demand higher. Heavy shade, cool weather, self-watering reservoirs, and drought-tolerant herbs can push it lower.
+
 ## The basic formula
 
 **Water needed = Container surface area × Evaporation rate × Plant multiplier**
@@ -83,6 +97,43 @@ Different plants use water at different rates:
 - Established woody perennials
 - Drought-tolerant natives
 
+## Plant-specific notes
+
+### Tomatoes
+
+Balcony tomatoes are usually the thirstiest common container plant. A mature tomato in a 12- to 16-inch pot can need close to a gallon per day in ordinary summer weather and more during heat waves. Inconsistent watering also contributes to splitting and blossom-end rot symptoms, so tomatoes do better with steady drip cycles than occasional heroic soaking.
+
+If the plant wilts every afternoon but recovers by evening, increase slowly. If it wilts in the morning, the system is behind.
+
+Useful next steps:
+
+- [Best drip irrigation setup for balcony tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/)
+- [How to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/)
+
+### Peppers
+
+Peppers use less water than tomatoes but still dislike wild swings. They can tolerate slightly drier soil between watering cycles, especially in larger pots, but drought stress during flowering and fruiting reduces yield.
+
+Start peppers near the medium multiplier, then increase during fruit set or heat waves. If leaves look dull, curled, or stressed before midday, check soil moisture before blaming fertilizer.
+
+### Basil, mint, and soft herbs
+
+Basil and mint are medium-to-high users in hot weather because soft leafy growth transpires quickly. Small herb pots are the trap: the plant may not be huge, but the soil volume dries out fast.
+
+Rosemary, thyme, oregano, sage, and lavender belong in a lower-water group. Do not put them on the same emitter schedule as basil unless you use adjustable emitters and check soil moisture separately.
+
+Useful next step:
+
+- [Drip irrigation for balcony herb gardens](/posts/drip-irrigation-for-balcony-herb-gardens/)
+
+### Hanging baskets and rail planters
+
+Hanging baskets and rail planters dry faster than floor pots because wind hits more of the container and the soil volume is usually shallow. Treat them like one size smaller than they look. A rail planter that appears generous can behave like several small pots in a row.
+
+Useful next step:
+
+- [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/)
+
 ## Step 4: Calculate total daily water needed
 
 **Formula:** (Surface area in sq ft × Evaporation rate in inches × Plant multiplier) ÷ 12 = gallons needed
@@ -121,6 +172,18 @@ Once you know gallons needed, calculate run time based on your emitter output:
 - Run time: (1.2 ÷ 2) × 60 = 36 minutes daily
 
 In summer heat, split this into two 18-minute sessions (morning and evening) rather than one long run that might cause runoff.
+
+## Adjust your drip system from the numbers
+
+Once you have a daily water target, adjust the system with emitter count, emitter flow, or schedule frequency. Do not change all three at once unless the current setup is clearly failing.
+
+| Problem | First adjustment | Guide |
+|---|---|---|
+| Soil is dry before noon | Add a second short cycle or increase runtime by 20-30% | [How often should you water balcony plants?](/posts/how-often-should-you-water-balcony-plants/) |
+| One pot floods while another stays dry | Balance emitter count and tubing layout | [How many drip emitters per pot](/posts/how-many-drip-emitters-per-pot-container-size-chart/) |
+| Leaves yellow and soil stays wet | Reduce runtime or split plants by water need | [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/) |
+| Heat wave arrives | Split watering into morning and evening cycles | [Hot weather drip adjustments](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) |
+| Flow looks weak or uneven | Check clogs, pressure, kinks, and elevation | [Why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) |
 
 ## Adjusting for weather changes
 
