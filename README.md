@@ -247,3 +247,4 @@ Three things drive the homepage; all live in `config.toml`:
 4. Run Lighthouse. Tune `image` formats (WebP / AVIF) if needed — the templates already emit `<img loading="lazy">`.
 
 Open issues to me in the same thread.
+# Deployment trigger
