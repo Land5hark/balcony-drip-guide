@@ -17,6 +17,21 @@ Apartment balconies come with unique constraints: limited space, no permanent in
 
 Here are the top drip kit picks specifically for apartment balconies, organized by your water source situation.
 
+## Quick picks
+
+If you already know your constraint, start here.
+
+| Apartment situation | Best kit path | Why it fits |
+|---|---|---|
+| Outdoor faucet on balcony | Drip Depot Container Gardening Kit | Uses pressure, includes filter/anti-siphon parts, no reservoir refills |
+| No faucet access | RainPoint Automatic Watering System | Pump/reservoir setup works without plumbing |
+| Strict lease or visible-balcony rules | Compact reservoir kit or tidy DIY bucket | Fully removable and easy to hide behind containers |
+| Tiny herb balcony | Claber-style compact kit or small pump kit | Avoids oversized tubing and unused parts |
+| 10+ containers | Expandable Drip Depot setup or larger pump reservoir | Enough emitters and tubing for growth |
+| Upstairs balcony over neighbors | Low-flow drip with saucers and short test cycles | Reduces runoff and complaint risk |
+
+The biggest buying mistake is choosing by plant count alone. Apartment balconies also need a water source plan, runoff control, and removable routing. A 30-plant kit can still be the wrong kit if you have nowhere to attach it or refill it.
+
 ## Apartment constraints to check first
 
 Do this before buying anything. Apartment balconies punish sloppy assumptions harder than yards do, because there is less space, less drainage margin, and usually a neighbor directly below the mistake.
@@ -31,6 +46,8 @@ Do this before buying anything. Apartment balconies punish sloppy assumptions ha
 
 If you only have 3-5 pots, keep the system small. A giant "expandable" kit looks like value until half the parts live in a closet and the tubing layout looks like a bad science fair project.
 
+Also check whether the faucet, if you have one, is actually yours to use. Some apartment balconies have hose bibs controlled by building rules, seasonal shutoffs, or shared plumbing. If access is uncertain, choose a system that can fall back to a reservoir.
+
 ## Match the kit to your balcony size
 
 | Balcony garden size | Best setup | Why |
@@ -42,6 +59,17 @@ If you only have 3-5 pots, keep the system small. A giant "expandable" kit looks
 | **Mixed herbs and vegetables** | Adjustable emitters or split zones by plant demand | Basil, mint, tomatoes, and peppers do not all want the same water |
 
 For mixed collections, buy flexibility before automation. Adjustable emitters and easy-to-move tubing solve more apartment problems than a fancier timer.
+
+## Decision tree: faucet, reservoir, or gravity?
+
+Use the water source first, then narrow by budget.
+
+1. **You have a usable outdoor faucet.** Choose a faucet-fed kit with a filter, pressure reducer, and timer compatibility. This is the cleanest path for 6+ containers.
+2. **You do not have a faucet, but you want automation.** Choose a pump/reservoir kit. Expect to provide and refill the water container.
+3. **You do not have a faucet and want cheapest possible.** Choose a gravity bucket system. It is quiet and cheap, but refill discipline is on you.
+4. **You only have a few small pots.** A compact kit or bottle-style DIY system may be enough. Do not overbuild a three-pot herb balcony.
+
+For no-faucet balconies, read the dedicated [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) guide before buying a hose-end kit. Hose-end kits are great when they have pressure. Without pressure, they become expensive tubing confetti.
 
 ## Best for apartments with faucet access
 
@@ -66,6 +94,8 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 **Limitations:** Requires faucet access. If your apartment balcony lacks a spigot, skip to the no-faucet section below.
 
 **Price:** ~$30
+
+**Apartment setup note:** Add a hose timer only after you confirm the faucet connection does not leak and the pressure is regulated. Faucet-fed systems can be extremely reliable, but one bad thread seal on an upper-floor balcony is not a cute little whoopsie.
 
 ---
 
@@ -92,6 +122,8 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 **Limitations:** Requires user-supplied container/reservoir (bucket not included). Supports up to 10 plants.
 
 **Price:** ~$40
+
+**Apartment setup note:** Use an opaque container with a lid when possible. Clear storage bins and open buckets grow algae faster in sunny windows and balconies. For reservoir hygiene, pair this setup with the guide to [preventing algae in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/).
 
 ---
 
@@ -121,6 +153,8 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 
 **Limitations:** Requires manual bucket filling. No automation without adding a timer.
 
+**Apartment setup note:** Gravity systems need height. If the bucket sits on the same floor as the pots, flow may be weak or uneven. Put the bucket on a stable stand, not a wobbly stack of whatever was nearby. Engineering by junk pile is funny exactly once.
+
 ---
 
 ## Best for small balcony footprints
@@ -142,6 +176,8 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 **Best for:** Tiny balconies, 2-4 herb pots, first-time drip users who want simplicity.
 
 **Limitations:** Too small for collections over 4 containers. Expandable but requires additional parts.
+
+**Apartment setup note:** Compact kits are good when the garden is truly compact. They are bad when you are already planning tomatoes, railing planters, and hanging baskets. Buy for the garden you actually have this month, not the imaginary jungle your shopping cart is trying to manifest.
 
 ---
 
@@ -166,6 +202,8 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 
 **Limitations:** Larger initial investment. More complex than all-in-one kits.
 
+**Apartment setup note:** Larger kits need cleaner routing. Before buying, sketch where mainline tubing will sit, where branch lines enter pots, and where excess tubing will be hidden. If the plan only works by crossing the walking path, it is not an apartment plan yet.
+
 ---
 
 ## Apartment balcony drip kit comparison table
@@ -180,6 +218,24 @@ For mixed collections, buy flexibility before automation. Adjustable emitters an
 | **Setup time** | 20-30 min | 15 min | 30 min | 10 min | 30-45 min |
 | **Expandable** | Yes | Limited | Yes | Limited | Yes |
 | **Price** | $29.68 | $39.99 | ~$25-35 | ~$25-40 | $53.38 |
+
+---
+
+## What apartment kits must include
+
+Do not judge a kit by the product photo. Check the parts list.
+
+| Part | Faucet kit | Reservoir / pump kit | Why it matters |
+|---|---|---|---|
+| Filter | Required | Strongly recommended | Protects tiny emitters from grit and algae debris |
+| Pressure reducer | Required | Usually not needed | Keeps faucet pressure from blowing fittings apart |
+| Anti-siphon / vacuum breaker | Useful or required by local practice | Not relevant for most bucket systems | Helps prevent backflow on faucet connections |
+| Adjustable emitters | Nice to have | Very useful | Lets one system serve different pot sizes |
+| End caps / flush points | Required | Useful | Makes cleaning possible without rebuilding |
+| Goof plugs | Useful | Useful | Fixes accidental holes and layout changes |
+| Timer | Optional upgrade | Core feature for automation | Automates schedule, but does not replace testing |
+
+If a kit lacks a filter, pressure control for faucet use, or enough emitters for your actual pot count, budget for those parts immediately. Cheap kits become less cheap once you buy the missing boring stuff. The boring stuff is what keeps plants alive.
 
 ---
 
@@ -203,6 +259,9 @@ Prioritize adjustable emitters, tubing clips, and secure routing over kit size. 
 **If you grow herbs and vegetables together:**
 Use adjustable emitters or separate short runs so thirsty plants like tomatoes do not force basil, rosemary, or mint onto the wrong schedule.
 
+**If you are leaving town:**
+Choose automation plus reservoir capacity, not just automation. A timer attached to a tiny reservoir is just a scheduled disappointment. Use the [vacation watering guide for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) to size the system before trusting it.
+
 ---
 
 ## Installation tips for renters
@@ -222,6 +281,22 @@ Use adjustable emitters or separate short runs so thirsty plants like tomatoes d
 - Always use the included pressure regulator
 - Check connections before leaving for trips
 - Place saucers under containers as backup
+- Run the system while home for several cycles before trusting it
+- Put the first test cycle on a day when you can inspect the balcony below if relevant
+
+## Apartment-specific red flags
+
+Walk away from a kit or plan if it depends on:
+
+- drilling into railings, walls, exterior trim, or balcony flooring
+- misting or spraying near balcony edges
+- leaving an open bucket where insects, leaves, or pets can get into it
+- tubing stretched across the walking path
+- one emitter type for wildly different plants
+- a tiny reservoir for a hot exposed balcony
+- a timer schedule you have not tested while home
+
+The kit can be good and still be wrong for the apartment. That distinction saves deposits, plants, and awkward emails from building management.
 
 ---
 
@@ -233,6 +308,24 @@ Use adjustable emitters or separate short runs so thirsty plants like tomatoes d
 - **High-pressure sprayers:** Create overspray that hits neighbors
 - **Loud pumps:** Battery and solar pumps should run silently
 - **Permanent timers:** Use battery or hose timers you can remove
+- **Kits without filters:** Apartment water and reservoir debris still clog emitters
+- **Tiny reservoirs marketed for long vacations:** Check capacity against actual plant demand
+
+---
+
+## First-week setup plan
+
+Do not install it once and immediately trust it. Use the first week to tune the system.
+
+| Day | What to do | What success looks like |
+|---|---|---|
+| Day 1 | Dry-fit tubing before cutting | Every pot can be reached without crossing foot traffic |
+| Day 2 | Run a short test cycle | No leaks, no overspray, no saucer overflow |
+| Day 3 | Check soil moisture | Wet root zones, not just damp pot edges |
+| Day 4-5 | Adjust emitters individually | Thirsty plants get more without drowning herbs |
+| Day 6-7 | Confirm reservoir/faucet reliability | Water source lasts through the real schedule |
+
+For hot balconies, repeat the test during warm weather. A kit that behaves nicely on a cloudy spring day may be underpowered in July. The hot-weather adjustment guide explains how to [tune balcony drip irrigation during heat](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/).
 
 ---
 
@@ -252,3 +345,5 @@ Your apartment garden can thrive with the right drip system—no landlord approv
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
 - [How to set up a gravity-fed watering system](/posts/how-to-set-up-a-gravity-fed-watering-system/)
 - [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/)
+- [How much water do balcony plants really need?](/posts/how-much-water-do-balcony-plants-really-need/)
+- [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/)

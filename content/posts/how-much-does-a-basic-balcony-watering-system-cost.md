@@ -31,6 +31,29 @@ Most first-time buyers underestimate costs by focusing only on the kit price. Th
 
 ---
 
+## Choose your budget by balcony situation
+
+| Your situation | Sensible budget | Why |
+|---|---:|---|
+| **3-5 herb pots near a faucet** | $35-70 | A small faucet kit or simple timer setup is enough |
+| **6-10 mixed containers near a faucet** | $60-110 | You need better tubing, a pressure reducer, filter, and spare fittings |
+| **No faucet access** | $80-160 | Reservoir, pump, timer, and power options add cost fast |
+| **Frequent travel** | $90-180 | Reliability matters more than lowest kit price |
+| **Hot south/west exposure** | $75-150 | Extra tubing, emitters, and reservoir capacity reduce heat-wave failures |
+| **20+ containers or mixed plant zones** | $145-250 | Multi-zone control and expansion parts become worth it |
+
+If you are not sure where to start, budget for the smallest system that covers your current plants plus 20-30% spare tubing and fittings. Buying a 30-plant system for eight pots usually wastes money; buying an eight-pot system for twelve pots usually wastes Saturday afternoon. Beautifully dumb tradeoff, that one.
+
+## Cost by balcony size
+
+| Balcony garden size | Typical parts | Realistic total |
+|---|---|---:|
+| **3-5 pots** | Compact kit, short tubing run, 4-8 emitters, optional timer | $35-75 |
+| **6-10 pots** | Container kit, pressure regulator, filter, timer, extra tees | $60-120 |
+| **10-20 pots** | Expandable kit, better stakes, extra tubing, more emitters | $90-170 |
+| **Railing planters / hanging baskets** | Adjustable emitters, tubing clips, extra elbows, leak testing supplies | $60-140 |
+| **Mixed herbs and vegetables** | Adjustable emitters or separate short zones | $80-180 |
+
 ## Budget Tier: $35-70 (5-10 Plants)
 
 **Best for:** renters testing drip irrigation, small herb gardens, summer-only setups
@@ -147,15 +170,42 @@ Your balcony's plumbing situation dramatically affects pricing:
 - **Required extras**: Backflow preventer ($8-15), pressure regulator ($10-18)
 - **Total entry cost**: $55-185
 
+Best fit:
+
+- [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
+- [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/)
+
 ### No Faucet / Reservoir Systems
 - **Kit cost**: $50-180 (solar pump + reservoir)
 - **Required extras**: Food-safe container ($15-30), backup battery ($15-25)
 - **Total entry cost**: $80-235
 
+Best fit:
+
+- [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
+- [Best drip irrigation kits for apartment balconies](/posts/best-drip-irrigation-kits-for-apartment-balconies/)
+
 ### Gravity-Fed (Bucket Systems)
 - **Kit cost**: $25-60 (tubing + emitters only)
 - **Required extras**: Elevated stand or shelf ($0-50), manual timer discipline (free)
 - **Total entry cost**: $25-110 (cheapest but least automated)
+
+Best fit:
+
+- [How to set up a gravity-fed watering system](/posts/how-to-set-up-a-gravity-fed-watering-system/)
+- [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/)
+
+## Where the cheap kits usually fail
+
+Cheap kits can work, but the failures are predictable:
+
+- **Too few useful emitters:** a kit may advertise "20 plants" but include emitters that do not match container watering.
+- **No pressure control:** faucet pressure can pop tubing or make emitters uneven.
+- **Weak fittings:** low-grade tees and couplers loosen after heat exposure.
+- **No filter:** tiny emitters clog quickly with hard water, algae, or reservoir debris.
+- **Bad instructions:** balcony layouts need short, tidy runs; garden-bed instructions often assume open ground.
+
+The fix is not always buying the premium kit. Often the better move is a basic reputable kit plus the missing reliability parts: pressure reducer, filter, extra tees, goof plugs, and a few spare emitters.
 
 ---
 

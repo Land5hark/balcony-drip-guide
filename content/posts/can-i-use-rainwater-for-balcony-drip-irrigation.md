@@ -25,6 +25,19 @@ A 1-inch rainfall on a 10 sq ft balcony collection area (about 3x3 feet of expos
 
 **Reality check**: A balcony rainwater system can supplement but rarely replaces your main water source for thirsty container plants.
 
+## Quick decision table
+
+| Your balcony situation | Rainwater verdict | Better next step |
+|---|---|---|
+| **Small balcony, 4-8 pots** | Usually not worth building as a primary source | Use rainwater as occasional refill water |
+| **No faucet access** | Useful only if you also have enough reservoir storage | [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) |
+| **Covered balcony with roof runoff** | Potentially useful if lease/building rules allow it | Add filtration and overflow control first |
+| **Hot south/west exposure** | Supplemental only; demand will exceed rainfall during dry spells | [How to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) |
+| **Frequent travel** | Risky as the only source | [Vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) |
+| **Herbs and low-water plants** | Better fit than tomatoes or large vegetables | Size a small opaque reservoir |
+
+The practical answer is boring but useful: rainwater is best as a supplemental reservoir source, not the whole watering strategy. If you need reliability, design the drip system around a tap-filled reservoir, faucet timer, or pump first, then let rainwater reduce how often you refill.
+
 ## Collection methods for balconies
 
 ### Method 1: Railing gutter diverter
@@ -118,6 +131,40 @@ Conservative estimate for planning:
 
 **Key insight**: Most balconies don't have enough exposed collection area for the plant density container gardeners typically maintain. Rainwater works better as a supplemental 20-30% of your watering needs, not the primary source.
 
+## Reservoir sizing examples
+
+Use reservoir sizing to decide whether the project is worth the floor space.
+
+| Garden type | Typical demand | Minimum useful reservoir | Notes |
+|---|---:|---:|---|
+| **4-6 small herb pots** | 3-4 gal/week | 5 gal | Reasonable for a compact balcony |
+| **6-10 mixed containers** | 6-10 gal/week | 10-15 gal | Works only if the reservoir has a clean storage spot |
+| **2 tomatoes plus herbs** | 8-14 gal/week in summer | 15+ gal | Rainwater becomes supplemental fast |
+| **15+ container garden** | 15+ gal/week | 20-30 gal | Often too heavy and bulky for apartments |
+
+A full 5-gallon bucket weighs about 42 pounds before the bucket itself. A full 15-gallon reservoir is more than 125 pounds. Weight is not automatically a dealbreaker, but it is not a detail to hand-wave unless you enjoy turning gardening into amateur structural engineering.
+
+## How to connect rainwater to drip without clogging everything
+
+Drip emitters are small. Rainwater systems fail when leaves, grit, algae, and reservoir sludge reach the emitters.
+
+Use this order:
+
+1. Collection surface or gutter
+2. Coarse screen before the reservoir
+3. Opaque reservoir with a tight lid
+4. Pump intake screen or outlet mesh
+5. Inline filter before the drip tubing
+6. Emitters you can inspect and flush
+
+If you already have clogging problems, fix filtration before adding more emitters or increasing runtime.
+
+Useful next reads:
+
+- [How to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
+- [Do you need a filter and pressure reducer for patio drip kits?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
+- [How to prevent algae growth in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/)
+
 ## Legal and lease considerations
 
 Before installing any collection system:
@@ -134,3 +181,10 @@ Rainwater collection for balcony drip irrigation is feasible but rarely the set-
 **Consider rainwater if**: You have a large covered balcony, enjoy the DIY aspect, and view it as a sustainability bonus rather than your main water strategy.
 
 **Skip rainwater if**: You need reliability, travel frequently, or have a small balcony with many thirsty plants. A solar pump kit drawing from a tap-filled reservoir or a simple gravity system will serve you better with less maintenance.
+
+## Related guides
+
+- [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
+- [How to set up a gravity-fed watering system](/posts/how-to-set-up-a-gravity-fed-watering-system/)
+- [How to prevent algae growth in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/)
+- [How much water do balcony plants really need?](/posts/how-much-water-do-balcony-plants-really-need/)

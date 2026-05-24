@@ -21,6 +21,22 @@ This guide shows how to spot overwatering early, fix your timer settings, and ad
 
 ---
 
+## Fast Diagnosis Table
+
+Use this before changing the timer. A soggy pot can come from the schedule, the soil, the container, or the layout.
+
+| Symptom | Most likely cause | First fix |
+|---|---|---|
+| Soil is wet 24+ hours after watering | Run time too long, poor drainage, or oversized pot | Cut runtime by 25% and check drainage holes |
+| Leaves wilt but soil is wet | Root stress or early rot | Stop watering and improve airflow/drainage |
+| Saucers stay full | Too much water per cycle or no runoff management | Empty saucers and shorten cycles |
+| Only one plant is soggy | Emitter flow too high or plant has lower demand | Reduce that emitter or move plant to another zone |
+| Soil surface is dry but lower soil is wet | Top crust dries faster than root zone | Check deeper before watering |
+| Timer works in summer but fails in fall | Seasonal evaporation dropped | Reduce frequency before nights cool down |
+| Moss, algae, or gnats appear | Constantly wet top layer | Increase dry-down time and improve surface airflow |
+
+The trick is simple and annoying: check soil before helping. Automatic systems make it very easy to "fix" a plant by drowning it again.
+
 ## Signs You're Overwatering
 
 ### Early Warning Signs (Fixable)
@@ -42,6 +58,21 @@ This guide shows how to spot overwatering early, fix your timer settings, and ad
 
 **The tricky part**: These symptoms look like underwatering at first glance. Check soil moisture before adjusting — the fix for overwatering is counterintuitive (less water, not more).
 
+## Underwatering vs. Overwatering
+
+Wilting is not enough evidence. Use the pot and soil.
+
+| Check | Underwatered | Overwatered |
+|---|---|---|
+| Pot weight | Light | Heavy |
+| Soil 2-3 inches down | Dry or barely cool | Wet, sticky, or sour-smelling |
+| Leaf texture | Limp, sometimes crisp at edges | Limp, yellowing, soft, or translucent |
+| Recovery after watering | Perks up within hours | Does not improve or gets worse |
+| Lower leaves | Usually stay normal until severe drought | Often yellow first |
+| Soil smell | Dry/dusty | Musty, sour, or rotten |
+
+If the pot is heavy and the plant is wilted, do not add water. That plant is not thirsty. It is in a wet little root prison.
+
 ---
 
 ## Why Automatic Systems Cause Overwatering
@@ -58,6 +89,10 @@ Manual watering forces you to check plants regularly. Automatic systems remove t
 4. **One schedule for all plants** — Tomatoes and succulents need different water
 5. **Ignoring drainage** — Watered containers need escape routes
 
+6. **Trusting factory defaults** — Many timers ship with schedules meant for lawns, beds, or indoor houseplants, not exposed balcony containers
+7. **Adding a second daily cycle too early** — More frequent watering helps heat stress only after you confirm the soil is actually drying out
+8. **Forgetting emitter differences** — Adjustable emitters, button drippers, and sprayers do not deliver water the same way
+
 ### Container-Specific Problems
 
 | Issue | Why It Happens | The Result |
@@ -66,6 +101,18 @@ Manual watering forces you to check plants regularly. Automatic systems remove t
 | **Saucers under pots** | Catches overflow | Plant sits in standing water |
 | **Compacted soil** | Old potting mix or heavy watering | Water runs off instead of absorbing |
 | **Too-large pots** | "Future-proofing" for plant growth | Soil stays wet too long between waterings |
+
+### Balcony-specific problems
+
+Balconies add a few extra failure modes:
+
+- **No free drainage.** You may need saucers or trays, which can keep roots sitting in runoff.
+- **Mixed microclimates.** A pot near a hot railing may dry fast while a shaded corner pot stays wet for days.
+- **Small containers.** Tiny pots swing from dry to waterlogged faster than large containers.
+- **Travel settings.** People often over-program before leaving town, then come home to soggy soil.
+- **Neighbor risk.** Overwatering is not only a plant problem when runoff can drip below.
+
+If runoff is part of the constraint, use low-flow drip, saucers, and shorter test cycles. Sprayers and misters are usually the wrong tool on balconies unless you enjoy making enemies vertically.
 
 ---
 
@@ -88,6 +135,17 @@ Manual watering forces you to check plants regularly. Automatic systems remove t
 - Frequency: Every 2-3 days
 - Days: Skip if soil still damp
 
+These are starting points, not commandments. Small herb pots, large tomato buckets, self-watering containers, and shaded railing planters all need different adjustments.
+
+| Setup | Safer starting point |
+|---|---|
+| Small herb pots | 3-5 minutes once daily in warm weather |
+| Large tomato containers | 10-15 minutes once daily, then check deep moisture |
+| Mixed herbs and vegetables | Split zones or tune emitters individually |
+| Succulents / Mediterranean herbs | Keep off the main daily timer if possible |
+| Reservoir-fed pump kit | Start short and check reservoir drawdown |
+| Soaker hose or sprayer | Short cycles only; watch for broad wet soil |
+
 ### The 2-Week Dial-In Process
 
 **Week 1: Baseline**
@@ -105,6 +163,18 @@ Manual watering forces you to check plants regularly. Automatic systems remove t
 - Adjust for weather patterns
 - Watch for new plant additions with different needs
 
+### The saucer test
+
+After a full automatic cycle:
+
+1. Wait 20-30 minutes.
+2. Check every saucer or tray.
+3. Empty standing water.
+4. Note which pots produced runoff.
+5. Shorten runtime or reduce emitter flow for repeat offenders.
+
+A little runoff during setup testing is useful feedback. Standing water left under roots is the part that turns into a problem.
+
 ### Signs Your Timer Is Wrong
 
 | Problem | Likely Cause | Fix |
@@ -113,6 +183,23 @@ Manual watering forces you to check plants regularly. Automatic systems remove t
 | Soil always dry | Duration too short or frequency too low | Add 3-5 minutes or add evening cycle |
 | Some plants thriving, others struggling | One schedule can't fit all | Split into zones or hand-water outliers |
 | Water running out drainage holes immediately | Soil is compacted or too dry to absorb | Break up soil surface, water manually to rehydrate |
+
+---
+
+## Safer Timer Adjustments
+
+Make one change at a time.
+
+| Current problem | Better adjustment | Avoid |
+|---|---|---|
+| Soil stays wet too long | Reduce frequency first | Tiny runtime cuts while still watering too often |
+| Runoff appears quickly | Split into shorter cycles | One long soak that floods the pot |
+| One plant is soggy | Turn down or move that emitter | Changing the whole zone for one pot |
+| Fall weather arrives | Drop frequency 30-50% | Running July settings into October |
+| Trip is coming | Test the exact schedule for 3 days | Increasing water "just in case" |
+| Some pots dry too fast | Add emitters to dry pots or split zones | Drowning every pot to satisfy the thirstiest one |
+
+If the system is already uneven, fix distribution before chasing timer settings. The guide to [why container drip systems water unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) is the better next step.
 
 ---
 
@@ -152,6 +239,8 @@ Basic timers run on schedule regardless of weather. Smart timers can:
 
 **Upgrade path**: If using sprayers or soakers and seeing overwatering, switch to adjustable drip emitters.
 
+If you are unsure which emitter style belongs in the system, compare [adjustable emitters vs button drippers for container gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/). Adjustable emitters are useful for mixed pots, but they can also be bumped open too far. Button drippers are more repeatable once the layout is correct.
+
 ### Pot Risers ($8-15)
 
 Elevating pots 1-2 inches improves drainage and prevents roots from sitting in runoff. Options:
@@ -160,6 +249,17 @@ Elevating pots 1-2 inches improves drainage and prevents roots from sitting in r
 - **Custom stands**: Built into furniture or shelving
 
 **Critical for**: Plants in saucers, heavy containers, plants prone to root rot
+
+### Drainage trays and catchment
+
+For balconies where runoff cannot drip freely, use trays as a monitoring tool, not a swamp.
+
+- Empty trays after test cycles.
+- Do not let pots sit in water overnight.
+- Raise pots slightly inside trays.
+- Use trays to identify which containers are getting too much water.
+
+The tray tells you the system is over-delivering before the plant has to file a formal complaint in yellow leaves.
 
 ---
 
@@ -190,6 +290,18 @@ If you have plants with very different water needs, split your balcony into zone
 **Timer zones**: Multi-channel timers ($80-150) run different schedules simultaneously
 **Hybrid**: Main zone on timer, hand-water outliers
 
+If a multi-zone timer is overkill, use plant grouping instead:
+
+| Group | Best handling |
+|---|---|
+| Tomatoes and thirsty vegetables | Main automatic zone |
+| Basil / leafy herbs | Shorter or lower-flow branch |
+| Rosemary / thyme / sage | Hand-water or very low-flow zone |
+| Succulents | Usually keep off the automatic drip line |
+| New seedlings | Temporary hand checks until established |
+
+One automatic schedule for every plant is convenient. It is also how rosemary gets murdered by tomato logic.
+
 ---
 
 ## Emergency: Fixing Overwatered Plants
@@ -209,6 +321,18 @@ If you have plants with very different water needs, split your balcony into zone
 2. **Repot if needed**: Fresh, dry potting mix in a clean pot
 3. **Reduce sun temporarily**: Stressed roots can't handle full sun
 4. **Resume watering cautiously**: Start with half your normal schedule
+
+### Before turning the timer back on
+
+Do one manual watering test first:
+
+1. Wait until the pot is appropriately dry at root depth.
+2. Water by hand or run one short manual cycle.
+3. Confirm excess water drains and does not sit in the saucer.
+4. Restart automation at half the previous runtime or frequency.
+5. Recheck the same pot the next evening.
+
+If the same pot stays wet, the fix is drainage, pot size, soil mix, or plant grouping. The timer is only one suspect in this dumb little courtroom.
 
 ### When to Give Up
 
@@ -246,6 +370,21 @@ Learn from the loss: adjust your system before trying again.
 
 ---
 
+## Travel Mode Without Drowning Plants
+
+Before leaving town, do not increase the schedule "just in case." Size the water source and test the actual cycle.
+
+| Trip length | Safer approach |
+|---|---|
+| Weekend | Keep normal schedule; verify saucers empty after a test cycle |
+| 3-5 days | Test exact timer schedule and reservoir drawdown before leaving |
+| 1 week | Use conservative automation plus a reservoir/faucet check |
+| 2+ weeks | Add a human check or larger tested reservoir buffer |
+
+For trip-specific setup, use [vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) and pair it with the summer [maintenance checklist](/posts/container-drip-irrigation-maintenance-checklist-for-summer/) if heat is part of the situation.
+
+---
+
 ## Soil Mix Matters
 
 ### Fast-Draining Mixes (Harder to Overwater)
@@ -261,6 +400,8 @@ Learn from the loss: adjust your system before trying again.
 - Garden soil in containers
 
 **Adjustment**: If using water-retentive mix, reduce timer duration by 25-30%.
+
+Old potting mix can also cause weird behavior: it may stay soggy in the lower half while shedding water at the surface. If water runs through fast but the plant still struggles, check the root ball instead of just adding runtime.
 
 ---
 
@@ -291,6 +432,9 @@ Learn from the loss: adjust your system before trying again.
 - [Smart Watering Timers for Balcony and Patio Container Gardens](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/) — Choosing timers with the right features
 - [DIY Balcony Watering System for Renters](/posts/diy-balcony-watering-system-for-renters/) — Building systems you can easily adjust
 - [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) — When some plants get too much, others too little
+- [How Often Should You Water Balcony Plants?](/posts/how-often-should-you-water-balcony-plants/) — Setting frequency before automation
+- [How Much Water Do Balcony Plants Really Need?](/posts/how-much-water-do-balcony-plants-really-need/) — Estimating container water demand
+- [Adjustable Emitters vs Button Drippers for Container Gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — Choosing emitter style
 
 ---
 

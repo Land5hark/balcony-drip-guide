@@ -17,6 +17,19 @@ Algae in your watering reservoir starts as a faint green tint and ends as clogge
 
 The good news: algae prevention is straightforward once you understand what it needs to grow. Remove one factor — light, nutrients, or stagnant conditions — and algae struggles.
 
+## Quick algae prevention checklist
+
+| Risk factor | Best fix | Why it works |
+|---|---|---|
+| **Clear reservoir in sun** | Wrap it or switch to opaque plastic | Blocks the light algae needs |
+| **Warm stagnant water** | Run a short daily cycle | Disrupts growth before it blooms |
+| **Organic debris in reservoir** | Add a screen and keep the lid tight | Removes food and clog material |
+| **Fertilizer in stored water** | Fertilize separately or prevent backflow | Keeps nutrients out of the tank |
+| **Rainwater storage** | Use first-flush screening and clean monthly | Keeps pollen, grit, and leaf debris down |
+| **Tiny emitters clogging** | Add an inline filter before tubing | Catches algae and debris before emitters |
+
+If you only do one thing, block light. If you do two things, block light and add filtration. Chemicals are cleanup tools, not a personality. Do not make bleach your irrigation strategy.
+
 ## Why algae loves balcony reservoirs
 
 Algae is a simple organism with simple needs:
@@ -75,7 +88,7 @@ Physical prevention works better than chemicals, but additives have their place.
 
 **Commercial algaecides.** Aquarium and hydroponic algaecides work but add cost and complexity. Read labels carefully — some are not plant-safe at drip irrigation concentrations.
 
-**The底线:** Chemical controls treat symptoms. Light blocking and cleanliness prevent the disease.
+**The bottom line:** Chemical controls treat symptoms. Light blocking and cleanliness prevent the disease.
 
 ## What to do when algae appears
 
@@ -102,6 +115,36 @@ Solar drip kits often use integrated clear reservoirs that are hard to modify. S
 **Smaller, more frequent refills.** In hot weather, partially empty and refill every few days instead of letting water sit for weeks. Fresh water has fewer established colonies.
 
 **Elevate off hot surfaces.** Reservoirs sitting on black balcony tiles absorb ground heat. Use a small platform or spacer to allow airflow underneath.
+
+## Reservoir setup by system type
+
+| System type | Algae risk | Best prevention setup |
+|---|---|---|
+| **Gravity bucket** | Medium | Opaque bucket, tight lid, outlet screen, monthly rinse |
+| **Solar pump kit** | High if tank is clear | Shade the reservoir, expose only the panel, clean intake filter |
+| **Rainwater reservoir** | High if debris enters | First-flush screen, opaque storage, inline filter |
+| **Indoor/outdoor pump kit** | Medium | Keep reservoir indoors or shaded, use covered fill opening |
+| **Large no-faucet reservoir** | Medium-high | Opaque tank, circulation, filter before tubing |
+
+Small reservoirs bloom quickly because there is less water to dilute heat, nutrients, and debris. Large reservoirs stay stable longer, but when they go bad, they are more annoying to clean. Pick your nuisance.
+
+## When to replace parts instead of cleaning forever
+
+Some algae problems are maintenance. Some are failed parts pretending to be maintenance.
+
+Replace components when:
+
+- Emitters stay weak after flushing.
+- Tubing has green staining inside and flow remains uneven.
+- Reservoir plastic has scratches that hold slime after cleaning.
+- Pump intake screens clog within days after a full clean.
+- Clear reservoirs keep blooming even after wrapping and repositioning.
+
+Useful next reads:
+
+- [How to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
+- [Do you need a filter and pressure reducer for patio drip kits?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
+- [Can I use rainwater for balcony drip irrigation?](/posts/can-i-use-rainwater-for-balcony-drip-irrigation/)
 
 ## Maintenance schedule for algae prevention
 

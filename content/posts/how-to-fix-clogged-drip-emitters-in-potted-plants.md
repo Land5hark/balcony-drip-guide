@@ -47,6 +47,21 @@ If you think a drip emitter is clogged:
 
 The real mistake is treating a repeat clog like bad luck instead of a system clue.
 
+## Quick symptom table
+
+Use the symptom to decide whether you are dealing with a clogged emitter, a bad layout, or an upstream water problem.
+
+| Symptom | Most likely cause | First fix |
+|---|---|---|
+| One emitter barely drips, nearby emitters are normal | Local clog or damaged emitter | Remove, flush, clean, then compare flow |
+| One branch line is weak, but the emitter looks clean | Kinked 1/4-inch tubing or blocked connector | Inspect the feed line and barb fitting |
+| Several emitters slow down at once | Dirty filter, sediment, or reservoir debris | Clean filter, flush mainline, inspect source water |
+| Far-end emitters are weak after expansion | Pressure loss or overextended layout | Shorten run, split zone, or use pressure-compensating emitters |
+| Emitters clog again within days | Dirty water, algae, or mineral buildup | Fix filtration/reservoir hygiene before replacing more parts |
+| Pot is dry but emitter flows normally | Bad emitter placement or too few emitters | Move/add emitters using the container-size chart |
+
+Do this in order: source water, filter, mainline, branch tubing, connector, emitter, pot placement. Starting at the emitter every time is how you end up replacing tiny plastic parts while the actual problem sits upstream wearing sunglasses.
+
 ## What a clogged emitter usually looks like
 
 Common symptoms include:
@@ -84,16 +99,25 @@ Common sources:
 - sediment introduced during refills
 - bits of material from setup or line changes
 
+This is common after installation because cutting tubing, punching holes, and moving pots around can introduce tiny scraps. Flush before final emitter installation whenever you build or modify a line.
+
 ### 2) Mineral buildup
 If emitters clog repeatedly even when the system looks visually clean, mineral deposits may be part of the pattern.
 
+Hard-water buildup usually shows up slowly. Flow weakens over weeks, not minutes. If you see white crust around emitter outlets or faucet adapters, assume minerals are part of the maintenance plan.
+
 ### 3) Biofilm or algae in reservoir-fed systems
 No-faucet systems can pick up grime over time, especially if the reservoir stays warm, uncovered, or messy.
+
+Algae problems are not just ugly. Slime can travel into tubing, settle at emitter passages, and turn a working no-faucet system into a slow-motion clog factory. Keep the reservoir opaque and covered when possible.
 
 ### 4) A bent or pinched tube pretending to be a clog
 Sometimes the emitter is innocent and the real issue is the short run of tubing feeding it.
 
 That is why you should check the line and connector before declaring victory.
+
+### 5) Fertilizer residue
+If you add liquid fertilizer through a reservoir or watering system, residue can dry at emitter openings. That does not mean fertilizer is banned. It means the line needs clean-water flushing afterward.
 
 ## Fast diagnosis checklist
 
@@ -106,6 +130,18 @@ Run through this in order:
 5. Re-run the zone and compare flow again.
 6. If it still lags, replace it.
 7. If the problem keeps returning, investigate filtration and reservoir cleanliness.
+
+## Side-by-side flow test
+
+The easiest test is not fancy.
+
+1. Pick one suspect emitter and one healthy emitter from the same zone.
+2. Place a small cup or measuring spoon under each emitter.
+3. Run the zone for 2-5 minutes.
+4. Compare the collected water.
+5. Repeat after cleaning or replacing the suspect emitter.
+
+You do not need lab precision. If one cup has half as much water as the other, the plant already knows. The test just stops you from arguing with a tomato.
 
 ## How to fix a clogged emitter
 
@@ -128,15 +164,24 @@ With the emitter removed, briefly run the system to see whether water moves clea
 
 If flow out of the bare line looks weak, the problem may be upstream rather than inside the emitter itself.
 
+For faucet-fed systems, flush into a bucket or away from the balcony edge. For reservoir-fed systems, watch for sediment or greenish water. If the flush water looks dirty, the emitter was only the final victim.
+
 ### 4) Rinse or clear the emitter
 If the emitter is serviceable, rinse it and clear visible blockage gently.
 
 The goal is not to turn this into microscopic surgery. If it keeps acting weird, replacement is usually smarter than endless fiddling.
 
+For light mineral buildup, soak removable emitters in a mild vinegar solution, then rinse thoroughly before reinstalling. Do not soak electronic parts, pumps, or timer components. Tiny emitters are replaceable; timers are where the money lives.
+
 ### 5) Reinstall and compare again
 Put the emitter back, run the zone, and compare it directly against a healthy emitter nearby.
 
 If it still underperforms, replace it.
+
+### 6) Flush the end of the line
+If your tubing has an end cap or figure-eight closure, open it and run water briefly after the repair. This clears debris that may have moved downstream while you were working.
+
+Close the line, run the zone again, and check every emitter on that branch. A repair that moves debris from one emitter to the next is not a repair; it is just irrigation whack-a-mole, and nobody has time for that.
 
 ## When replacement is the smarter move
 
@@ -148,6 +193,19 @@ Replace the emitter sooner if:
 
 Some problems are maintenance problems. Some are just worn-out small parts.
 
+## Clean vs. replace decision
+
+| Situation | Clean first | Replace now |
+|---|---|---|
+| One new emitter picked up installation debris | Yes | Only if cleaning fails |
+| Emitter has visible mineral crust but body is intact | Yes | If flow stays weak |
+| Plastic is brittle, cracked, or sun-damaged | No | Yes |
+| Same emitter clogs repeatedly | Maybe once | Usually yes |
+| Multiple emitters from same batch are inconsistent | No | Replace the weak group |
+| You are leaving town soon | Only if fully retested | Replace suspect parts before travel |
+
+Replacement is not defeat. It is a cheap part doing cheap-part things.
+
 ## How to reduce repeat clogs
 
 ### Improve filtration
@@ -158,11 +216,15 @@ This matters most when:
 - several emitters start acting inconsistent
 - the source water or reservoir is obviously not pristine
 
+If you are choosing parts, an inline filter is usually a better next purchase than more random emitters. More emitters do not fix dirty water. They just give the dirty water more places to be annoying.
+
 ### Keep the reservoir cleaner
 For no-faucet systems:
 - keep the reservoir covered when practical
 - avoid letting debris sit in refill water
 - clean out obvious grime before it becomes normal
+
+Add a simple intake screen or pre-filter if the pump pulls from the reservoir bottom. That is where sediment settles, because apparently gravity remains undefeated.
 
 If you are still deciding whether the no-faucet setup itself makes sense, [bucket-fed vs solar-pump drip systems for apartment gardeners](/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/) is the cleaner system-level comparison.
 
@@ -171,6 +233,19 @@ During routine checks, look at actual emitter behavior instead of assuming the t
 
 ### Replace cheap failure points before they waste a whole week
 A weak emitter is a tiny part with a surprisingly large ability to ruin one container.
+
+## Maintenance schedule
+
+| Timing | What to check |
+|---|---|
+| After installation | Flush lines before final emitter tuning |
+| Weekly in summer | Compare emitter output visually during one cycle |
+| Monthly | Clean filter, inspect reservoir, flush end caps |
+| After adding pots | Recheck far-end emitters and line pressure |
+| Before travel | Replace weak emitters, clean filter, run a full test cycle |
+| After algae or dirty-water event | Empty reservoir, flush tubing, replace stubborn emitters |
+
+This schedule is intentionally boring. Boring systems keep plants alive.
 
 ## Common mistakes
 
@@ -186,6 +261,12 @@ This is the trap. Weak flow is still a real failure.
 ### Assuming every dry pot has a clog
 Sometimes the real problem is wrong emitter count, bad placement, or a growing layout that needs rebalancing.
 
+### Cleaning only the visible outlet
+Some clogs sit inside the emitter body or at the barb connection. If the outlet looks clean but flow is still weak, check the connector and feed line before calling it fixed.
+
+### Forgetting to retest
+Cleaning feels like progress. Flow comparison proves progress. Always run the zone after the repair.
+
 ## When this problem points to a bigger system issue
 
 A clogged emitter is sometimes just a clogged emitter.
@@ -198,6 +279,22 @@ But step back if you also see:
 - faucet-fed inconsistency plus leaks or harsh flow
 
 That often means the fix is bigger than one [replacement part](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546).
+
+## Small repair kit to keep nearby
+
+For balcony and patio systems, keep a tiny repair kit instead of buying parts during every little failure.
+
+| Part | Why it helps |
+|---|---|
+| Matching replacement emitters | Keeps flow rates consistent after swaps |
+| Goof plugs | Closes mistaken holes and abandoned ports |
+| Barbed couplers and tees | Repairs damaged 1/4-inch branch lines |
+| End caps or figure-eight closures | Makes flushing easier |
+| Small tubing cutter | Clean cuts leak less and seat better |
+| Inline filter screen | Helps stop repeat clogging |
+| White vinegar | Useful for light mineral buildup on removable emitters |
+
+Keep the replacements matched to the system you actually use. Random leftover emitters with different flow rates create new uneven-watering problems while pretending to be helpful.
 
 ## Bottom line
 

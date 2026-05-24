@@ -17,6 +17,20 @@ Before you pack your bags, you need a realistic answer to one question: how long
 
 Here is how to calculate survival time for your specific setup and what backup options work for trips of different lengths.
 
+## Quick survival estimate table
+
+| Plant / container setup | Cool weather | Summer heat | Backup needed for |
+|---|---:|---:|---|
+| **Seedlings in small pots** | 1-2 days | Same day to 1 day | Any overnight trip |
+| **6-inch herb pots** | 2-4 days | 1-2 days | Weekend+ |
+| **10-inch flowers or peppers** | 4-6 days | 2-3 days | 4+ days |
+| **12-14 inch tomato pot** | 7-10 days | 3-5 days | Workweek trips |
+| **16+ inch container / grow bag** | 10-14 days | 5-7 days | 8+ days |
+| **Mediterranean herbs** | 10-21 days | 5-10 days | Longer trips only |
+| **Succulents** | 21+ days | 14+ days | Usually not urgent |
+
+Use the shorter number if your balcony is windy, south-facing, paved with dark material, or packed with small containers. Balcony microclimates are rude like that.
+
 ## The survival time formula
 
 **Maximum days without water = (Container water capacity × Plant drought tolerance) ÷ Daily evaporation rate**
@@ -179,6 +193,32 @@ You need active backup systems.
 - Reduces wind exposure
 - Combine with deep watering and mulch
 
+## Match the backup system to the trip
+
+| Trip length | Best backup | Why |
+|---|---|---|
+| **1-2 days** | Deep watering + shade move | Lowest friction |
+| **3-5 days** | Mulch, grouping, saucers, or small self-watering inserts | Enough for moderate containers |
+| **5-10 days** | Timer-based drip or reservoir pump | More reliable than passive tricks |
+| **10-14 days** | Tested drip system + large reservoir or plant sitter | Needs redundancy |
+| **14+ days** | Plant sitter plus automation | One system failure is too expensive |
+
+No-faucet balcony? Plan around reservoir volume first. Timer settings do not matter if the bucket runs dry on day four. Start with [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) or [vacation watering with drip irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/).
+
+## Pre-trip test checklist
+
+Run this at least three days before leaving:
+
+- Fill every reservoir and mark the water level.
+- Run the timer on the planned schedule for two full cycles.
+- Check each emitter for flow, especially far-end pots.
+- Lift pots after watering so you know what "full" feels like.
+- Confirm saucers are not overflowing.
+- Move small pots into shade and check again the next afternoon.
+- Write the watering schedule down if a plant sitter is involved.
+
+If you cannot test the setup before the trip, assume it is not reliable yet. That is not pessimism. That is every vacation-watering failure wearing a fake mustache.
+
 ### 14+ day trips
 
 You need robust automated systems or professional care.
@@ -241,6 +281,18 @@ If you travel regularly, design your balcony for absence tolerance.
 - Large reservoir systems for no-faucet balconies
 - Consider automated options even for short trips
 
+## Common trip-planning mistakes
+
+**Watering only the morning you leave.** Dry potting mix often sheds water down the sides. Water the day before, then top up before departure.
+
+**Trusting one tiny watering globe.** Small passive devices can help a houseplant, but they rarely support a sunny balcony tomato or a row of herbs through heat.
+
+**Ignoring weather forecasts.** A five-day trip in cloudy May is not a five-day trip during a July heat wave. Recalculate.
+
+**Putting every plant on one schedule.** Tomatoes, basil, rosemary, and succulents do not need the same trip plan. Group by water demand before you leave.
+
+**Forgetting reservoir weight.** A larger reservoir buys time, but a full 10-gallon container weighs 80+ pounds. Keep it on the balcony floor near the building wall, not on a railing or flimsy shelf.
+
 ## Bottom line
 
 Small containers in summer heat need water every 1-2 days. Large containers with established plants survive 1-2 weeks. Exact survival time depends on combining container size, plant type, season, and weather.
@@ -253,3 +305,4 @@ Calculate your specific situation before traveling. When in doubt, install backu
 - [How much water do balcony plants really need](/posts/how-much-water-do-balcony-plants-really-need/)
 - [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/)
 - [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
+- [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/)

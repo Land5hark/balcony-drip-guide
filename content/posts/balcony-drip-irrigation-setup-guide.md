@@ -19,6 +19,19 @@ You've got the kit. Now you need it running without leaks, clogs, or water press
 
 ---
 
+## Pick the right setup path first
+
+| Your balcony condition | Best setup path | Watch out for |
+|---|---|---|
+| **Outdoor faucet available** | Faucet timer + filter + pressure reducer | Too much pressure without a reducer |
+| **No faucet access** | Pump/reservoir kit or gravity bucket | Reservoir running dry before the next refill |
+| **Tiny apartment balcony** | Compact 1/4-inch tubing layout | Oversized kits with too much bulky mainline |
+| **Mixed herbs and vegetables** | Adjustable emitters or split zones | Tomatoes forcing herbs onto the wrong schedule |
+| **Hanging baskets / rail planters** | Short branches with secure clips | Tubing pulling loose in wind |
+| **Frequent travel** | Timer-based system tested before departure | Untested automation failing while you are gone |
+
+Do not start cutting tubing until you know which row you are in. Most balcony drip mistakes start as confidence with scissors. Extremely relatable. Still bad.
+
 ## Before You Start: The 10-Minute Planning Phase
 
 Most setup problems come from skipping planning. Spend 10 minutes now, save an hour of rework later.
@@ -35,6 +48,22 @@ Most setup problems come from skipping planning. Spend 10 minutes now, save an h
 - Measuring tape
 - Garden gloves (for handling barbed fittings)
 - Optional: tubing cutter for cleaner cuts
+
+### Check parts before cutting
+
+Lay everything out and confirm you have:
+
+- Timer or pump controller
+- Filter
+- Pressure reducer for faucet systems
+- Main tubing or 1/4-inch distribution tubing
+- Emitters or drippers
+- Tees, elbows, couplers, and end caps
+- Tubing stakes or clips
+- Goof plugs for abandoned holes
+- Reservoir and intake screen for pump/gravity systems
+
+If the kit is missing a pressure reducer, filter, or enough emitters for your actual pot count, stop and solve that before installation. A half-built drip system is not a watering system; it is a future swear jar.
 
 ---
 
@@ -136,6 +165,14 @@ The simplest DIY approach. No pumps, no electricity—just physics.
 
 ## Common Setup Problems and Fixes
 
+| Symptom | Most likely cause | First fix |
+|---|---|---|
+| **Far-end pots barely drip** | Long run, kink, clog, or low pressure | Shorten/split tubing, clean filter, check kinks |
+| **Emitter sprays instead of drips** | Pressure too high or damaged emitter | Add/check reducer, replace emitter |
+| **One pot floods** | Too many emitters or long runtime | Reduce that emitter or shorten cycle |
+| **Tubing pops apart** | Pressure too high or fitting not seated | Add reducer, push fitting fully, recut tubing |
+| **Reservoir drains too fast** | Runtime too long or leak below waterline | Check all lines during a manual cycle |
+
 ### Problem: Emitters barely dripping or uneven
 **Causes**: Clogged filter, pressure too low, tubing kinked
 **Fixes**: Clean filter screen, check for kinks, ensure pressure reducer is installed (faucet systems), raise reservoir (gravity systems)
@@ -175,6 +212,19 @@ Your system needs observation, not just installation.
 - Check and clean filter (faucet systems)
 - Refill reservoir (solar/gravity systems)
 - Inspect tubing for damage or disconnections
+
+## First-trip readiness check
+
+Do this before trusting the system while you are away:
+
+- Run the exact timer schedule for at least two days.
+- Mark reservoir level before and after each day if using a bucket/pump system.
+- Check the farthest emitter at the end of the line.
+- Confirm saucers are not holding standing water.
+- Lift one small pot and one large pot after watering so you know the weight difference.
+- Keep spare emitters, goof plugs, and a short tubing section nearby.
+
+If the system has not run cleanly while you are home, it has not earned vacation duty.
 
 ---
 
@@ -229,5 +279,5 @@ If you have 15+ pots or very different water needs (succulents vs. tomatoes), co
 
 ---
 
-*Last updated: May 10, 2026*  
+*Last updated: May 23, 2026*  
 *Verification: Setup procedures validated against manufacturer documentation for RainPoint and Drip Depot systems. Flow rates and pressure guidelines confirmed for container gardening applications.*

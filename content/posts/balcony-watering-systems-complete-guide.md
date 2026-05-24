@@ -21,6 +21,21 @@ This guide cuts through the marketing hype and organizes every viable option by 
 
 ---
 
+## Start with the constraint you cannot change
+
+Do not start by choosing a product. Start with the thing your balcony refuses to negotiate.
+
+| Hard constraint | What it means | Best first read |
+|---|---|---|
+| **No outdoor faucet** | You need stored water plus gravity or a pump | [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) |
+| **Tiny floor space** | Use compact tubing and avoid bulky reservoirs | [Best drip irrigation kits for apartment balconies](/posts/best-drip-irrigation-kits-for-apartment-balconies/) |
+| **Mixed container sizes** | You need emitter control, not one blanket schedule | [How many drip emitters per pot](/posts/how-many-drip-emitters-per-pot-container-size-chart/) |
+| **Frequent travel** | Reliability and testing matter more than kit price | [Vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) |
+| **Hot south/west exposure** | Split cycles and higher reservoir margin matter | [Hot weather drip adjustments](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) |
+| **Renter limits** | Everything should remove cleanly | [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/) |
+
+Once you know the constraint, product choice gets much less mysterious. Magical, almost. Except it is just not buying the wrong thing first.
+
 ## Quick Decision Table
 
 | Your Situation | Best Approach | Budget | Effort | See Section |
@@ -239,6 +254,24 @@ The emitter choice affects how you manage your system:
 4. **Follow the setup guide:** Avoid common first-timer mistakes
 
 Still unsure? Start with the constraint you can't change (usually water access), then work outward.
+
+## Common buying mistakes
+
+**Buying for the plant count on the box.** A "20 plant" kit may work for 20 identical small pots, not ten mixed containers with tomatoes, herbs, and hanging baskets.
+
+**Skipping pressure and filtration.** Faucet-connected drip systems need pressure control and filtering. Otherwise the system works perfectly for the first week and then starts doing interpretive plumbing.
+
+**Undersizing reservoirs.** No-faucet systems fail when the bucket is too small, not when the timer is too simple. Reservoir volume is the backbone.
+
+**Ignoring heat exposure.** A shaded north balcony and a south-facing concrete balcony are different watering worlds.
+
+**Treating travel as an afterthought.** If vacation watering matters, test the exact timer/reservoir setup before leaving.
+
+## Best default recommendation
+
+If you have a faucet and 6-15 mixed containers, start with a reputable balcony/container drip kit, a hose timer, a pressure reducer, a filter, and adjustable emitters for the thirstiest pots.
+
+If you do not have a faucet, start with a reservoir-fed pump kit or gravity system sized around how often you can refill it. Do not buy a normal hose-end kit and hope it becomes a no-faucet system through optimism. Optimism has terrible water pressure.
 
 ---
 

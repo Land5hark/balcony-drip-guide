@@ -21,6 +21,19 @@ Hot weather changes the physics of container watering. Small pots dry out faster
 
 Here's what actually works on a hot balcony.
 
+## Quick hot-weather adjustment table
+
+| What you see | Likely cause | First adjustment |
+|---|---|---|
+| **Plants wilt at 2-4 PM but recover by evening** | Normal heat stress or slightly low midday moisture | Add a short evening cycle before increasing morning runtime |
+| **Plants wilt in the morning** | Root zone is too dry overnight | Increase total daily water by 20-30% |
+| **Saucers hold water after each run** | Runtime is too long or drainage is blocked | Shorten each cycle and check drainage holes |
+| **One pot dries out before the rest** | Emitter placement, clog, pot size, or plant demand mismatch | Add/check emitter for that pot only |
+| **Lower leaves yellow while soil stays damp** | Overwatering or poor aeration | Reduce runtime and let soil dry slightly |
+| **Reservoir empties faster than expected** | Heat plus plant uptake increased demand | Increase reservoir size or refill frequency |
+
+Make the smallest useful change, then watch for two or three days. Big timer jumps in hot weather are how a thirsty balcony turns into swamp cosplay. Nobody asked for swamp cosplay.
+
 ## What changes in summer (and what doesn't)
 
 **What changes:**
@@ -126,6 +139,37 @@ Here's what actually works on a south-facing Brooklyn balcony in July:
 
 Start conservative and adjust by 2-minute increments every 3-4 days. Big timer jumps in hot weather are how you get root rot in July.
 
+## Hot-weather schedule by plant type
+
+| Plant group | Hot-weather priority | Practical adjustment |
+|---|---|---|
+| **Tomatoes** | Keep moisture consistent during fruiting | Use two emitters in larger pots and split watering |
+| **Peppers** | Avoid drought stress during flowering | Increase gradually, not as aggressively as tomatoes |
+| **Basil / mint / soft herbs** | Prevent small pots from drying out | Add a short morning cycle or move into afternoon shade |
+| **Rosemary / thyme / oregano** | Avoid wet roots | Keep low flow; do not copy the tomato schedule |
+| **Hanging baskets / rail planters** | Counter wind and shallow soil | Short, frequent cycles work better than one long run |
+| **Succulents** | Avoid panic watering | Shade the pot if needed; keep drip very limited |
+
+If mixed plants share one line, use adjustable emitters. The timer should not force rosemary and tomatoes into the same life choices. That is rude to both of them.
+
+## Heat-wave preflight checklist
+
+Run this before the first 90°F stretch:
+
+- Flush the line and check for clogged emitters.
+- Confirm every large tomato or pepper pot has enough emitter coverage.
+- Fill reservoirs before sunset, not after the morning panic.
+- Move black nursery pots into cachepots or wrap them with lighter material.
+- Add mulch to exposed potting mix.
+- Check that tubing is not kinked where it bends around hot railings.
+- Set the timer for split cycles instead of one long soak.
+
+Useful next reads:
+
+- [How to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
+- [How many drip emitters per pot](/posts/how-many-drip-emitters-per-pot-container-size-chart/)
+- [How much water do balcony plants really need?](/posts/how-much-water-do-balcony-plants-really-need/)
+
 ## When to ignore this advice
 
 - **If your balcony is shaded after 11 AM**: You probably don't need to change much from your spring schedule
@@ -137,6 +181,7 @@ Start conservative and adjust by 2-minute increments every 3-4 days. Big timer j
 - [Best Hose Timers for Balcony Drip Irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — dual-program models ranked
 - [How Often Should You Water Balcony Plants?](/posts/how-often-should-you-water-balcony-plants/) — season-by-season frequency guide
 - [Adjustable Emitters vs Button Drippers](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — when to switch emitter types
+- [Best Drip Irrigation Setup for Balcony Tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/) — tomato-specific emitter layout
 - [DIY Balcony Watering System for Renters](/posts/diy-balcony-watering-system-for-renters/) — budget gravity-fed setup for no-faucet balconies
 
 ---

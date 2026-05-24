@@ -5,10 +5,10 @@ toc = false
 disclosure = false
 +++
 
-The Balcony Drip is supported by affiliate links — primarily through Amazon
-Associates and a small handful of garden retailers. When you buy something
-through a link on this site, we may earn a small commission at no extra
-cost to you.
+The Balcony Drip is supported by affiliate links through Drip Depot and
+RainPoint. When you buy something through a link on this site, we may earn
+a small commission at no extra cost to you. We do not participate in the
+Amazon Associates program.
 
 ## What we will never do
 
@@ -24,4 +24,4 @@ growing season. We document failures publicly. If a product we used to
 recommend breaks or gets discontinued, we update the article and note the
 change at the top.
 
-Questions? [Email us](mailto:hello@balcony-drip.example).
+Questions? [Email us](mailto:spiike.ops@proton.me).

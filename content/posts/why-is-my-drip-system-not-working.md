@@ -16,6 +16,20 @@ affiliate_disclosure = "This guide contains affiliate links. We earn a commissio
 
 You turn on your drip system and... nothing. Or maybe a weak trickle where there used to be a steady flow. Before you tear apart your entire balcony setup, work through this diagnostic sequence. Most drip system failures have simple causes with faster fixes than you expect.
 
+## Start with the symptom
+
+| Symptom | Most likely culprit | First thing to check |
+|---|---|---|
+| **No water anywhere** | Faucet/timer/pump/filter | Water source and manual override |
+| **Water starts strong then stops** | Timer, reservoir drawdown, clogged filter | Battery, reservoir level, filter screen |
+| **Far-end pots are dry** | Kink, clog, pressure loss, too many emitters | Tubing path and far-end flush |
+| **Only one pot is dry** | Local emitter clog or disconnected microline | Remove and flush that emitter |
+| **Everything is weak** | Filter, regulator, low pressure, algae | Clean filter and test without emitters |
+| **Connections leak** | Loose fitting, split tubing, excess pressure | Reseat fittings and confirm reducer |
+| **Pump runs but no water moves** | Air lock, low reservoir, blocked intake | Submerge pump and clean intake screen |
+
+Do the dumb checks first. Water source, battery, reservoir level, filter. Yes, it feels insulting. Yes, it saves time. The machine does not care about our dignity.
+
 ## Quick diagnosis flowchart
 
 Start here and follow the path based on what you observe:
@@ -192,11 +206,59 @@ When you need water flowing immediately and diagnostic time is limited:
 
 This isolates the faulty component quickly so you can restore watering while planning proper repairs.
 
+## Faucet vs reservoir troubleshooting
+
+### Faucet-fed systems
+
+Faucet systems usually fail from pressure, timer, filter, or fitting problems.
+
+Check in this order:
+
+1. Faucet fully open
+2. Timer manual override
+3. Batteries
+4. Filter screen
+5. Pressure reducer
+6. Main line flush
+7. Individual emitters
+
+If the system works when the timer is removed, the timer is the problem. If flow improves when the filter is removed, the filter needs cleaning or replacement. If fittings pop apart, pressure is too high or tubing is not fully seated.
+
+### Reservoir or pump systems
+
+Reservoir systems usually fail from low water, clogged intake screens, air locks, weak batteries, or algae.
+
+Check in this order:
+
+1. Reservoir above pump intake
+2. Pump fully submerged and upright
+3. Intake screen clean
+4. Battery/USB/solar power available
+5. Outlet tubing not kinked
+6. Emitters flushed
+
+If the pump hums but no water moves, lift and resubmerge it to clear trapped air. If flow returns briefly then fades, clean the intake screen and check for algae or debris in the reservoir.
+
+Useful next reads:
+
+- [How to prevent algae growth in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/)
+- [Balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
+- [Best solar drip irrigation kits for patios and balconies](/posts/best-solar-drip-irrigation-kits-for-patios-and-balconies/)
+
 ## When to replace vs. repair
 
 **Repair:** Single clogged emitter, one loose fitting, minor tubing kink
 
 **Replace:** Multiple recurring clogs, brittle tubing throughout, mismatched components from different systems, major algae contamination
+
+| Failed part | Repair first? | Replace when |
+|---|---|---|
+| **Emitter** | Soak/flush once | Still weak after cleaning or clogs repeatedly |
+| **Filter screen** | Rinse thoroughly | Torn, warped, or clogs immediately after cleaning |
+| **Timer** | Replace batteries and reset | Manual override fails or programs drift |
+| **Pressure reducer** | Inspect for debris | Flow changes dramatically when removed |
+| **Tubing** | Cut out one damaged section | Brittle, cloudy, cracked, or algae-stained throughout |
+| **Pump** | Clean intake and clear air lock | Hums weakly, overheats, or cannot push water after cleaning |
 
 ## Prevention checklist
 
