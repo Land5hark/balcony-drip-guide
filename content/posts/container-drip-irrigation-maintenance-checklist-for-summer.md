@@ -260,6 +260,7 @@ Natural product-fit categories include:
 - [Best Drip Setup for Hanging Baskets and Rail Planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/)
 - [Smart Watering Timers for Balcony and Patio Container Gardens](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/)
 - [Vacation Watering for Container Gardens Using Drip Irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/)
+- [Best Drip Irrigation Kits for Balcony Container Gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — If your summer checklist reveals the system is more patchwork than purpose-built, start here
 
 ## Bottom line
 

@@ -263,3 +263,4 @@ Start simple: regulate pressure, filter water, flush regularly. Complexity invit
 - [How to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
 - [Do you need a filter and pressure reducer for patio drip kits](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
 - [How to expand a patio drip kit without losing pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/)
+- [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — If recurring problems point to mismatched components, a purpose-built kit prevents most of these issues

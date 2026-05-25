@@ -291,3 +291,4 @@ The key is systematic elimination. Check the easy stuff first (Is it plugged in?
 - [How to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
 - [Why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/)
 - [Do you need a filter and pressure reducer for patio drip kits](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
+- [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — If diagnostics reveal systemic mismatches, a kit designed for containers eliminates most compatibility failures
