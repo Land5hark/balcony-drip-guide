@@ -9,7 +9,7 @@ tags = ["small-space", "urban-gardening", "balcony", "micro-irrigation", "compac
 intent = "buyer"
 cluster = "small-space"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -301,6 +301,18 @@ Before installing any irrigation system:
 ### Problem: Tubing creates trip hazard in tight space
 
 **Solution**: Route tubing along railings, walls, and pot rims—never across walking surfaces. Secure with adhesive clips every 12 inches.
+
+## Recommended compact kits for small balconies
+
+If you want a ready-made solution rather than sourcing parts separately, several kit categories match the constraints above.
+
+**Compact timer-connected kits** work well for balconies with faucet access. Look for kits under 40 feet of tubing, 10-15 emitters, and a hose timer with multiple start times. The [best drip irrigation kits for apartment balconies](/posts/best-drip-irrigation-kits-for-apartment-balconies/) compares several options sized specifically for small spaces.
+
+**No-faucet reservoir kits** suit urban balconies without outdoor spigots. A 3-5 gallon reservoir with a battery timer and micro-tubing covers 6-10 containers without ever touching the building's plumbing. The [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) guide covers reservoir sizing and placement.
+
+**Micro-irrigation accessories** for rail planters and hanging baskets include vertical clips, 1/8-inch tubing, and low-profile stake emitters. The [best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) has layout diagrams for rail-mounted gardens.
+
+*(Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you.)*
 
 ## The bottom line for urban small-space irrigation
 

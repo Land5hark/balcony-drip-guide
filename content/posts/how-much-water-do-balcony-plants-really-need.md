@@ -9,7 +9,7 @@ tags = ["balcony", "watering", "schedules", "maintenance", "container-gardening"
 intent = "problem-aware"
 cluster = "watering-schedules"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -246,6 +246,8 @@ Generic watering advice fails because it ignores the physics of your specific si
 Precision beats perfection. A calculation that gets you within 20% of actual needs, adjusted by observation, beats guessing entirely.
 
 Start with the formula. Watch your plants. Fine-tune weekly. Your water bill and your harvest will both improve.
+
+If you want the precision without the daily math, a drip system with a timer automates the exact volumes and schedules you calculate here. The [best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) includes options with emitters matched to common container sizes.
 
 ## Related guides
 

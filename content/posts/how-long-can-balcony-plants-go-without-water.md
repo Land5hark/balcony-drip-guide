@@ -9,7 +9,7 @@ tags = ["balcony", "vacation", "watering", "survival", "container-gardening", "t
 intent = "problem-aware"
 cluster = "vacation-watering"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -292,6 +292,20 @@ If you travel regularly, design your balcony for absence tolerance.
 **Putting every plant on one schedule.** Tomatoes, basil, rosemary, and succulents do not need the same trip plan. Group by water demand before you leave.
 
 **Forgetting reservoir weight.** A larger reservoir buys time, but a full 10-gallon container weighs 80+ pounds. Keep it on the balcony floor near the building wall, not on a railing or flimsy shelf.
+
+## Backup watering solutions by trip length
+
+If your survival estimate is shorter than your trip, you need a backup system. Here is what works for each absence range.
+
+**1-3 days:** Self-watering pots, wicking bottles, or a helpful neighbor. Most balcony plants survive this range without specialized equipment.
+
+**4-7 days:** A basic hose timer with drip emitters is the most reliable solution. Set it for early morning watering and match the runtime to your container sizes. See the [best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) for timer features that matter for container gardens.
+
+**8-14 days:** You need both a timer and enough water capacity. A faucet-connected drip kit handles the schedule, but a large reservoir or rain barrel backup prevents dry-outs if municipal pressure drops. For balconies without a faucet, a solar pump kit with a reservoir tank is the standalone solution.
+
+**14+ days:** Combine approaches. A timer-based drip system as the primary, a larger reservoir as backup, and a neighbor check-in as insurance. No single system handles two weeks of summer heat alone without some redundancy.
+
+**The kit approach:** If you do not have drip irrigation yet, a purpose-built balcony kit simplifies the decision. The [best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) covers options for faucet and no-faucet balconies at several price points.
 
 ## Bottom line
 
