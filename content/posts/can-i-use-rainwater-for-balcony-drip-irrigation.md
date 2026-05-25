@@ -9,7 +9,7 @@ tags = ["rainwater", "balcony", "sustainability", "filtration", "reservoir"]
 intent = "problem-aware"
 cluster = "sustainability"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -173,6 +173,18 @@ Before installing any collection system:
 - **Weight limits**: A full 15-gallon reservoir weighs 125+ pounds—verify your balcony can handle it
 - **HOA rules**: May restrict visible containers or modifications
 - **Building codes**: Some municipalities regulate rainwater collection on multi-unit buildings
+
+## Reservoir and filtration kit options
+
+If you decide to use rainwater as a supplemental source, the reservoir you choose matters more than the collection method.
+
+**Opaque reservoirs** prevent algae growth (see [how to prevent algae in reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/)). Clear storage tanks turn green within weeks on a sunny balcony. Black, dark green, or UV-resistant opaque plastic is worth the small extra cost.
+
+**Inline filters** are essential for any rainwater-fed drip system. A simple screen filter catches pollen, grit, and leaf debris before they clog emitters. The [best drip irrigation accessories that actually help container gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/) covers filter types sized for balcony systems.
+
+**No-faucet reservoir kits** include the tank, pump or gravity feed, tubing, and timer in one package. If your balcony has no spigot, a reservoir kit is the most reliable way to store and dispense rainwater. The [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) guide compares reservoir-fed options by balcony size and plant count.
+
+*(Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you.)*
 
 ## The bottom line
 

@@ -9,7 +9,7 @@ tags = ["balcony", "drip-irrigation", "troubleshooting", "maintenance", "problem
 intent = "problem-aware"
 cluster = "troubleshooting"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 

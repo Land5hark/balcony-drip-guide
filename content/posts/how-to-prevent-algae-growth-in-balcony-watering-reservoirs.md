@@ -9,7 +9,7 @@ tags = ["balcony", "algae", "reservoir", "maintenance", "no-faucet", "container-
 intent = "problem-aware"
 cluster = "reservoir-maintenance"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -172,6 +172,18 @@ Useful next reads:
 Mild algae staining on reservoir walls does not necessarily harm plants. If water runs clear and emitters flow freely, cosmetic algae is a maintenance preference, not an emergency.
 
 However, thick blooms, clogged lines, or foul odors indicate algae has crossed into problem territory. Trust your nose and your flow rates more than visual tinting.
+
+## Products that help with algae prevention
+
+The right equipment makes prevention easier than fighting algae after it blooms.
+
+**Opaque reservoir kits.** If you are buying a new no-faucet system, choose one with an opaque or dark-colored reservoir. Solar pump kits with clear tanks look modern but require immediate light-blocking measures. The [best solar drip irrigation kits for patios and balconies](/posts/best-solar-drip-irrigation-kits-for-patios-and-balconies/) notes which models include opaque reservoirs.
+
+**Inline filters.** A filter between your reservoir and your tubing stops algae cells and organic debris before they reach emitters. This is the single most effective add-on for reservoir-fed systems. The [best drip irrigation accessories that actually help container gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/) compares filter types and mesh ratings for balcony setups.
+
+**Replacement emitters.** If algae has already clogged your emitters, cleaning sometimes works but replacement is faster. Keep a small pack of compatible emitters on hand for mid-season maintenance. The [how to fix clogged drip emitters](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/) guide covers when to clean versus replace.
+
+*(Disclosure: This guide contains affiliate links. We earn a commission if you purchase through these links — at no extra cost to you.)*
 
 ## Bottom line
 
