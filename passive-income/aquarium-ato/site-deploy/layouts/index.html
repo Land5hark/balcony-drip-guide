@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <link rel="icon" type="image/png" href="/assets/logo.png" />
+    <meta property="og:title" content="{{ .Site.Title }}" />
+    <meta property="og:description" content="{{ .Site.Params.description }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{ .Site.Params.site_url }}assets/logo.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ .Site.Title }}" />
+    <meta name="twitter:description" content="{{ .Site.Params.description }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.site_url }}assets/logo.png" />
+    {{ $branch := getenv "CF_PAGES_BRANCH" | default "local" }}
+    {{ $commit := getenv "CF_PAGES_COMMIT_SHA" | default "local-build" }}
+    {{ $shortCommit := cond (gt (len $commit) 10) (substr $commit 0 10) $commit }}
+    {{ $buildTime := now.UTC.Format "2006-01-02T15:04:05Z07:00" }}
+    <meta name="site-build-fingerprint" content="{{ printf "%s | %s | %s" $branch $shortCommit $buildTime }}" />
+    <style>
+      :root { color-scheme: light; }
+      body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.65; color: #18303a; background: linear-gradient(180deg, #eef7f8 0%, #f7fbfb 220px, #fcfefe 220px); }
+      a { color: #0e5a73; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      main { max-width: 880px; margin: 0 auto; padding: 32px 18px 64px; }
+      .hero { background: #ffffff; border: 1px solid #d9e8ea; border-radius: 20px; padding: 28px; box-shadow: 0 10px 30px rgba(16, 59, 74, 0.06); }
+      .eyebrow { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4f7a86; margin: 0 0 8px; }
+      h1 { margin: 0 0 10px; font-size: clamp(2rem, 4vw, 3rem); line-height: 1.1; }
+      h2 { margin: 28px 0 14px; font-size: 1.45rem; }
+      .lead { font-size: 1.05rem; color: #355864; margin: 0 0 12px; }
+      .notice { margin-top: 18px; padding: 14px 16px; background: #fff8e6; border-left: 4px solid #b8860b; border-radius: 10px; }
+      .nav { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.95rem; color: #4b6974; }
+      .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+      .card { background: #ffffff; border: 1px solid #d9e8ea; border-radius: 18px; padding: 18px; box-shadow: 0 6px 20px rgba(16, 59, 74, 0.05); }
+      .card h3 { margin: 0 0 8px; font-size: 1.1rem; }
+      .card p { margin: 0; color: #466671; }
+      .kicker { font-size: 0.82rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #5a7d87; margin-bottom: 8px; }
+      ul.link-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+      ul.link-list li { background: #ffffff; border: 1px solid #d9e8ea; border-radius: 14px; padding: 14px 16px; }
+      footer { margin-top: 28px; color: #64818a; font-size: 0.92rem; }
+      .build-fingerprint { margin-top: 12px; color: #7a949c; font-size: 0.78rem; }
+      .build-fingerprint code { color: inherit; background: #eef5f6; padding: 0.12rem 0.28rem; border-radius: 6px; }
+    </style>
+    {{ with .Site.Params.cloudflare_analytics_token }}
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ . }}"}'></script>
+    {{ end }}
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <p class="eyebrow">Reliability-first aquarium guidance</p>
+        <h1>{{ .Site.Title }}</h1>
+        <p class="lead">{{ .Site.Params.description }}</p>
+        <p class="lead">This site focuses on practical aquarium auto-top-off guidance for nano and open-top tanks: troubleshooting, failure prevention, and cautious gear-fit decisions.</p>
+        <p class="notice">{{ .Site.Params.disclosure }} <a href="{{ .Site.Params.disclosure_page }}">Read the full disclosure.</a></p>
+        <p class="nav"><a href="/about/">About</a><span>·</span><a href="/privacy-policy/">Privacy Policy</a><span>·</span><a href="{{ .Site.Params.disclosure_page }}">Affiliate Disclosure</a><span>·</span><a href="/search/">Search</a></p>
+      </section>
+      {{ $posts := where .Site.RegularPages "Section" "posts" }}
+      {{ with index ($posts.ByDate.Reverse) 0 }}
+      <h2>Featured guide</h2>
+      <section class="card">
+        <div class="kicker">Start here</div>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+      </section>
+      {{ end }}
+      <h2>Core guides</h2>
+      <div class="grid">
+        {{ range first 2 ($posts.ByDate.Reverse) }}
+        <article class="card">
+          <div class="kicker">Core</div>
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+        </article>
+        {{ end }}
+      </div>
+      <h2>Support guides</h2>
+      <div class="grid">
+        {{ range after 2 ($posts.ByDate.Reverse) }}
+        <article class="card">
+          <div class="kicker">Support</div>
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+        </article>
+        {{ else }}
+        <article class="card"><p>No support guides live yet.</p></article>
+        {{ end }}
+      </div>
+      <footer>
+        Built around practical ATO troubleshooting, maintenance, and safer nano tank decision-making.
+        {{ partial "build-fingerprint.html" . }}
+      </footer>
+    </main>
+  </body>
+</html>

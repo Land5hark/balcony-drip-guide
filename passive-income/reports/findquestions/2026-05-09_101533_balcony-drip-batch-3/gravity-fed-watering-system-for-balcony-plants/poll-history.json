@@ -1,0 +1,225 @@
+[
+  {
+    "ts": "2026-05-09T14:15:37.998354+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Water conservation tips for balcony gardeners",
+        "Best plants for gravity fed watering systems",
+        "Seasonal adjustments for watering needs",
+        "Testing water flow rates before full setup",
+        "Mixing organic soil amendments with gravity systems",
+        "Solar-powered pump options for upgrades",
+        "Balcony weight capacity for water reservoirs",
+        "Plant health indicators for watering schedules",
+        "Cost comparison: System vs. daily watering",
+        "Weather-based watering adjustments"
+      ],
+      "business": "gravity fed watering system for balcony plants",
+      "cached": true,
+      "questions": [
+        {
+          "question": "How to Water Balcony Plants Without Running Water",
+          "search_intent": "Finding solutions for limited water access on balconies"
+        },
+        {
+          "question": "Best Gravity Fed Watering Systems for Small Spaces",
+          "search_intent": "Looking for efficient watering without electricity"
+        },
+        {
+          "question": "Can You Build a DIY Plant Watering System Under $50?",
+          "search_intent": "Budget-conscious customers wanting affordable solutions"
+        },
+        {
+          "question": "How Long Will a Gravity Fed System Keep Plants Watered?",
+          "search_intent": "Understanding water capacity and refill frequency"
+        },
+        {
+          "question": "What's the Cheapest Way to Water Multiple Balcony Plants?",
+          "search_intent": "Cost-effective solutions for multiple containers"
+        },
+        {
+          "question": "How to Water Plants While Away: Simple Systems That Work",
+          "search_intent": "Automatic watering for vacations and extended absences"
+        },
+        {
+          "question": "Can Gravity Fed Systems Water Plants at Different Heights?",
+          "search_intent": "Compatibility with varied pot sizes and elevations"
+        },
+        {
+          "question": "Best Way to Water Very Tall Hanging Plants on Balconies",
+          "search_intent": "Solutions for hard-to-reach, elevated plants"
+        },
+        {
+          "question": "Does a Gravity Fed System Need Electricity to Work?",
+          "search_intent": "Understanding power requirements for watering systems"
+        },
+        {
+          "question": "How to Expand Your Balcony Garden Watering System Later",
+          "search_intent": "Scalability and future-proofing watering solutions"
+        },
+        {
+          "question": "What Size Water Reservoir Do I Need for My Balcony?",
+          "search_intent": "Calculating proper capacity for plant needs"
+        },
+        {
+          "question": "How Often Should You Refill a Gravity Fed Plant Watering System?",
+          "search_intent": "Maintenance frequency and scheduling"
+        },
+        {
+          "question": "Can You Use Reclaimed Materials to Build a Watering System?",
+          "search_intent": "DIY approach using recycled or found items"
+        },
+        {
+          "question": "Best Drip Irrigation Setup for Container Gardens on Balconies",
+          "search_intent": "Efficient watering for potted plants in limited spaces"
+        },
+        {
+          "question": "How to Automate Balcony Plant Watering Without a Timer",
+          "search_intent": "Simple automation options for gravity fed systems"
+        },
+        {
+          "question": "What Are Common Problems With Drip Irrigation Systems?",
+          "search_intent": "Understanding potential issues before buying"
+        },
+        {
+          "question": "Can One Watering System Handle Different Plant Types?",
+          "search_intent": "Versatility for mixed plant water requirements"
+        },
+        {
+          "question": "How to Water Outdoor Potted Plants When You Travel",
+          "search_intent": "Solutions for plant care during absences"
+        },
+        {
+          "question": "Best Budget-Friendly Watering System for Apartment Balconies",
+          "search_intent": "Affordable options for renters and small spaces"
+        },
+        {
+          "question": "Do Gravity Fed Systems Work Better Than Soaker Hoses?",
+          "search_intent": "Comparing different watering method effectiveness"
+        },
+        {
+          "question": "How to Set Up a Self-Watering System That Actually Works",
+          "search_intent": "Practical implementation guidance"
+        },
+        {
+          "question": "Can You Use a Bucket System to Water Multiple Containers?",
+          "search_intent": "Simple bucket-based solutions for balcony gardens"
+        },
+        {
+          "question": "What's the Best Watering System for Hot, Dry Climates?",
+          "search_intent": "Solutions for plants needing frequent hydration"
+        },
+        {
+          "question": "How Much Water Do Balcony Plants Need Per Week?",
+          "search_intent": "Understanding water requirements for capacity planning"
+        },
+        {
+          "question": "Can You Mix Gravity Fed and Drip Irrigation Together?",
+          "search_intent": "Hybrid system possibilities"
+        },
+        {
+          "question": "Easiest Watering System for Balcony Gardeners (No Skills Required)",
+          "search_intent": "Simple solutions for beginners"
+        },
+        {
+          "question": "How to Keep Plants Hydrated on a Balcony Without Daily Watering",
+          "search_intent": "Reducing watering frequency through systems"
+        },
+        {
+          "question": "What Materials Do You Need for a DIY Gravity Fed System?",
+          "search_intent": "Shopping list and sourcing information"
+        },
+        {
+          "question": "Can Gravity Fed Systems Handle Wind and Temperature Swings?",
+          "search_intent": "Reliability in varying weather conditions"
+        },
+        {
+          "question": "How to Prevent Clogging in a Gravity Fed Plant Watering System",
+          "search_intent": "Maintenance tips and problem prevention"
+        },
+        {
+          "question": "Best Solution for Watering Plants on a Small Balcony",
+          "search_intent": "Space-efficient watering options"
+        },
+        {
+          "question": "Can You Use a Gravity Fed System for Indoor Potted Plants?",
+          "search_intent": "Indoor vs outdoor application possibilities"
+        },
+        {
+          "question": "How Often Do You Need to Refill a 15-Gallon Watering Reservoir?",
+          "search_intent": "Specific capacity and maintenance questions"
+        },
+        {
+          "question": "What's the Difference Between Soaker Hoses and Gravity Fed Systems?",
+          "search_intent": "Comparing watering method benefits"
+        },
+        {
+          "question": "How to Choose the Right Watering System for Your Balcony Setup",
+          "search_intent": "Decision-making guide for customers"
+        },
+        {
+          "question": "Can You Build a Watering System From Old Buckets and Supplies?",
+          "search_intent": "Upcycling approach to plant care"
+        },
+        {
+          "question": "Best Watering System for Balcony Plants in Hot Weather",
+          "search_intent": "Climate-specific solutions"
+        },
+        {
+          "question": "How to Make a Watering System That Lasts 5+ Days Without Refilling",
+          "search_intent": "Extended capacity for less frequent maintenance"
+        },
+        {
+          "question": "What Size Gravity Fed System Do I Need for 3-5 Containers?",
+          "search_intent": "Right-sizing systems for specific plant counts"
+        },
+        {
+          "question": "How to Install a Simple Watering System on a Rental Balcony",
+          "search_intent": "Non-permanent, renter-friendly solutions"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "gardening",
+          "title": "No running water out back, engineered a gravity fed watering system.",
+          "url": "https://www.reddit.com/r/gardening/comments/nvbdip/no_running_water_out_back_engineered_a_gravity/"
+        },
+        {
+          "subreddit": "Switzerland",
+          "title": "Automatic Watering Systems for Balcony Garden : r/Switzerland",
+          "url": "https://www.reddit.com/r/Switzerland/comments/1ryu0de/automatic_watering_systems_for_balcony_garden/"
+        },
+        {
+          "subreddit": "lifehacks",
+          "title": "What's the best way to keep my plants watered while I'm away for 3 ...",
+          "url": "https://www.reddit.com/r/lifehacks/comments/1gpn0jx/whats_the_best_way_to_keep_my_plants_watered/"
+        },
+        {
+          "subreddit": "houseplants",
+          "title": "Can anyone suggest a system for watering a plant that's VERY high ...",
+          "url": "https://www.reddit.com/r/houseplants/comments/1g580s0/can_anyone_suggest_a_system_for_watering_a_plant/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "What's a cheap DIY watering setup you've built that actually worked ...",
+          "url": "https://www.reddit.com/r/gardening/comments/1p0o3k5/whats_a_cheap_diy_watering_setup_youve_built_that/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/gardening",
+        "r/containergardening",
+        "r/houseplants",
+        "r/apartmentgardening",
+        "r/lifehacks",
+        "r/balconygarden",
+        "r/outdoorgardening",
+        "r/DIY",
+        "r/frugalgardeningideas",
+        "r/urbangardening"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

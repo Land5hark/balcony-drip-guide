@@ -1,0 +1,17 @@
+# Embedded git repositories
+passive-income/balcony-drip-irrigation/site-deploy/.git/
+passive-income/balcony-drip-irrigation/site-backup-20260514-191433/.git/
+passive-income/aquarium-ato/site/.git/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.swp
+*.swo
+*~

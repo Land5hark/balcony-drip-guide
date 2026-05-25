@@ -1,0 +1,225 @@
+[
+  {
+    "ts": "2026-05-03T21:21:54.401756+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Reducing water waste with container drip irrigation",
+        "Plant health improvements with consistent drip watering",
+        "Aesthetic solutions for hiding irrigation equipment",
+        "Balcony weight limits and irrigation system considerations",
+        "Maintenance schedules for balcony drip systems",
+        "Dealing with rental properties: portable drip solutions",
+        "Noise levels of different balcony irrigation pumps",
+        "Water quality and filtration for container gardens",
+        "Extending growing season with automated irrigation",
+        "Disease prevention through proper watering methods"
+      ],
+      "business": "balcony drip irrigation for container plants",
+      "cached": true,
+      "questions": [
+        {
+          "question": "Can You Use Drip Irrigation for Potted Plants?",
+          "search_intent": "Understand if drip irrigation works for containers"
+        },
+        {
+          "question": "How to Create Low-Cost Drip Irrigation on Your Balcony",
+          "search_intent": "Budget-friendly balcony watering solutions"
+        },
+        {
+          "question": "Best Automatic Watering Systems for Balcony Gardens",
+          "search_intent": "Find automated solutions for container plants"
+        },
+        {
+          "question": "How to Keep Container Plants Alive While on Vacation",
+          "search_intent": "Travel solutions for potted plants"
+        },
+        {
+          "question": "What Are the Basic Parts of a Container Drip Irrigation System?",
+          "search_intent": "Understanding drip irrigation components"
+        },
+        {
+          "question": "Gravity-Fed vs Pump: Which Balcony Irrigation System Works Best?",
+          "search_intent": "Compare different balcony watering methods"
+        },
+        {
+          "question": "How Often Should You Water Container Plants with Drip Irrigation?",
+          "search_intent": "Timing and frequency for container watering"
+        },
+        {
+          "question": "Solar-Powered Drip Irrigation for Balcony Containers: Does It Work?",
+          "search_intent": "Eco-friendly balcony watering options"
+        },
+        {
+          "question": "Best Hose Timers for Balcony Drip Irrigation Systems",
+          "search_intent": "Find reliable timer options"
+        },
+        {
+          "question": "How to Set Up Drip Irrigation on a Small Balcony",
+          "search_intent": "Space-saving watering solutions"
+        },
+        {
+          "question": "Can You Use Wine Bottles or Soda Bottles for Plant Watering?",
+          "search_intent": "DIY watering bottle solutions"
+        },
+        {
+          "question": "How Much Does Balcony Drip Irrigation Cost to Set Up?",
+          "search_intent": "Budget and pricing information"
+        },
+        {
+          "question": "Mulch and Drip Irrigation: The Perfect Combination for Container Plants",
+          "search_intent": "Best practices for container plant care"
+        },
+        {
+          "question": "Smart Home Watering: Automating Your Balcony Garden with Alexa",
+          "search_intent": "Tech-enabled watering solutions"
+        },
+        {
+          "question": "Drip Irrigation for 20+ Container Plants: A Complete Guide",
+          "search_intent": "Scale solutions for many containers"
+        },
+        {
+          "question": "How to Prevent Container Plants from Drying Out Between Waterings",
+          "search_intent": "Moisture retention techniques"
+        },
+        {
+          "question": "Best Water Pumps for Balcony Drip Irrigation Systems",
+          "search_intent": "Find suitable pump options"
+        },
+        {
+          "question": "DIY Drip Irrigation vs Buying a Pre-Made System: What's Better?",
+          "search_intent": "Compare DIY vs commercial options"
+        },
+        {
+          "question": "How to Water High Balcony Plants Safely and Efficiently",
+          "search_intent": "Solutions for hard-to-reach plants"
+        },
+        {
+          "question": "Drip Irrigation Spacing and Flow Rate: Getting It Right",
+          "search_intent": "Optimize watering for container plants"
+        },
+        {
+          "question": "Why Your Container Plants Keep Drying Out (And How to Fix It)",
+          "search_intent": "Troubleshoot watering problems"
+        },
+        {
+          "question": "Water Tank Placement for Hidden Balcony Irrigation Systems",
+          "search_intent": "Aesthetic and practical setup considerations"
+        },
+        {
+          "question": "How to Adjust Drip Irrigation Water Output for Different Plant Types",
+          "search_intent": "Customize watering for various containers"
+        },
+        {
+          "question": "Battery-Powered Hose Timers for Balcony Watering: Setup Guide",
+          "search_intent": "Easy timer installation and use"
+        },
+        {
+          "question": "Clogging Issues in Balcony Drip Irrigation: Prevention and Solutions",
+          "search_intent": "Maintain system efficiency"
+        },
+        {
+          "question": "Best Container Plants for Drip Irrigation Systems",
+          "search_intent": "Choose plants that work with automation"
+        },
+        {
+          "question": "How Long Can Container Plants Survive on Drip Irrigation Alone?",
+          "search_intent": "System reliability and independence"
+        },
+        {
+          "question": "Balcony Drip Irrigation During Different Seasons: Adjusting Your System",
+          "search_intent": "Seasonal watering adjustments"
+        },
+        {
+          "question": "Small Balcony Drip Irrigation: Maximizing Limited Space",
+          "search_intent": "Solutions for tiny balconies"
+        },
+        {
+          "question": "Soil Types That Work Best with Balcony Drip Irrigation",
+          "search_intent": "Optimize containers for automated watering"
+        },
+        {
+          "question": "How to Connect Multiple Container Drip Lines Properly",
+          "search_intent": "System assembly and configuration"
+        },
+        {
+          "question": "Is Drip Irrigation More Water-Efficient Than Hand Watering?",
+          "search_intent": "Understand efficiency benefits"
+        },
+        {
+          "question": "Budget Balcony Irrigation: Amazon and Local Store Options",
+          "search_intent": "Find affordable systems"
+        },
+        {
+          "question": "Troubleshooting Uneven Watering in Container Drip Systems",
+          "search_intent": "Solve distribution problems"
+        },
+        {
+          "question": "Drip Irrigation for Mixed Container Gardens: Herbs, Vegetables, and Flowers",
+          "search_intent": "Multi-plant watering strategies"
+        },
+        {
+          "question": "How to Winterize Your Balcony Drip Irrigation System",
+          "search_intent": "Seasonal maintenance tips"
+        },
+        {
+          "question": "Two-Pump Irrigation Systems: When and Why You'd Need Multiple Pumps",
+          "search_intent": "Understand complex systems"
+        },
+        {
+          "question": "Quick-Connect Fittings for Balcony Drip Irrigation: Installation Tips",
+          "search_intent": "Easy setup and adjustments"
+        },
+        {
+          "question": "Indoor Balcony Drip Irrigation: Managing Water Without Mess",
+          "search_intent": "Clean watering for covered spaces"
+        },
+        {
+          "question": "From Soda Bottles to Smart Systems: Evolution of Balcony Plant Watering",
+          "search_intent": "Compare watering method options"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "containergardening",
+          "title": "Drip irrigation for containers : r/containergardening - Reddit",
+          "url": "https://www.reddit.com/r/containergardening/comments/1sdo7au/drip_irrigation_for_containers/"
+        },
+        {
+          "subreddit": "Garten",
+          "title": "Irrigation System Balcony : r/Garten - Reddit",
+          "url": "https://www.reddit.com/r/Garten/comments/1kyket5/bew%C3%A4sserungssystem_balkon/?tl=en"
+        },
+        {
+          "subreddit": "Switzerland",
+          "title": "Automatic Watering Systems for Balcony Garden : r/Switzerland",
+          "url": "https://www.reddit.com/r/Switzerland/comments/1ryu0de/automatic_watering_systems_for_balcony_garden/"
+        },
+        {
+          "subreddit": "DenverGardener",
+          "title": "What's your secret to preventing container plants from drying out?",
+          "url": "https://www.reddit.com/r/DenverGardener/comments/1r6few1/whats_your_secret_to_preventing_container_plants/"
+        },
+        {
+          "subreddit": "houseplants",
+          "title": "Can anyone suggest a system for watering a plant that's VERY high ...",
+          "url": "https://www.reddit.com/r/houseplants/comments/1g580s0/can_anyone_suggest_a_system_for_watering_a_plant/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/containergardening",
+        "r/Garten",
+        "r/Switzerland",
+        "r/DenverGardener",
+        "r/houseplants",
+        "r/balconygarden",
+        "r/gardeninguk",
+        "r/vegetablegardening",
+        "r/indoorgarden",
+        "r/gardening"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

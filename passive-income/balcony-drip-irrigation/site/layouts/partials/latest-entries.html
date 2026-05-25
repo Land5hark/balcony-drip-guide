@@ -1,0 +1,30 @@
+{{/* latest-entries.html — journal-style dated list of recent articles. */}}
+{{- $count := .count | default 6 -}}
+{{- $pages := first $count (where .ctx.Site.RegularPages "Section" "posts") -}}
+<section class="section">
+  <div class="wrap">
+    <header class="section-header section-header--strong">
+      <h2 class="section-header__title">Latest entries</h2>
+      <a class="section-header__link" href="{{ "/all/" | relURL }}">The archive →</a>
+    </header>
+    <ul class="entries">
+      {{- range $pages }}
+      <li>
+        <a class="entries__item" href="{{ .RelPermalink }}">
+          <div class="entries__date">{{ .Date.Format "Jan 2, 2006" | upper }}</div>
+          <div>
+            {{- with index .Params.categories 0 }}
+            <span class="kicker">{{ . | humanize | replace "-" " " | title }}</span>
+            {{- end }}
+            <div class="entries__title">{{ .Title }}</div>
+          </div>
+          <div class="entries__dek">
+            {{ (.Description | default .Summary) | plainify | truncate 110 }}
+          </div>
+          <div class="entries__time">{{ .ReadingTime }} min</div>
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>

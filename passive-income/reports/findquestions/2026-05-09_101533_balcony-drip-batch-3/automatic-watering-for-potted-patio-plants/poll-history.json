@@ -1,0 +1,223 @@
+[
+  {
+    "ts": "2026-05-09T14:15:35.991337+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Automatic watering vs. hand watering: when to use each",
+        "Seasonal adjustments for automatic watering systems",
+        "Troubleshooting common automatic watering failures",
+        "Water conservation with automated systems",
+        "Automatic watering for different soil types",
+        "Best containers for automated watering",
+        "Protecting automatic systems from freezing weather",
+        "Cleaning and maintaining automatic watering equipment"
+      ],
+      "business": "automatic watering for potted patio plants",
+      "cached": true,
+      "questions": [
+        {
+          "question": "Can You Automate Watering for Outdoor Potted Plants?",
+          "search_intent": "Learn if automation works for patio containers"
+        },
+        {
+          "question": "Best Automatic Watering Systems for Potted Patio Plants",
+          "search_intent": "Find top-rated solutions for their garden"
+        },
+        {
+          "question": "How Much Does an Automatic Plant Watering System Cost?",
+          "search_intent": "Understand pricing and budget options"
+        },
+        {
+          "question": "Do Self-Watering Pots Actually Work?",
+          "search_intent": "Evaluate effectiveness before buying"
+        },
+        {
+          "question": "How to Water Potted Plants While on Vacation",
+          "search_intent": "Keep plants alive when traveling"
+        },
+        {
+          "question": "Smart Plant Watering Systems That Work With Alexa and Google Home",
+          "search_intent": "Find voice-controlled options"
+        },
+        {
+          "question": "Cheapest DIY Automatic Watering System for Containers",
+          "search_intent": "Budget-friendly setup ideas"
+        },
+        {
+          "question": "How Often Should You Water Potted Patio Plants?",
+          "search_intent": "Learn proper watering frequency"
+        },
+        {
+          "question": "Best App-Controlled Watering Systems for Balcony Gardens",
+          "search_intent": "Control plants from phone"
+        },
+        {
+          "question": "What Are the Drawbacks of Self-Watering Pots?",
+          "search_intent": "Understand limitations before purchasing"
+        },
+        {
+          "question": "Automatic Watering for 20+ Potted Plants: What Actually Works",
+          "search_intent": "Solve watering problems for large collections"
+        },
+        {
+          "question": "Most Common Mistakes With Container Plant Watering",
+          "search_intent": "Avoid killing plants with wrong techniques"
+        },
+        {
+          "question": "Water Wicking Systems: How Do They Work for Potted Plants?",
+          "search_intent": "Understand capillary mat technology"
+        },
+        {
+          "question": "Watering High Plants on Tall Shelves Automatically",
+          "search_intent": "Reach difficult-to-water locations"
+        },
+        {
+          "question": "WiFi Automatic Plant Watering: Is It Worth the Investment?",
+          "search_intent": "Decide if smart systems justify cost"
+        },
+        {
+          "question": "Can You Use Inverted Bottle Watering for All Plant Types?",
+          "search_intent": "Learn DIY bottle trick limitations"
+        },
+        {
+          "question": "Best Automatic Watering for Small Patios and Balconies",
+          "search_intent": "Find space-efficient solutions"
+        },
+        {
+          "question": "Automatic Watering Without Electricity: DIY Options That Work",
+          "search_intent": "Passive watering solutions"
+        },
+        {
+          "question": "How to Set Up Automatic Watering on a Budget",
+          "search_intent": "Affordable ways to automate"
+        },
+        {
+          "question": "Do Automatic Watering Systems Reduce Plant Pests?",
+          "search_intent": "Understand health benefits beyond convenience"
+        },
+        {
+          "question": "Timer-Based Watering vs. Sensor-Based: Which Is Better?",
+          "search_intent": "Compare automation technologies"
+        },
+        {
+          "question": "Automatic Watering for Flowering Potted Plants",
+          "search_intent": "Keep blooms healthy with automation"
+        },
+        {
+          "question": "Best Self-Watering Planters for Different Plant Sizes",
+          "search_intent": "Match system to plant needs"
+        },
+        {
+          "question": "How Long Can Automatic Watering Keep Plants Alive?",
+          "search_intent": "Understand reliability for extended absences"
+        },
+        {
+          "question": "Outdoor Faucet Timers: Complete Setup Guide for Patios",
+          "search_intent": "Learn installation and use"
+        },
+        {
+          "question": "Automatic Watering for Succulents in Pots: Will It Kill Them?",
+          "search_intent": "Understand plant-specific concerns"
+        },
+        {
+          "question": "What Size Water Reservoir Do You Need for Automatic Watering?",
+          "search_intent": "Calculate system requirements"
+        },
+        {
+          "question": "Automatic Watering Systems That Send Phone Alerts",
+          "search_intent": "Get notified of problems remotely"
+        },
+        {
+          "question": "Best Watering System for 50+ Container Plants",
+          "search_intent": "Scale solutions for large collections"
+        },
+        {
+          "question": "How to Prevent Overwatering With Automatic Systems",
+          "search_intent": "Control water amounts properly"
+        },
+        {
+          "question": "Automatic Watering in Hot, Dry Climates: What Works",
+          "search_intent": "Handle extreme weather conditions"
+        },
+        {
+          "question": "Self-Watering Pot Problems: Why Plants Still Die",
+          "search_intent": "Troubleshoot common failures"
+        },
+        {
+          "question": "Can You Mix Manual and Automatic Watering?",
+          "search_intent": "Use hybrid approaches"
+        },
+        {
+          "question": "Best Automatic Watering Hose Setup for Patio Gardens",
+          "search_intent": "Plan irrigation layout"
+        },
+        {
+          "question": "Gravity-Fed Watering Systems for Potted Plants",
+          "search_intent": "Simple passive solutions"
+        },
+        {
+          "question": "How Much Water Do Automatic Systems Actually Use?",
+          "search_intent": "Understand water consumption"
+        },
+        {
+          "question": "Automatic Watering for Herbs and Vegetables in Containers",
+          "search_intent": "Grow food automatically"
+        },
+        {
+          "question": "Weather-Responsive Automatic Watering: Does It Really Work?",
+          "search_intent": "Learn about smart rain sensors"
+        },
+        {
+          "question": "Automatic Watering Systems That Don't Require WiFi",
+          "search_intent": "Find offline options"
+        },
+        {
+          "question": "Step-by-Step: Installing Your First Automatic Patio Watering System",
+          "search_intent": "Learn setup process for beginners"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "homeautomation",
+          "title": "Whats best ways to automate garden watering? - Reddit",
+          "url": "https://www.reddit.com/r/homeautomation/comments/11mcqnn/whats_best_ways_to_automate_garden_watering/"
+        },
+        {
+          "subreddit": "lifehacks",
+          "title": "What's the best way to keep my plants watered while I'm away for 3 ...",
+          "url": "https://www.reddit.com/r/lifehacks/comments/1gpn0jx/whats_the_best_way_to_keep_my_plants_watered/"
+        },
+        {
+          "subreddit": "houseplants",
+          "title": "Can anyone suggest a system for watering a plant that's VERY high ...",
+          "url": "https://www.reddit.com/r/houseplants/comments/1g580s0/can_anyone_suggest_a_system_for_watering_a_plant/"
+        },
+        {
+          "subreddit": "DIY",
+          "title": "How to build a DIY Automatic Plant Watering System with WiFi alerts",
+          "url": "https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "how to DIY a self-watering system for my container garden? - Reddit",
+          "url": "https://www.reddit.com/r/gardening/comments/6b4el3/going_away_for_5_days_how_to_diy_a_selfwatering/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/homeautomation",
+        "r/lifehacks",
+        "r/houseplants",
+        "r/DIY",
+        "r/gardening",
+        "r/containergardens",
+        "r/homeimprovement",
+        "r/plants",
+        "r/balconygarden",
+        "r/SmartHome"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

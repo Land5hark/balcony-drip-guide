@@ -1,0 +1,225 @@
+[
+  {
+    "ts": "2026-05-09T14:15:37.142569+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Common beginner mistakes with drip irrigation",
+        "Best plants for balcony drip irrigation systems",
+        "How weather affects apartment plant watering schedules",
+        "Fertilizer injection with drip systems",
+        "Noise levels of different pump types for apartments",
+        "Space-saving storage for irrigation supplies",
+        "Dealing with hard water in drip systems",
+        "Monthly maintenance checklist for apartment irrigation",
+        "Warranty and customer service comparison by brand",
+        "Connecting multiple water sources to one system"
+      ],
+      "business": "best budget drip irrigation kits for apartment balconies",
+      "cached": true,
+      "questions": [
+        {
+          "question": "How to Water Plants on a Balcony Without a Spigot",
+          "search_intent": "Solutions for watering without outdoor water access"
+        },
+        {
+          "question": "Best Drip Irrigation Kits for Apartment Balconies",
+          "search_intent": "Product recommendations for small spaces"
+        },
+        {
+          "question": "Automatic Plant Watering System for Renters",
+          "search_intent": "Temporary solutions that don't require installation"
+        },
+        {
+          "question": "How to Keep Plants Watered While Away for 2+ Weeks",
+          "search_intent": "Vacation watering solutions"
+        },
+        {
+          "question": "Cheapest Way to Set Up Balcony Drip Irrigation",
+          "search_intent": "Budget-friendly options"
+        },
+        {
+          "question": "Drip Irrigation System Without Hose Hookup: Does It Work?",
+          "search_intent": "Alternative water source methods"
+        },
+        {
+          "question": "Can You Use Drip Irrigation in Pots on a Patio?",
+          "search_intent": "Container gardening with drip systems"
+        },
+        {
+          "question": "WiFi Smart Watering System for Apartment Plants",
+          "search_intent": "Tech-enabled irrigation with remote control"
+        },
+        {
+          "question": "Solar Powered Drip Irrigation for Balcony Gardens",
+          "search_intent": "Eco-friendly, no-electricity options"
+        },
+        {
+          "question": "Best Drip Emitters for Container Plants",
+          "search_intent": "Component recommendations for potted gardens"
+        },
+        {
+          "question": "How Often Should I Run Drip Irrigation on My Balcony?",
+          "search_intent": "Watering schedule and timing"
+        },
+        {
+          "question": "Kitten-Proof Drip Irrigation System for Balconies",
+          "search_intent": "Pet-safe watering solutions"
+        },
+        {
+          "question": "Drip Irrigation Timer Setup for Beginners",
+          "search_intent": "How to automate watering with timers"
+        },
+        {
+          "question": "Water Catchment System for Balcony Plant Irrigation",
+          "search_intent": "Rainwater harvesting for apartments"
+        },
+        {
+          "question": "Best Under-Pot Drip Catchers to Prevent Water Damage",
+          "search_intent": "Apartment-friendly leak prevention"
+        },
+        {
+          "question": "DIY Automatic Plant Watering System: Step-by-Step Guide",
+          "search_intent": "How to build a custom system"
+        },
+        {
+          "question": "Are Drip Irrigation Kits Worth the Investment?",
+          "search_intent": "Cost-benefit analysis for apartment gardeners"
+        },
+        {
+          "question": "Micro Drip Irrigation Kit for Small Apartment Gardens",
+          "search_intent": "Compact system options"
+        },
+        {
+          "question": "How High Can You Mount a Drip Irrigation System?",
+          "search_intent": "Solutions for elevated plants and hanging baskets"
+        },
+        {
+          "question": "Pressure Regulators for Drip Irrigation: Why You Need Them",
+          "search_intent": "Understanding system components"
+        },
+        {
+          "question": "Best Water Source for Balcony Drip Irrigation Systems",
+          "search_intent": "Bucket, barrel, or tap alternatives"
+        },
+        {
+          "question": "How to Troubleshoot Common Drip Irrigation Problems",
+          "search_intent": "Fixing clogs, leaks, and uneven watering"
+        },
+        {
+          "question": "Low-Cost Drip Irrigation Using Recycled Materials",
+          "search_intent": "Budget hacks and repurposing items"
+        },
+        {
+          "question": "Apartment Balcony Garden: Complete Drip System Setup",
+          "search_intent": "Full walkthrough for beginners"
+        },
+        {
+          "question": "Can Drip Irrigation Save Water on Apartment Patios?",
+          "search_intent": "Environmental and utility cost benefits"
+        },
+        {
+          "question": "Best Drip Irrigation Kit Under $50",
+          "search_intent": "Affordable options"
+        },
+        {
+          "question": "How to Install Drip Irrigation Without Damaging Apartment Floors",
+          "search_intent": "Renter-friendly installation"
+        },
+        {
+          "question": "Flat vs Round Drip Tubing: Which Works Better for Balconies?",
+          "search_intent": "Material comparison for small spaces"
+        },
+        {
+          "question": "Rain Sensor for Drip Irrigation: Do You Need One?",
+          "search_intent": "Smart features for apartment gardens"
+        },
+        {
+          "question": "Best Drip Irrigation Kits for Tomatoes and Herbs in Containers",
+          "search_intent": "System choice for specific plants"
+        },
+        {
+          "question": "How to Design a Drip System for Multiple Balcony Pots",
+          "search_intent": "Layout and planning"
+        },
+        {
+          "question": "Winterizing Your Apartment Balcony Drip Irrigation System",
+          "search_intent": "Seasonal maintenance"
+        },
+        {
+          "question": "What Size Drip Tubing Do I Need for My Balcony?",
+          "search_intent": "Choosing correct specifications"
+        },
+        {
+          "question": "Battery-Powered Drip Irrigation Timer for Renters",
+          "search_intent": "Plug-free automation options"
+        },
+        {
+          "question": "How to Prevent Drip Line Freezing in Cold Climates",
+          "search_intent": "Winter protection strategies"
+        },
+        {
+          "question": "Drip Irrigation Maintenance: Cleaning and Filter Replacement",
+          "search_intent": "Long-term upkeep"
+        },
+        {
+          "question": "Best Container Size for Drip Irrigation Systems",
+          "search_intent": "Pot selection for efficiency"
+        },
+        {
+          "question": "How Much Water Does a Drip System Actually Use?",
+          "search_intent": "Water consumption facts"
+        },
+        {
+          "question": "Expanding Your Balcony Drip System: Adding More Zones",
+          "search_intent": "Scaling up gradually"
+        },
+        {
+          "question": "Drip Irrigation vs Hand Watering: Which Saves Time?",
+          "search_intent": "Comparing methods for apartment gardeners"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "Irrigation",
+          "title": "Apartment patio garden irrigation with no apartment spicket - 2 week ...",
+          "url": "https://www.reddit.com/r/Irrigation/comments/grzzrh/apartment_patio_garden_irrigation_with_no/"
+        },
+        {
+          "subreddit": "houseplants",
+          "title": "Can anyone suggest a system for watering a plant that's VERY high ...",
+          "url": "https://www.reddit.com/r/houseplants/comments/1g580s0/can_anyone_suggest_a_system_for_watering_a_plant/"
+        },
+        {
+          "subreddit": "Irrigation",
+          "title": "Drip irrigation under sod : r/Irrigation - Reddit",
+          "url": "https://www.reddit.com/r/Irrigation/comments/1abl833/drip_irrigation_under_sod/"
+        },
+        {
+          "subreddit": "patiogardening",
+          "title": "Patio Irrigation without water hookup : r/patiogardening - Reddit",
+          "url": "https://www.reddit.com/r/patiogardening/comments/1926n2s/patio_irrigation_without_water_hookup/"
+        },
+        {
+          "subreddit": "DIY",
+          "title": "How to build a DIY Automatic Plant Watering System with WiFi alerts",
+          "url": "https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/houseplants",
+        "r/patiogardening",
+        "r/apartmentgardening",
+        "r/gardening",
+        "r/DIY",
+        "r/lifehacks",
+        "r/balcony",
+        "r/containers",
+        "r/Irrigation",
+        "r/renters"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

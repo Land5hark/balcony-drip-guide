@@ -1,0 +1,1040 @@
+{
+  "generated_at": "2026-05-03T21:21:30.917190Z",
+  "run_dirs": [
+    "/home/linuxlite/.openclaw/workspace/passive-income/reports/findquestions/2026-05-03_162558_balcony-drip-smoke-test"
+  ],
+  "themes": [
+    {
+      "theme_slug": "budget-diy",
+      "theme_label": "Budget DIY watering",
+      "unique_query_count": 2,
+      "question_count": 17,
+      "score": 28.4,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "How to Water Balcony Plants on a Budget",
+        "DIY Drip Irrigation System for Balcony Plants",
+        "Best Budget Drip Irrigation Kits for Apartment Balconies",
+        "DIY Watering System Using 5-Gallon Buckets",
+        "Can I Automate Balcony Plant Watering Without Spending Much?"
+      ]
+    },
+    {
+      "theme_slug": "kit-buyer",
+      "theme_label": "Buyer guide: kits / systems",
+      "unique_query_count": 2,
+      "question_count": 15,
+      "score": 26.0,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "Best Budget Drip Irrigation Kits for Apartment Balconies",
+        "How Often Should I Water Balcony Plants?",
+        "Best Soaker Hose Setup for Balcony Gardening",
+        "Best Plants for Balconies With Inconsistent Watering",
+        "How to Set Up Rainbird Balcony Irrigation Kit"
+      ]
+    },
+    {
+      "theme_slug": "no-tap-renter",
+      "theme_label": "No tap / renter constraints",
+      "unique_query_count": 2,
+      "question_count": 13,
+      "score": 23.6,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "Balcony Watering Without Damaging Downstairs Neighbors",
+        "How to Water Plants on Your Balcony Without a Tap",
+        "Best Watering Systems for Apartment Balconies",
+        "How to Stop Water from Pooling on Your Balcony",
+        "Automatic Watering System for Rental Apartments"
+      ]
+    },
+    {
+      "theme_slug": "drip-setup",
+      "theme_label": "Drip setup and expansion",
+      "unique_query_count": 2,
+      "question_count": 10,
+      "score": 20.0,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "DIY Drip Irrigation System for Balcony Plants",
+        "Best Budget Drip Irrigation Kits for Apartment Balconies",
+        "DIY Aquarium Pump Watering System for Balcony",
+        "Drip Irrigation Adapters for Garden Hoses",
+        "What Size Water Reservoir Do I Need for Drip Irrigation?"
+      ]
+    },
+    {
+      "theme_slug": "hose-soaker",
+      "theme_label": "Hose / soaker options",
+      "unique_query_count": 2,
+      "question_count": 7,
+      "score": 16.4,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "Can I Use a Garden Hose on My Balcony?",
+        "Best Soaker Hose Setup for Balcony Gardening",
+        "Drip Irrigation Adapters for Garden Hoses",
+        "Best Budget Soaker Hose for Container Gardens",
+        "Can You Use a Garden Hose Inside an Apartment?"
+      ]
+    },
+    {
+      "theme_slug": "timers-automation",
+      "theme_label": "Timers and automation",
+      "unique_query_count": 2,
+      "question_count": 6,
+      "score": 15.2,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "Can I Automate Balcony Plant Watering Without Spending Much?",
+        "Cheapest Smart Plug for Automated Plant Watering",
+        "Water Timer for Balcony Plants: Worth It?",
+        "Wireless Water Timer for Balcony Plants",
+        "Gravity-Fed Watering Systems for Balcony Gardens"
+      ]
+    },
+    {
+      "theme_slug": "vacation-watering",
+      "theme_label": "Vacation / away watering",
+      "unique_query_count": 2,
+      "question_count": 4,
+      "score": 12.8,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "How to Water Plants While Away on Vacation",
+        "How to Keep Balcony Plants Alive While on Vacation",
+        "How to Test a DIY Watering System Before Vacation",
+        "Watering Plants While on Vacation: Simple Solutions"
+      ]
+    },
+    {
+      "theme_slug": "watering-frequency",
+      "theme_label": "Watering frequency and schedules",
+      "unique_query_count": 2,
+      "question_count": 4,
+      "score": 12.8,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "How Often Should I Water Balcony Plants?",
+        "Balcony Plant Watering Schedule for Beginners",
+        "How Much Water Do Balcony Plants Really Need?",
+        "How Often Should You Water Balcony Plants?"
+      ]
+    },
+    {
+      "theme_slug": "general",
+      "theme_label": "General balcony/container watering",
+      "unique_query_count": 2,
+      "question_count": 23,
+      "score": 35.6,
+      "queries": [
+        "cheap diy watering for balcony plants",
+        "renter friendly balcony watering system"
+      ],
+      "examples": [
+        "Cheapest Way to Keep Balcony Plants Watered",
+        "How to Water Tall Plants on a Balcony",
+        "What's the Easiest Way to Water Container Plants?",
+        "Can I Hire Someone to Water My Balcony Plants?",
+        "How to Water Plants in Saucers and Trays"
+      ]
+    }
+  ],
+  "clusters": [
+    {
+      "label": "Best Portable Watering Systems for Apartments",
+      "score": 12.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 3,
+      "representative_intent": "Comparing easy solutions for renters",
+      "keyword_signature": "easy, systems, setup, comparing, solutions, renters",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Best Watering Systems for Apartment Balconies | Best Portable Watering Systems for Apartments | Easy Watering System Setup for Apartment Balconies"
+    },
+    {
+      "label": "How to Water Tall Plants on a Balcony",
+      "score": 11.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Affordable watering solutions for apartment balconies",
+      "keyword_signature": "solutions, affordable, budget, tall, reach, hard",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Water Balcony Plants on a Budget | How to Water Tall Plants on a Balcony"
+    },
+    {
+      "label": "How Often Should I Water Balcony Plants?",
+      "score": 11.0,
+      "lane": "technical-setup",
+      "unique_query_count": 2,
+      "question_count": 2,
+      "representative_intent": "Watering frequency and best practices",
+      "keyword_signature": "often, practices, frequency, routines, establishing",
+      "queries": "cheap diy watering for balcony plants | renter friendly balcony watering system",
+      "related_questions": "How Often Should I Water Balcony Plants? | How Often Should You Water Balcony Plants?"
+    },
+    {
+      "label": "DIY Balcony Watering System for Renters",
+      "score": 10.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Budget-friendly installation ideas",
+      "keyword_signature": "budget, diy, ideas, friendly, installation, renters",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "DIY Balcony Watering System for Renters"
+    },
+    {
+      "label": "Best Budget Drip Irrigation Kits for Apartment Balconies",
+      "score": 10.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Affordable pre-made systems",
+      "keyword_signature": "irrigation, budget, drip, affordable, systems, kits",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Best Budget Drip Irrigation Kits for Apartment Balconies"
+    },
+    {
+      "label": "Best Budget Soaker Hose for Container Gardens",
+      "score": 10.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Affordable soaker options",
+      "keyword_signature": "hose, budget, affordable, soaker, options",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Best Budget Soaker Hose for Container Gardens"
+    },
+    {
+      "label": "Wireless Water Timer for Balcony Plants",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Alternative container solutions",
+      "keyword_signature": "solutions, alternative, planters, self, automation, timer",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Self-Watering Planters for Balcony Plants | Wireless Water Timer for Balcony Plants"
+    },
+    {
+      "label": "Best Materials for Renter-Approved Watering Systems",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Damage-free options",
+      "keyword_signature": "damage, systems, approved, materials, options, renter",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Best Materials for Renter-Approved Watering Systems"
+    },
+    {
+      "label": "Budget Balcony Watering: Cheapest Options That Work",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Cost-conscious solutions",
+      "keyword_signature": "budget, work, conscious, options, cheapest, solutions",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Budget Balcony Watering: Cheapest Options That Work"
+    },
+    {
+      "label": "Cheapest Smart Plug for Automated Plant Watering",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Budget-friendly automation",
+      "keyword_signature": "smart, automated, budget, friendly, automation, plug",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Cheapest Smart Plug for Automated Plant Watering"
+    },
+    {
+      "label": "DIY Aquarium Pump Watering System for Balcony",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Pump-based irrigation setup",
+      "keyword_signature": "based, irrigation, aquarium, setup, diy, pump",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "DIY Aquarium Pump Watering System for Balcony"
+    },
+    {
+      "label": "Gravity-Fed Watering Systems for Balcony Gardens",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Low-tech automation methods",
+      "keyword_signature": "automation, fed, gravity, tech, low, systems",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Gravity-Fed Watering Systems for Balcony Gardens"
+    },
+    {
+      "label": "How to Test a DIY Watering System Before Vacation",
+      "score": 9.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "System reliability checks",
+      "keyword_signature": "vacation, test, before, diy, reliability, checks",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Test a DIY Watering System Before Vacation"
+    },
+    {
+      "label": "How to Water Balcony Plants Without Disturbing Neighbors Below",
+      "score": 9.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Considerate watering practices",
+      "keyword_signature": "practices, neighbors, below, disturbing, considerate",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Water Balcony Plants Without Disturbing Neighbors Below"
+    },
+    {
+      "label": "What to Do When Your Balcony Watering Floods Neighbors",
+      "score": 9.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Problem-solving and responsibility",
+      "keyword_signature": "problem, responsibility, floods, solving, neighbors",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "What to Do When Your Balcony Watering Floods Neighbors"
+    },
+    {
+      "label": "DIY Drip Irrigation System for Balcony Plants",
+      "score": 8.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Build your own watering system cheaply",
+      "keyword_signature": "diy, irrigation, drip, build, own, cheaply",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "DIY Drip Irrigation System for Balcony Plants | DIY Capillary Watering System for Balcony Plants"
+    },
+    {
+      "label": "How to Water Hanging Plants on Your Balcony",
+      "score": 8.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Finding alternatives to direct water access",
+      "keyword_signature": "access, direct, alternatives, tap, finding, challenges",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Water Plants on Your Balcony Without a Tap | How to Water Hanging Plants on Your Balcony"
+    },
+    {
+      "label": "Balcony Watering Without Damaging Downstairs Neighbors",
+      "score": 8.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Apartment-friendly solutions",
+      "keyword_signature": "damaging, downstairs, neighbors, friendly, solutions",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Balcony Watering Without Damaging Downstairs Neighbors"
+    },
+    {
+      "label": "Best Soaker Hose Setup for Balcony Gardening",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Soaker hose solutions",
+      "keyword_signature": "hose, setup, soaker, gardening, solutions",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Best Soaker Hose Setup for Balcony Gardening"
+    },
+    {
+      "label": "Can I Use a Garden Hose on My Balcony?",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Hose-based watering solutions",
+      "keyword_signature": "hose, based, solutions",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Can I Use a Garden Hose on My Balcony?"
+    },
+    {
+      "label": "Dealing with Water Dripping on Neighbors' Balconies",
+      "score": 8.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Responsible watering practices",
+      "keyword_signature": "dripping, responsible, practices, neighbors, dealing",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Dealing with Water Dripping on Neighbors' Balconies"
+    },
+    {
+      "label": "How to Connect Multiple Drip Lines on a Balcony",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Multi-plant irrigation setup",
+      "keyword_signature": "multiple, irrigation, drip, setup, multi, lines",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Connect Multiple Drip Lines on a Balcony"
+    },
+    {
+      "label": "How to Set Up Rainbird Balcony Irrigation Kit",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Specific product setup",
+      "keyword_signature": "kit, irrigation, setup, rainbird, set, product",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Set Up Rainbird Balcony Irrigation Kit"
+    },
+    {
+      "label": "Balcony Watering System Comparison: Hoses vs. Timers vs. Manual",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Decision-making framework",
+      "keyword_signature": "decision, hoses, making, timers, framework, comparison",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Balcony Watering System Comparison: Hoses vs. Timers vs. Manual"
+    },
+    {
+      "label": "Can You Run a Garden Hose from Your Kitchen Sink to Balcony?",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Indoor-to-outdoor water solutions",
+      "keyword_signature": "hose, run, indoor, kitchen, outdoor, sink",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Can You Run a Garden Hose from Your Kitchen Sink to Balcony?"
+    },
+    {
+      "label": "Can You Use a Garden Hose Inside an Apartment?",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Understanding indoor hose options",
+      "keyword_signature": "hose, indoor, inside, understanding, options",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Can You Use a Garden Hose Inside an Apartment?"
+    },
+    {
+      "label": "Drip Irrigation Adapters for Garden Hoses",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Hose attachment options",
+      "keyword_signature": "hose, irrigation, drip, hoses, adapters, options",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Drip Irrigation Adapters for Garden Hoses"
+    },
+    {
+      "label": "How to Keep Balcony Plants Alive While on Vacation",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Extended-leave watering solutions",
+      "keyword_signature": "vacation, extended, alive, keep, leave, solutions",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Keep Balcony Plants Alive While on Vacation"
+    },
+    {
+      "label": "How to Prevent Overwatering Balcony Plants",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Avoiding common mistakes",
+      "keyword_signature": "prevent, overwatering, mistakes, common, avoiding",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Prevent Overwatering Balcony Plants"
+    },
+    {
+      "label": "How to Stop Water from Pooling on Your Balcony",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Drainage and water management issues",
+      "keyword_signature": "pooling, issues, stop, drainage, management",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Stop Water from Pooling on Your Balcony"
+    },
+    {
+      "label": "How to Water Plants While Away on Vacation",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Automatic watering when traveling",
+      "keyword_signature": "traveling, away, vacation, automatic",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Water Plants While Away on Vacation"
+    },
+    {
+      "label": "Maintenance Tips for Balcony Watering Systems",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Keeping systems working long-term",
+      "keyword_signature": "maintenance, long, working, keeping, tips, term",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Maintenance Tips for Balcony Watering Systems"
+    },
+    {
+      "label": "Water Timer for Balcony Plants: Worth It?",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Evaluating automation investment",
+      "keyword_signature": "worth, automation, timer, investment, evaluating",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Water Timer for Balcony Plants: Worth It?"
+    },
+    {
+      "label": "Best Watering Cans for Small Balcony Gardens",
+      "score": 7.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Affordable, space-saving options",
+      "keyword_signature": "cans, saving, affordable, space, small, options",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Best Watering Cans for Small Balcony Gardens | Soaker Hoses vs. Watering Cans for Balcony Gardens"
+    },
+    {
+      "label": "Can I Automate Balcony Plant Watering Without Spending Much?",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Cheap automation options",
+      "keyword_signature": "spending, much, cheap, automation, automate, options",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Can I Automate Balcony Plant Watering Without Spending Much?"
+    },
+    {
+      "label": "How to Make a Self-Watering Container System",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "DIY self-watering pots",
+      "keyword_signature": "pots, make, diy, self",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Make a Self-Watering Container System"
+    },
+    {
+      "label": "How to Make Drip Irrigation Quieter",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Noise reduction",
+      "keyword_signature": "quieter, irrigation, noise, drip, make, reduction",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Make Drip Irrigation Quieter"
+    },
+    {
+      "label": "How to Set Up a Gravity-Fed Watering System",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Passive watering without electricity",
+      "keyword_signature": "fed, gravity, passive, set, electricity",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Set Up a Gravity-Fed Watering System"
+    },
+    {
+      "label": "Watering Plants While on Vacation: Simple Solutions",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Keeping plants alive without being home",
+      "keyword_signature": "vacation, keeping, alive, simple, being, home",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Watering Plants While on Vacation: Simple Solutions"
+    },
+    {
+      "label": "DIY Moisture Meter for Balcony Plants",
+      "score": 7.0,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Checking soil moisture",
+      "keyword_signature": "meter, moisture, checking, soil, diy",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "DIY Moisture Meter for Balcony Plants"
+    },
+    {
+      "label": "DIY Plant Watering Spike System",
+      "score": 7.0,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Spike-based watering",
+      "keyword_signature": "based, spike, diy",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "DIY Plant Watering Spike System"
+    },
+    {
+      "label": "DIY Watering System Using 5-Gallon Buckets",
+      "score": 7.0,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Simple bucket-based solutions",
+      "keyword_signature": "buckets, based, using, simple, bucket, diy",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "DIY Watering System Using 5-Gallon Buckets"
+    },
+    {
+      "label": "How to Set Up Drip Irrigation Without a Garden Tap",
+      "score": 7.0,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Working with limited infrastructure",
+      "keyword_signature": "irrigation, drip, working, limited, set, tap",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Set Up Drip Irrigation Without a Garden Tap"
+    },
+    {
+      "label": "How to Water Plants When You Don't Have an Outdoor Tap",
+      "score": 7.0,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Creative solutions for apartment dwellers",
+      "keyword_signature": "dwellers, creative, outdoor, don, tap, have",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Water Plants When You Don't Have an Outdoor Tap"
+    },
+    {
+      "label": "Automatic Watering System for Rental Apartments",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Hands-off solutions for busy renters",
+      "keyword_signature": "hands, rental, automatic, off, busy, renters",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Automatic Watering System for Rental Apartments"
+    },
+    {
+      "label": "Balcony Watering System That Won't Damage Your Flooring",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Protecting rental property",
+      "keyword_signature": "rental, damage, property, flooring, won, protecting",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Balcony Watering System That Won't Damage Your Flooring"
+    },
+    {
+      "label": "Can You Install a Watering System in a Rental?",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Understanding renter rights and options",
+      "keyword_signature": "rental, install, rights, understanding, options, renter",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Can You Install a Watering System in a Rental?"
+    },
+    {
+      "label": "Renter-Friendly Watering Solutions That Don't Require Modifications",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Non-permanent installation options",
+      "keyword_signature": "require, modifications, permanent, don, options, renter",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Renter-Friendly Watering Solutions That Don't Require Modifications"
+    },
+    {
+      "label": "Best Container Size and Material for Balcony Gardens",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Choosing the right pots",
+      "keyword_signature": "size, material, right, pots, choosing",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Best Container Size and Material for Balcony Gardens"
+    },
+    {
+      "label": "Best Plants for Balconies With Inconsistent Watering",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Low-maintenance plant selection",
+      "keyword_signature": "maintenance, low, inconsistent, selection",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Best Plants for Balconies With Inconsistent Watering"
+    },
+    {
+      "label": "Best Time to Water Balcony Plants",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Optimizing plant health and water use",
+      "keyword_signature": "health, time, optimizing",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Best Time to Water Balcony Plants"
+    },
+    {
+      "label": "Can I Hire Someone to Water My Balcony Plants?",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Plant-sitting services",
+      "keyword_signature": "services, hire, sitting, someone",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Can I Hire Someone to Water My Balcony Plants?"
+    },
+    {
+      "label": "Can I Use Rainwater for Balcony Plant Watering?",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Water collection and reuse",
+      "keyword_signature": "collection, rainwater, reuse",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Can I Use Rainwater for Balcony Plant Watering?"
+    },
+    {
+      "label": "How to Drill Drainage Holes for Better Watering",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Container preparation",
+      "keyword_signature": "preparation, holes, drill, drainage",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Drill Drainage Holes for Better Watering"
+    },
+    {
+      "label": "How to Keep Balcony Plants Watered in Hot Weather",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Seasonal challenges and solutions",
+      "keyword_signature": "seasonal, keep, weather, challenges, watered, hot",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Keep Balcony Plants Watered in Hot Weather"
+    },
+    {
+      "label": "How to Keep Your Balcony Clean While Gardening",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Managing water spillage and mess",
+      "keyword_signature": "keep, clean, gardening, mess, spillage, managing",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How to Keep Your Balcony Clean While Gardening"
+    },
+    {
+      "label": "How to Water Multiple Balcony Plants Efficiently",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Watering multiple containers",
+      "keyword_signature": "efficiently, multiple",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Water Multiple Balcony Plants Efficiently"
+    },
+    {
+      "label": "How to Water Plants in Saucers and Trays",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Tray-based watering methods",
+      "keyword_signature": "trays, tray, based, methods, saucers",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Water Plants in Saucers and Trays"
+    },
+    {
+      "label": "How to Winterize a Balcony Watering System",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Off-season maintenance",
+      "keyword_signature": "season, winterize, maintenance, off",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How to Winterize a Balcony Watering System"
+    },
+    {
+      "label": "What Size Water Reservoir Do I Need for Drip Irrigation?",
+      "score": 6.0,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Planning water capacity",
+      "keyword_signature": "capacity, irrigation, size, drip, reservoir, planning",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "What Size Water Reservoir Do I Need for Drip Irrigation?"
+    },
+    {
+      "label": "What's the Easiest Way to Water Container Plants?",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Simple watering methods",
+      "keyword_signature": "easiest, way, methods, simple",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "What's the Easiest Way to Water Container Plants?"
+    },
+    {
+      "label": "Apartment Balcony Plant Care: The Complete Watering Guide",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Comprehensive beginner resource",
+      "keyword_signature": "guide, complete, resource, beginner, comprehensive, care",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Apartment Balcony Plant Care: The Complete Watering Guide"
+    },
+    {
+      "label": "Balcony Plant Watering Schedule for Beginners",
+      "score": 5.5,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "When and how often to water",
+      "keyword_signature": "beginners, often, schedule",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Balcony Plant Watering Schedule for Beginners"
+    },
+    {
+      "label": "Balcony Watering System for Windy Conditions",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Wind-resistant solutions",
+      "keyword_signature": "wind, windy, conditions, resistant, solutions",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Balcony Watering System for Windy Conditions"
+    },
+    {
+      "label": "Cheapest Way to Keep Balcony Plants Watered",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Low-cost watering options",
+      "keyword_signature": "low, keep, watered, way, options, cheapest",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "Cheapest Way to Keep Balcony Plants Watered"
+    },
+    {
+      "label": "Drip Irrigation for Balcony Plants: Complete Guide",
+      "score": 5.5,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Understanding efficient watering methods",
+      "keyword_signature": "efficient, guide, irrigation, complete, drip, methods",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Drip Irrigation for Balcony Plants: Complete Guide"
+    },
+    {
+      "label": "How Much Does Professional Plant Watering Service Cost?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Pricing for plant-sitting",
+      "keyword_signature": "much, service, professional, sitting, pricing",
+      "queries": "cheap diy watering for balcony plants",
+      "related_questions": "How Much Does Professional Plant Watering Service Cost?"
+    },
+    {
+      "label": "How Much Water Do Balcony Plants Really Need?",
+      "score": 5.5,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Learning proper watering frequency",
+      "keyword_signature": "much, proper, learning, frequency",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "How Much Water Do Balcony Plants Really Need?"
+    },
+    {
+      "label": "Indoor Water Source for Balcony Watering",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Connecting water inside to outside",
+      "keyword_signature": "indoor, source, inside, outside, connecting",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Indoor Water Source for Balcony Watering"
+    },
+    {
+      "label": "Preventing Water Damage to Balconies from Watering",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Protecting property and deposits",
+      "keyword_signature": "damage, deposits, preventing, property, protecting",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Preventing Water Damage to Balconies from Watering"
+    },
+    {
+      "label": "Simple Balcony Watering System Under $50",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Affordable entry-level options",
+      "keyword_signature": "under, entry, level, affordable, simple, options",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Simple Balcony Watering System Under $50"
+    },
+    {
+      "label": "Water Conservation Tips for Balcony Gardening",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Eco-friendly and cost-effective practices",
+      "keyword_signature": "conservation, tips, practices, gardening, friendly, effective",
+      "queries": "renter friendly balcony watering system",
+      "related_questions": "Water Conservation Tips for Balcony Gardening"
+    }
+  ],
+  "bonus_topics": [
+    [
+      "Lease restrictions on balcony watering systems",
+      1
+    ],
+    [
+      "Water pressure requirements for drip irrigation",
+      1
+    ],
+    [
+      "Cleaning and maintaining cheap drip lines",
+      1
+    ],
+    [
+      "Troubleshooting common watering system problems",
+      1
+    ],
+    [
+      "Local plant watering service reviews",
+      1
+    ],
+    [
+      "Fertilizing through drip irrigation systems",
+      1
+    ],
+    [
+      "Balcony water drainage solutions",
+      1
+    ],
+    [
+      "Garden hose types and durability for balconies",
+      1
+    ],
+    [
+      "DIY smart watering timers on a budget",
+      1
+    ],
+    [
+      "Moisture sensors for automated watering decisions",
+      1
+    ],
+    [
+      "Water conservation during drought seasons",
+      1
+    ],
+    [
+      "Best plants for low-water balconies",
+      1
+    ],
+    [
+      "Container drainage solutions for patios",
+      1
+    ],
+    [
+      "Connecting multiple watering systems together",
+      1
+    ],
+    [
+      "Testing water quality for plants",
+      1
+    ],
+    [
+      "Seasonal adjustments to watering schedules",
+      1
+    ],
+    [
+      "Using recycled water or collected rainwater",
+      1
+    ],
+    [
+      "Protecting balcony plants from overwatering",
+      1
+    ],
+    [
+      "Moving watering systems when changing apartments",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{{/*
+  {{< editors-pick
+       name="Raindrip R560DP Universal Kit"
+       url="https://amzn.to/your-affiliate-link"
+       price="$42"
+       rating="4.7"
+       reviews="2,148"
+       image="/images/raindrip-r560dp.jpg"
+       retailer="Amazon"
+       blurb="The only starter kit that ships with the right parts for an indoor faucet setup."
+  >}}
+*/}}
+{{ partial "affiliate-card.html" (dict "name" (.Get "name") "url" (.Get "url") "price" (.Get "price") "rating" (.Get "rating") "reviews" (.Get "reviews") "image" (.Get "image") "retailer" (.Get "retailer") "blurb" (.Get "blurb") "why" (.Get "why")) }}

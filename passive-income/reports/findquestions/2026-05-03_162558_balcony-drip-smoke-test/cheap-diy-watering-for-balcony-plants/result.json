@@ -1,0 +1,218 @@
+{
+  "bonus_topics": [
+    "Lease restrictions on balcony watering systems",
+    "Water pressure requirements for drip irrigation",
+    "Cleaning and maintaining cheap drip lines",
+    "Troubleshooting common watering system problems",
+    "Local plant watering service reviews",
+    "Fertilizing through drip irrigation systems",
+    "Balcony water drainage solutions",
+    "Garden hose types and durability for balconies",
+    "DIY smart watering timers on a budget"
+  ],
+  "business": "cheap diy watering for balcony plants",
+  "cached": true,
+  "questions": [
+    {
+      "question": "How to Water Balcony Plants on a Budget",
+      "search_intent": "Affordable watering solutions for apartment balconies"
+    },
+    {
+      "question": "DIY Drip Irrigation System for Balcony Plants",
+      "search_intent": "Build your own watering system cheaply"
+    },
+    {
+      "question": "Cheapest Way to Keep Balcony Plants Watered",
+      "search_intent": "Low-cost watering options"
+    },
+    {
+      "question": "How to Water Plants While Away on Vacation",
+      "search_intent": "Automatic watering when traveling"
+    },
+    {
+      "question": "Can I Use a Garden Hose on My Balcony?",
+      "search_intent": "Hose-based watering solutions"
+    },
+    {
+      "question": "Best Budget Drip Irrigation Kits for Apartment Balconies",
+      "search_intent": "Affordable pre-made systems"
+    },
+    {
+      "question": "How to Water Tall Plants on a Balcony",
+      "search_intent": "Solutions for hard-to-reach plants"
+    },
+    {
+      "question": "DIY Watering System Using 5-Gallon Buckets",
+      "search_intent": "Simple bucket-based solutions"
+    },
+    {
+      "question": "Can I Automate Balcony Plant Watering Without Spending Much?",
+      "search_intent": "Cheap automation options"
+    },
+    {
+      "question": "How Often Should I Water Balcony Plants?",
+      "search_intent": "Watering frequency and best practices"
+    },
+    {
+      "question": "What's the Easiest Way to Water Container Plants?",
+      "search_intent": "Simple watering methods"
+    },
+    {
+      "question": "How to Keep Balcony Plants Alive While on Vacation",
+      "search_intent": "Extended-leave watering solutions"
+    },
+    {
+      "question": "DIY Aquarium Pump Watering System for Balcony",
+      "search_intent": "Pump-based irrigation setup"
+    },
+    {
+      "question": "Best Soaker Hose Setup for Balcony Gardening",
+      "search_intent": "Soaker hose solutions"
+    },
+    {
+      "question": "How to Set Up a Gravity-Fed Watering System",
+      "search_Intent": "Passive watering without electricity"
+    },
+    {
+      "question": "Can I Hire Someone to Water My Balcony Plants?",
+      "search_intent": "Plant-sitting services"
+    },
+    {
+      "question": "Drip Irrigation Adapters for Garden Hoses",
+      "search_intent": "Hose attachment options"
+    },
+    {
+      "question": "How to Water Plants in Saucers and Trays",
+      "search_intent": "Tray-based watering methods"
+    },
+    {
+      "question": "Cheapest Smart Plug for Automated Plant Watering",
+      "search_intent": "Budget-friendly automation"
+    },
+    {
+      "question": "How to Drill Drainage Holes for Better Watering",
+      "search_intent": "Container preparation"
+    },
+    {
+      "question": "What Size Water Reservoir Do I Need for Drip Irrigation?",
+      "search_intent": "Planning water capacity"
+    },
+    {
+      "question": "How to Test a DIY Watering System Before Vacation",
+      "search_intent": "System reliability checks"
+    },
+    {
+      "question": "Balcony Watering Without Damaging Downstairs Neighbors",
+      "search_intent": "Apartment-friendly solutions"
+    },
+    {
+      "question": "How to Make a Self-Watering Container System",
+      "search_intent": "DIY self-watering pots"
+    },
+    {
+      "question": "Best Plants for Balconies With Inconsistent Watering",
+      "search_intent": "Low-maintenance plant selection"
+    },
+    {
+      "question": "How to Set Up Rainbird Balcony Irrigation Kit",
+      "search_intent": "Specific product setup"
+    },
+    {
+      "question": "DIY Moisture Meter for Balcony Plants",
+      "search_intent": "Checking soil moisture"
+    },
+    {
+      "question": "Can I Use Rainwater for Balcony Plant Watering?",
+      "search_intent": "Water collection and reuse"
+    },
+    {
+      "question": "How to Water Multiple Balcony Plants Efficiently",
+      "search_intent": "Watering multiple containers"
+    },
+    {
+      "question": "Balcony Plant Watering Schedule for Beginners",
+      "search_intent": "When and how often to water"
+    },
+    {
+      "question": "DIY Capillary Watering System for Balcony Plants",
+      "search_intent": "Wick-based passive watering"
+    },
+    {
+      "question": "How Much Does Professional Plant Watering Service Cost?",
+      "search_intent": "Pricing for plant-sitting"
+    },
+    {
+      "question": "Best Budget Soaker Hose for Container Gardens",
+      "search_intent": "Affordable soaker options"
+    },
+    {
+      "question": "How to Connect Multiple Drip Lines on a Balcony",
+      "search_intent": "Multi-plant irrigation setup"
+    },
+    {
+      "question": "DIY Plant Watering Spike System",
+      "search_intent": "Spike-based watering"
+    },
+    {
+      "question": "How to Prevent Overwatering Balcony Plants",
+      "search_intent": "Avoiding common mistakes"
+    },
+    {
+      "question": "Best Container Size and Material for Balcony Gardens",
+      "search_intent": "Choosing the right pots"
+    },
+    {
+      "question": "How to Make Drip Irrigation Quieter",
+      "search_intent": "Noise reduction"
+    },
+    {
+      "question": "Balcony Watering System for Windy Conditions",
+      "search_intent": "Wind-resistant solutions"
+    },
+    {
+      "question": "How to Winterize a Balcony Watering System",
+      "search_intent": "Off-season maintenance"
+    }
+  ],
+  "sources": [
+    {
+      "subreddit": "gardening",
+      "title": "What's a cheap DIY watering setup you've built that actually worked ...",
+      "url": "https://www.reddit.com/r/gardening/comments/1p0o3k5/whats_a_cheap_diy_watering_setup_youve_built_that/"
+    },
+    {
+      "subreddit": "lifehacks",
+      "title": "What's the best way to keep my plants watered while I'm away for 3 ...",
+      "url": "https://www.reddit.com/r/lifehacks/comments/1gpn0jx/whats_the_best_way_to_keep_my_plants_watered/"
+    },
+    {
+      "subreddit": "houseplants",
+      "title": "Can anyone suggest a system for watering a plant that's VERY high ...",
+      "url": "https://www.reddit.com/r/houseplants/comments/1g580s0/can_anyone_suggest_a_system_for_watering_a_plant/"
+    },
+    {
+      "subreddit": "gardening",
+      "title": "Low cost way to water my garden while I'm gone for a week? - Reddit",
+      "url": "https://www.reddit.com/r/gardening/comments/1kc6wve/low_cost_way_to_water_my_garden_while_im_gone_for/"
+    },
+    {
+      "subreddit": "homeassistant",
+      "title": "Balcony Watering Suggestions : r/homeassistant - Reddit",
+      "url": "https://www.reddit.com/r/homeassistant/comments/m3h3ru/balcony_watering_suggestions/"
+    }
+  ],
+  "status": "complete",
+  "subreddits": [
+    "r/gardening",
+    "r/lifehacks",
+    "r/houseplants",
+    "r/containergardening",
+    "r/UrbanGardening",
+    "r/Apartmentliving",
+    "r/homeassistant",
+    "r/BudgetGardening",
+    "r/IndoorGarden",
+    "r/balconygardening"
+  ],
+  "threads_analyzed": 8
+}

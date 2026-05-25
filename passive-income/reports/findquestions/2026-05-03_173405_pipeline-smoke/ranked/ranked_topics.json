@@ -1,0 +1,1021 @@
+{
+  "generated_at": "2026-05-03T21:34:07.177429Z",
+  "run_dirs": [
+    "/home/linuxlite/.openclaw/workspace/passive-income/reports/findquestions/2026-05-03_173405_pipeline-smoke"
+  ],
+  "themes": [
+    {
+      "theme_slug": "vacation-watering",
+      "theme_label": "Vacation / away watering",
+      "unique_query_count": 2,
+      "question_count": 23,
+      "score": 35.6,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "How to Keep Balcony Plants Watered While on Vacation",
+        "Can I Keep Balcony Plants in Sealed Bags While Away",
+        "Ziplock Bag Method for Watering Plants While Away",
+        "Can Balcony Plants Survive 3 Weeks Without Water",
+        "How to Keep Balcony Plants Alive While You're Away"
+      ]
+    },
+    {
+      "theme_slug": "kit-buyer",
+      "theme_label": "Buyer guide: kits / systems",
+      "unique_query_count": 2,
+      "question_count": 13,
+      "score": 23.6,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "Best Watering Can for Balcony Plants",
+        "Best Water Butt for Balcony Plant Watering",
+        "Best Timer for Automatic Balcony Plant Watering",
+        "Hand Watering vs Automatic Systems for Balcony Plants",
+        "Best Container Plants for Minimal Watering"
+      ]
+    },
+    {
+      "theme_slug": "budget-diy",
+      "theme_label": "Budget DIY watering",
+      "unique_query_count": 2,
+      "question_count": 6,
+      "score": 15.2,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "DIY Balcony Watering System Without a Tap",
+        "Budget Watering Solutions for Apartment Balconies",
+        "Best DIY Plant Watering System for Your Balcony",
+        "Plastic Bottle Watering Hack for Plants While Away",
+        "How to Set Up a Gravity-Fed Plant Watering System"
+      ]
+    },
+    {
+      "theme_slug": "no-tap-renter",
+      "theme_label": "No tap / renter constraints",
+      "unique_query_count": 2,
+      "question_count": 6,
+      "score": 15.2,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "How to Water Balcony Plants Without a Tap",
+        "DIY Balcony Watering System Without a Tap",
+        "Drip Irrigation for Balcony Plants Without Tap Water",
+        "Self-Watering Planters for Balconies Without Tap",
+        "Apartment Balcony Watering: No Tap, No Problem"
+      ]
+    },
+    {
+      "theme_slug": "drip-setup",
+      "theme_label": "Drip setup and expansion",
+      "unique_query_count": 2,
+      "question_count": 5,
+      "score": 14.0,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "Drip Irrigation for Balcony Plants Without Tap Water",
+        "How to Set Up Micro Drip Irrigation on a Balcony",
+        "How to Prevent Clogging in Drip Irrigation Systems",
+        "Watering System Filters for Balcony Drip Irrigation",
+        "Drip Irrigation Setup for Balcony Container Plants"
+      ]
+    },
+    {
+      "theme_slug": "watering-frequency",
+      "theme_label": "Watering frequency and schedules",
+      "unique_query_count": 2,
+      "question_count": 4,
+      "score": 12.8,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "How Often Should I Water Balcony Plants in Summer",
+        "Best Watering Schedule for Container Balcony Gardens",
+        "How Often Should You Water Balcony Plants?",
+        "Plant Watering Schedule: What to Do Before Leaving Home"
+      ]
+    },
+    {
+      "theme_slug": "timers-automation",
+      "theme_label": "Timers and automation",
+      "unique_query_count": 2,
+      "question_count": 3,
+      "score": 11.6,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "Best Timer for Automatic Balcony Plant Watering",
+        "Automatic Plant Watering System for Balcony Plants",
+        "Plant Watering Apps: Can Technology Help While You're Gone?"
+      ]
+    },
+    {
+      "theme_slug": "hose-soaker",
+      "theme_label": "Hose / soaker options",
+      "unique_query_count": 1,
+      "question_count": 3,
+      "score": 7.6,
+      "queries": [
+        "how to water balcony plants without a tap"
+      ],
+      "examples": [
+        "Can I Use a Hose Inside to Water My Balcony Garden",
+        "Hose Lock Watering System for Balcony Gardens",
+        "How to Attach a Hose to a Water Butt for Balcony Use"
+      ]
+    },
+    {
+      "theme_slug": "general",
+      "theme_label": "General balcony/container watering",
+      "unique_query_count": 2,
+      "question_count": 27,
+      "score": 40.4,
+      "queries": [
+        "how to water balcony plants without a tap",
+        "watering balcony plants while away"
+      ],
+      "examples": [
+        "What Water Can I Use for Balcony Plants",
+        "Automatic Watering System for Balcony Gardens",
+        "How to Water Plants on a High-Rise Balcony",
+        "How Long Can Balcony Plants Go Without Water",
+        "Can I Water Balcony Plants With Collected Rainwater"
+      ]
+    }
+  ],
+  "clusters": [
+    {
+      "label": "Automatic Watering System for Balcony Gardens",
+      "score": 15.0,
+      "lane": "buyer",
+      "unique_query_count": 2,
+      "question_count": 3,
+      "representative_intent": "Hands-off watering",
+      "keyword_signature": "automatic, hands, off, product, research, hose",
+      "queries": "how to water balcony plants without a tap | watering balcony plants while away",
+      "related_questions": "Automatic Watering System for Balcony Gardens | Hose Lock Watering System for Balcony Gardens | Automatic Plant Watering System for Balcony Plants"
+    },
+    {
+      "label": "How to Keep Balcony Plants Alive While You're Away",
+      "score": 13.5,
+      "lane": "pain-point",
+      "unique_query_count": 2,
+      "question_count": 2,
+      "representative_intent": "Solution for time away",
+      "keyword_signature": "vacation, away, keep, watered, solution, time",
+      "queries": "how to water balcony plants without a tap | watering balcony plants while away",
+      "related_questions": "How to Keep Balcony Plants Watered While on Vacation | How to Keep Balcony Plants Alive While You're Away"
+    },
+    {
+      "label": "How to Water Balcony Plants Without a Tap",
+      "score": 11.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 4,
+      "representative_intent": "Direct solution for no tap access",
+      "keyword_signature": "access, direct, tap, solution, survival, timeline",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Water Balcony Plants Without a Tap | How Long Can Balcony Plants Go Without Water | How to Water Balcony Plants When You Travel | How to Water Balcony Plants in Extreme Heat"
+    },
+    {
+      "label": "Budget-Friendly Solutions for Watering Plants While Away",
+      "score": 11.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants cheap or free options",
+      "keyword_signature": "budget, cheap, options, free, solutions, friendly",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Budget-Friendly Solutions for Watering Plants While Away"
+    },
+    {
+      "label": "How Often Should You Water Balcony Plants?",
+      "score": 11.0,
+      "lane": "technical-setup",
+      "unique_query_count": 2,
+      "question_count": 2,
+      "representative_intent": "Seasonal watering schedule",
+      "keyword_signature": "often, schedule, summer, seasonal, baseline, learning",
+      "queries": "how to water balcony plants without a tap | watering balcony plants while away",
+      "related_questions": "How Often Should I Water Balcony Plants in Summer | How Often Should You Water Balcony Plants?"
+    },
+    {
+      "label": "DIY Balcony Watering System Without a Tap",
+      "score": 10.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Budget-friendly setup",
+      "keyword_signature": "budget, friendly, setup, tap, diy",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "DIY Balcony Watering System Without a Tap"
+    },
+    {
+      "label": "How to Prevent Clogging in Drip Irrigation Systems",
+      "score": 10.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "System maintenance",
+      "keyword_signature": "maintenance, systems, drip, clogging, prevent, irrigation",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Prevent Clogging in Drip Irrigation Systems"
+    },
+    {
+      "label": "Best Water Butt for Balcony Plant Watering",
+      "score": 10.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Rainwater collection",
+      "keyword_signature": "rainwater, collection, butt, automated, timer, automatic",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Best Water Butt for Balcony Plant Watering | Best Timer for Automatic Balcony Plant Watering"
+    },
+    {
+      "label": "Best DIY Plant Watering System for Your Balcony",
+      "score": 10.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to build their own watering setup",
+      "keyword_signature": "own, setup, build, wants, diy, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Best DIY Plant Watering System for Your Balcony"
+    },
+    {
+      "label": "Budget Watering Solutions for Apartment Balconies",
+      "score": 9.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Cheap alternatives",
+      "keyword_signature": "solutions, alternatives, budget, cheap",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Budget Watering Solutions for Apartment Balconies"
+    },
+    {
+      "label": "Best Neighbors to Ask for Plant Watering Help",
+      "score": 9.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer considering trusted friend option",
+      "keyword_signature": "trusted, considering, friend, neighbors, ask, option",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Best Neighbors to Ask for Plant Watering Help"
+    },
+    {
+      "label": "Plastic Bottle Watering Hack for Plants While Away",
+      "score": 9.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants cheap DIY solutions",
+      "keyword_signature": "hack, cheap, solutions, plastic, away, bottle",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Plastic Bottle Watering Hack for Plants While Away"
+    },
+    {
+      "label": "Apartment Balcony Watering: No Tap, No Problem",
+      "score": 8.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Urban gardening solution",
+      "keyword_signature": "solution, urban, tap, gardening, problem",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Apartment Balcony Watering: No Tap, No Problem"
+    },
+    {
+      "label": "Can I Use a Hose Inside to Water My Balcony Garden",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Indoor hose feasibility",
+      "keyword_signature": "inside, indoor, hose, feasibility",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Can I Use a Hose Inside to Water My Balcony Garden"
+    },
+    {
+      "label": "How to Attach a Hose to a Water Butt for Balcony Use",
+      "score": 8.5,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Equipment connection guide",
+      "keyword_signature": "connection, hose, butt, equipment, attach, guide",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Attach a Hose to a Water Butt for Balcony Use"
+    },
+    {
+      "label": "Best Moisture Meters to Monitor Plants While Away",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to check soil remotely",
+      "keyword_signature": "remotely, check, meters, away, wants, moisture",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Best Moisture Meters to Monitor Plants While Away"
+    },
+    {
+      "label": "Can I Keep Balcony Plants in Sealed Bags While Away",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Vacation watering hack",
+      "keyword_signature": "hack, vacation, away, sealed, bags, keep",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Can I Keep Balcony Plants in Sealed Bags While Away"
+    },
+    {
+      "label": "Capillary Mats for Plant Watering: Setup and Benefits",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer researching mat-based solutions",
+      "keyword_signature": "capillary, mat, based, solutions, setup, mats",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Capillary Mats for Plant Watering: Setup and Benefits"
+    },
+    {
+      "label": "Drip Irrigation Setup for Balcony Container Plants",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants permanent watering solution",
+      "keyword_signature": "drip, solution, setup, wants, irrigation, permanent",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Drip Irrigation Setup for Balcony Container Plants"
+    },
+    {
+      "label": "Gardena Balcony Watering System Setup Guide",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Brand-specific solution",
+      "keyword_signature": "solution, setup, brand, gardena, guide, specific",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Gardena Balcony Watering System Setup Guide"
+    },
+    {
+      "label": "Hand Watering vs Automatic Systems for Balcony Plants",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Method comparison",
+      "keyword_signature": "automatic, hand, systems, comparison, method",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Hand Watering vs Automatic Systems for Balcony Plants"
+    },
+    {
+      "label": "Hiring Someone to Water Plants While Away: What to Expect",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer considering professional plant sitting services",
+      "keyword_signature": "considering, professional, expect, hiring, away, services",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Hiring Someone to Water Plants While Away: What to Expect"
+    },
+    {
+      "label": "How to Keep Plants Moist During a 2-Week Vacation",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer with extended travel plans",
+      "keyword_signature": "extended, travel, week, vacation, during, plans",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How to Keep Plants Moist During a 2-Week Vacation"
+    },
+    {
+      "label": "How to Position Plants in Bathtub for Vacation Watering",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer implementing bathtub method",
+      "keyword_signature": "position, implementing, vacation, bathtub, customer, method",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How to Position Plants in Bathtub for Vacation Watering"
+    },
+    {
+      "label": "How to Tell If Your Plants Are Dehydrated After You Return",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to assess plant health post-vacation",
+      "keyword_signature": "post, after, vacation, assess, dehydrated, wants",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How to Tell If Your Plants Are Dehydrated After You Return"
+    },
+    {
+      "label": "How to Water Outdoor Potted Plants While on Vacation",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer has outdoor containers to care for",
+      "keyword_signature": "vacation, has, outdoor, potted, care, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How to Water Outdoor Potted Plants While on Vacation"
+    },
+    {
+      "label": "Liquid Fertilizer in Plant Watering Systems: Should You?",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to combine feeding with watering",
+      "keyword_signature": "fertilizer, feeding, combine, wants, liquid, systems",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Liquid Fertilizer in Plant Watering Systems: Should You?"
+    },
+    {
+      "label": "Self-Watering Plant Containers: Are They Worth It?",
+      "score": 8.0,
+      "lane": "buyer",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer evaluating commercial solutions",
+      "keyword_signature": "they, solutions, worth, commercial, self, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Self-Watering Plant Containers: Are They Worth It?"
+    },
+    {
+      "label": "Vacation Plant Care: What to Do in 24-48 Hours",
+      "score": 8.0,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer with short notice travel",
+      "keyword_signature": "short, travel, hours, vacation, notice, care",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Vacation Plant Care: What to Do in 24-48 Hours"
+    },
+    {
+      "label": "Best Watering Can for Balcony Plants",
+      "score": 7.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 2,
+      "representative_intent": "Affordable tool recommendation",
+      "keyword_signature": "recommendation, affordable, tool, sources, alternative",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Best Watering Can for Balcony Plants | What Water Can I Use for Balcony Plants"
+    },
+    {
+      "label": "Can Balcony Plants Survive 3 Weeks Without Water",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Extended vacation watering",
+      "keyword_signature": "extended, survive, weeks, vacation",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Can Balcony Plants Survive 3 Weeks Without Water"
+    },
+    {
+      "label": "Can You Overwater Plants Before Vacation?",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer worried about pre-trip watering strategy",
+      "keyword_signature": "strategy, worried, vacation, about, trip, overwater",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Can You Overwater Plants Before Vacation?"
+    },
+    {
+      "label": "Container Size and Plant Watering Needs During Vacation",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to understand pot size impact",
+      "keyword_signature": "size, impact, needs, understand, vacation, during",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Container Size and Plant Watering Needs During Vacation"
+    },
+    {
+      "label": "Emergency Plant Care: Last-Minute Vacation Watering",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer with sudden travel plans",
+      "keyword_signature": "travel, vacation, last, plans, emergency, minute",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Emergency Plant Care: Last-Minute Vacation Watering"
+    },
+    {
+      "label": "How to Set Up a Gravity-Fed Plant Watering System",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants simple passive system",
+      "keyword_signature": "gravity, passive, wants, set, fed, simple",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How to Set Up a Gravity-Fed Plant Watering System"
+    },
+    {
+      "label": "Indoor Plant Humidity While Away: Is It a Concern?",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer worried about humidity levels",
+      "keyword_signature": "indoor, concern, about, away, worried, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Indoor Plant Humidity While Away: Is It a Concern?"
+    },
+    {
+      "label": "Overwatering Plants: Why It's Worse Than Underwatering",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer learning watering mistakes to avoid",
+      "keyword_signature": "overwatering, learning, worse, mistakes, underwatering, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Overwatering Plants: Why It's Worse Than Underwatering"
+    },
+    {
+      "label": "Plant Watering While Away: Indoor vs. Outdoor Tips",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer has mixed plant collection",
+      "keyword_signature": "indoor, collection, tips, has, away, outdoor",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Plant Watering While Away: Indoor vs. Outdoor Tips"
+    },
+    {
+      "label": "Preparing Your Balcony Plants for Extended Time Away",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants pre-vacation prep checklist",
+      "keyword_signature": "extended, preparing, checklist, prep, vacation, away",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Preparing Your Balcony Plants for Extended Time Away"
+    },
+    {
+      "label": "Shade Cloths and Plant Watering: Do They Help While Away?",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer considering evaporation reduction",
+      "keyword_signature": "cloths, considering, they, away, shade, evaporation",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Shade Cloths and Plant Watering: Do They Help While Away?"
+    },
+    {
+      "label": "Vacation Plant Care for Succulents and Drought-Tolerant Plants",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer has low-water plants",
+      "keyword_signature": "vacation, low, has, drought, tolerant, succulents",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Vacation Plant Care for Succulents and Drought-Tolerant Plants"
+    },
+    {
+      "label": "Vacation Plant Watering for Herbs and Vegetables",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer has edible plants to protect",
+      "keyword_signature": "herbs, vacation, has, edible, vegetables, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Vacation Plant Watering for Herbs and Vegetables"
+    },
+    {
+      "label": "Wicking System for Plants: How to Make and Use One",
+      "score": 7.5,
+      "lane": "diy-budget",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants detailed wicking instructions",
+      "keyword_signature": "wicking, make, detailed, wants, instructions, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Wicking System for Plants: How to Make and Use One"
+    },
+    {
+      "label": "Ziplock Bag Method for Watering Plants While Away",
+      "score": 7.5,
+      "lane": "pain-point",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Vacation watering hack",
+      "keyword_signature": "hack, ziplock, bag, vacation, away, method",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Ziplock Bag Method for Watering Plants While Away"
+    },
+    {
+      "label": "Drip Irrigation for Balcony Plants Without Tap Water",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Efficient watering method",
+      "keyword_signature": "drip, tap, irrigation, efficient, method",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Drip Irrigation for Balcony Plants Without Tap Water"
+    },
+    {
+      "label": "Self-Watering Planters for Balconies Without Tap",
+      "score": 6.5,
+      "lane": "renter-small-space",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Product-based solution",
+      "keyword_signature": "product, based, solution, planters, tap, self",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Self-Watering Planters for Balconies Without Tap"
+    },
+    {
+      "label": "Best Container Plants for Minimal Watering",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Low-maintenance alternatives",
+      "keyword_signature": "minimal, maintenance, alternatives, low",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Best Container Plants for Minimal Watering"
+    },
+    {
+      "label": "Best Portable Water Container for Balcony Gardening",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Mobile watering solution",
+      "keyword_signature": "portable, mobile, solution, gardening",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Best Portable Water Container for Balcony Gardening"
+    },
+    {
+      "label": "Best Watering Schedule for Container Balcony Gardens",
+      "score": 6.0,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Routine establishment",
+      "keyword_signature": "establishment, schedule, routine",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Best Watering Schedule for Container Balcony Gardens"
+    },
+    {
+      "label": "Can I Use Gray Water to Water Balcony Plants",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Recycled water option",
+      "keyword_signature": "recycled, option, gray",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Can I Use Gray Water to Water Balcony Plants"
+    },
+    {
+      "label": "Can I Water Balcony Plants With Collected Rainwater",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Sustainable watering option",
+      "keyword_signature": "sustainable, rainwater, option, collected",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Can I Water Balcony Plants With Collected Rainwater"
+    },
+    {
+      "label": "How to Mulch Balcony Plant Containers to Retain Water",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Water retention techniques",
+      "keyword_signature": "retention, techniques, mulch, retain",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Mulch Balcony Plant Containers to Retain Water"
+    },
+    {
+      "label": "How to Reduce Evaporation in Balcony Plant Containers",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Water conservation",
+      "keyword_signature": "evaporation, conservation, reduce",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Reduce Evaporation in Balcony Plant Containers"
+    },
+    {
+      "label": "How to Set Up Micro Drip Irrigation on a Balcony",
+      "score": 6.0,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Professional-style watering",
+      "keyword_signature": "style, professional, drip, micro, set, irrigation",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Set Up Micro Drip Irrigation on a Balcony"
+    },
+    {
+      "label": "How to Water Multiple Balcony Plants Efficiently",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Time-saving methods",
+      "keyword_signature": "methods, multiple, time, efficiently, saving",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Water Multiple Balcony Plants Efficiently"
+    },
+    {
+      "label": "How to Water Plants on a High-Rise Balcony",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Practical solution for apartments",
+      "keyword_signature": "rise, solution, practical, high",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "How to Water Plants on a High-Rise Balcony"
+    },
+    {
+      "label": "Plant Watering Schedule: What to Do Before Leaving Home",
+      "score": 6.0,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer needs pre-trip checklist",
+      "keyword_signature": "home, checklist, needs, leaving, schedule, trip",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Plant Watering Schedule: What to Do Before Leaving Home"
+    },
+    {
+      "label": "What's the Cheapest Way to Water a Balcony Garden",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Cost-effective options",
+      "keyword_signature": "effective, way, options, cheapest",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "What's the Cheapest Way to Water a Balcony Garden"
+    },
+    {
+      "label": "What's the Cost of Hiring a Plant Watering Service?",
+      "score": 6.0,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer budgeting for professional care",
+      "keyword_signature": "budgeting, professional, hiring, service, care, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "What's the Cost of Hiring a Plant Watering Service?"
+    },
+    {
+      "label": "Bathtub Plant Watering Trick: Does It Really Work?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer considering the popular bathtub method",
+      "keyword_signature": "considering, trick, popular, work, bathtub, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Bathtub Plant Watering Trick: Does It Really Work?"
+    },
+    {
+      "label": "Clay Pot Watering Spikes: Do They Actually Work?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer evaluating spike watering devices",
+      "keyword_signature": "actually, spikes, they, devices, work, spike",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Clay Pot Watering Spikes: Do They Actually Work?"
+    },
+    {
+      "label": "How Long Can Potted Plants Survive Without Water?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants to know if plants need care during short trips",
+      "keyword_signature": "short, care, during, wants, know, potted",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How Long Can Potted Plants Survive Without Water?"
+    },
+    {
+      "label": "How Much Water Do Balcony Plants Need? A Beginner's Guide",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer learning watering basics",
+      "keyword_signature": "much, learning, beginner, guide, basics, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "How Much Water Do Balcony Plants Need? A Beginner's Guide"
+    },
+    {
+      "label": "Humidity Control and Watering for Balcony Plants",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Environmental factors",
+      "keyword_signature": "control, environmental, factors, humidity",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Humidity Control and Watering for Balcony Plants"
+    },
+    {
+      "label": "Mulch and Black Plastic Trick to Reduce Plant Watering",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants evaporation reduction methods",
+      "keyword_signature": "trick, methods, black, plastic, mulch, wants",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Mulch and Black Plastic Trick to Reduce Plant Watering"
+    },
+    {
+      "label": "Plant Watering Apps: Can Technology Help While You're Gone?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants smart watering reminders",
+      "keyword_signature": "apps, smart, gone, reminders, wants, technology",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Plant Watering Apps: Can Technology Help While You're Gone?"
+    },
+    {
+      "label": "South-Facing Balcony Plants: Summer Watering Guide",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Climate-specific advice",
+      "keyword_signature": "guide, climate, south, summer, facing, advice",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "South-Facing Balcony Plants: Summer Watering Guide"
+    },
+    {
+      "label": "String Watering System for Plants: Step-by-Step Guide",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer wants detailed instructions for rope/string method",
+      "keyword_signature": "detailed, string, wants, guide, method, step",
+      "queries": "watering balcony plants while away",
+      "related_questions": "String Watering System for Plants: Step-by-Step Guide"
+    },
+    {
+      "label": "Toilet Tank Auto-Watering System for Indoor Balcony Plants",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Creative watering hack",
+      "keyword_signature": "auto, hack, indoor, creative, toilet, tank",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Toilet Tank Auto-Watering System for Indoor Balcony Plants"
+    },
+    {
+      "label": "Water Globes for Plants: Helpful or Hype?",
+      "score": 5.5,
+      "lane": "general",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "Customer researching globe watering devices",
+      "keyword_signature": "devices, hype, globes, researching, helpful, customer",
+      "queries": "watering balcony plants while away",
+      "related_questions": "Water Globes for Plants: Helpful or Hype?"
+    },
+    {
+      "label": "Watering System Filters for Balcony Drip Irrigation",
+      "score": 5.5,
+      "lane": "technical-setup",
+      "unique_query_count": 1,
+      "question_count": 1,
+      "representative_intent": "System components",
+      "keyword_signature": "filters, components, irrigation, drip",
+      "queries": "how to water balcony plants without a tap",
+      "related_questions": "Watering System Filters for Balcony Drip Irrigation"
+    }
+  ],
+  "bonus_topics": [
+    [
+      "Balcony garden drainage solutions",
+      1
+    ],
+    [
+      "Plant-specific watering needs",
+      1
+    ],
+    [
+      "Container size and water retention",
+      1
+    ],
+    [
+      "Wind impact on balcony plant watering",
+      1
+    ],
+    [
+      "Balcony railing-mounted watering systems",
+      1
+    ],
+    [
+      "Water quality for balcony plants",
+      1
+    ],
+    [
+      "Seasonal watering adjustments",
+      1
+    ],
+    [
+      "Urban gardening water conservation",
+      1
+    ],
+    [
+      "Travel duration and watering frequency correlation",
+      1
+    ],
+    [
+      "Plant types that tolerate neglect better",
+      1
+    ],
+    [
+      "Seasonal considerations for plant watering",
+      1
+    ],
+    [
+      "Temperature and humidity effects on watering",
+      1
+    ],
+    [
+      "Prevention of root rot during vacation",
+      1
+    ],
+    [
+      "Managing multiple plant zones on a balcony",
+      1
+    ],
+    [
+      "Recovery strategies for underwatered plants",
+      1
+    ],
+    [
+      "Indoor vs outdoor plant watering differences",
+      1
+    ],
+    [
+      "Pet-safe watering system alternatives",
+      1
+    ],
+    [
+      "Combining multiple watering methods for reliability",
+      1
+    ]
+  ]
+}

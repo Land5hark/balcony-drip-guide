@@ -1,0 +1,43 @@
+{{/* hero.html — homepage masthead. Uses site params + an SVG illustration. */}}
+<section class="section hero">
+  <div class="wrap hero__grid">
+    <div>
+      <div class="hero__est">EST. {{ .Site.Params.established | default 2022 }} · {{ .Site.Params.location | default "Brooklyn, NY" | upper }}</div>
+      <h1 class="hero__title">
+        Field notes for renters with <em>not a lot of soil</em> and even less time.
+      </h1>
+      <p class="hero__dek">
+        {{ .Site.Params.description | default "Honest, tested writing on balcony drip irrigation." }}
+        Set up a system in an afternoon, fix it when it breaks, and keep your tomatoes alive while you're on vacation.
+      </p>
+      <div class="hero__cta">
+        <a class="btn btn--primary" href="{{ "/setup-guides/" | relURL }}">
+          Start a drip system
+          <svg width="14" height="14" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 10h12"/><path d="m11.5 5.5 4.5 4.5-4.5 4.5"/>
+          </svg>
+        </a>
+        <a class="btn btn--ghost" href="{{ "/all/" | relURL }}">
+          All articles · {{ len (where .Site.RegularPages "Section" "posts") }}
+        </a>
+      </div>
+      <dl class="hero__stats">
+        <div>
+          <dt class="hero__stat-n">{{ sub now.Year (.Site.Params.established | default 2022) }} yrs</dt>
+          <dd class="hero__stat-l">Testing on the same balcony</dd>
+        </div>
+        <div>
+          <dt class="hero__stat-n">1,400+</dt>
+          <dd class="hero__stat-l">Readers on the Sunday newsletter</dd>
+        </div>
+        <div>
+          <dt class="hero__stat-n">Zero</dt>
+          <dd class="hero__stat-l">Sponsored posts. Ever.</dd>
+        </div>
+      </dl>
+    </div>
+    <div class="hero__art" aria-hidden="true">
+      {{ partial "hero-illustration" . }}
+    </div>
+  </div>
+</section>

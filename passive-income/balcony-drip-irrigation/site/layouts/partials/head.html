@@ -1,0 +1,78 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+{{/* Inline theme bootstrap — sets data-theme before paint to avoid FOUC */}}
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('bd-theme');
+      if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script>
+
+{{- $isHome := .IsHome -}}
+{{- $title := cond $isHome (printf "%s — %s" .Site.Title (.Site.Params.description | default "")) (printf "%s · %s" .Title .Site.Title) -}}
+<title>{{ $title }}</title>
+
+{{- $desc := .Description | default .Summary | default .Site.Params.description -}}
+<meta name="description" content="{{ $desc | plainify | truncate 160 }}">
+
+{{- $url := .Permalink -}}
+<link rel="canonical" href="{{ $url }}">
+
+{{/* Open Graph */}}
+<meta property="og:type"        content="{{ cond .IsPage "article" "website" }}">
+<meta property="og:site_name"   content="{{ .Site.Title }}">
+<meta property="og:title"       content="{{ .Title | default .Site.Title }}">
+<meta property="og:description" content="{{ $desc | plainify | truncate 160 }}">
+<meta property="og:url"         content="{{ $url }}">
+{{- $img := .Params.image | default .Site.Params.og_image -}}
+{{- if $img -}}
+<meta property="og:image" content="{{ $img | absURL }}">
+{{- end }}
+
+{{/* Twitter */}}
+<meta name="twitter:card"        content="summary_large_image">
+{{- with .Site.Params.twitter }}<meta name="twitter:site" content="{{ . }}">{{ end }}
+<meta name="twitter:title"       content="{{ .Title | default .Site.Title }}">
+<meta name="twitter:description" content="{{ $desc | plainify | truncate 160 }}">
+{{- if $img }}<meta name="twitter:image" content="{{ $img | absURL }}">{{ end }}
+
+{{/* Article structured data */}}
+{{- if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ $desc | plainify | jsonify }},
+  "author": { "@type": "Person", "name": {{ (.Params.author | default .Site.Params.author) | jsonify }} },
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+  "dateModified": {{ (.Lastmod | default .Date).Format "2006-01-02" | jsonify }},
+  {{- with $img }}"image": {{ . | absURL | jsonify }},{{ end }}
+  "publisher": { "@type": "Organization", "name": {{ .Site.Title | jsonify }} },
+  "mainEntityOfPage": {{ $url | jsonify }}
+}
+</script>
+{{- end }}
+
+{{/* RSS link */}}
+{{- range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{- end }}
+
+{{/* Favicon */}}
+{{- with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end }}
+
+{{/* Fonts */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+{{/* CSS */}}
+<link rel="stylesheet" href="{{ "/css/tokens.css" | relURL }}">
+<link rel="stylesheet" href="{{ "/css/site.css"   | relURL }}">
+
+{{/* Analytics - Cloudflare Web Analytics (privacy-friendly, no cookies) */}}
+{{ partial "cloudflare-analytics.html" . }}

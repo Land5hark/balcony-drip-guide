@@ -1,0 +1,80 @@
+{{ define "main" }}
+{{- $catMeta := false -}}
+{{- range .Site.Params.categories -}}{{- if eq .slug $.Section -}}{{- $catMeta = . -}}{{- end -}}{{- end -}}
+{{- $articlePages := .RegularPages -}}
+{{- if $catMeta -}}
+  {{- $taxonomyPage := site.GetPage (printf "/categories/%s" .Section) -}}
+  {{- if $taxonomyPage -}}
+    {{- $articlePages = $taxonomyPage.RegularPages -}}
+  {{- end -}}
+{{- end -}}
+{{- $paginator := .Paginate $articlePages -}}
+
+<section class="section">
+  <div class="wrap">
+    <header class="section-header" style="border-bottom: none; margin-bottom: var(--s-4); padding-bottom: 0;">
+      <div>
+        <span class="kicker">{{ len $articlePages }} articles</span>
+        <h1 class="section-header__title" style="font-size: var(--t-h1); margin-top: 6px;">{{ .Title }}</h1>
+        {{- $blurb := .Description | default .Content -}}
+        {{- if $catMeta -}}
+          {{- $blurb = $catMeta.blurb | default $blurb -}}
+        {{- end -}}
+        {{- with $blurb }}
+        <p class="section-header__subtitle" style="max-width: 640px; margin-top: var(--s-3); font-size: 17px; line-height: 1.55;">
+          {{ . | plainify }}
+        </p>
+        {{- end }}
+      </div>
+    </header>
+  </div>
+</section>
+
+<section class="section section--tinted" style="padding-top: var(--s-8);">
+  <div class="wrap">
+    {{/* Featured article (newest) */}}
+    {{- $pages := $paginator.Pages -}}
+    {{- if gt (len $pages) 0 }}
+    <div style="margin-bottom: var(--s-12);">
+      {{ partial "article-card.html" (dict "page" (index $pages 0) "variant" "default") }}
+    </div>
+    {{- end }}
+
+    {{/* Rest as journal entries */}}
+    <ul class="entries">
+      {{- range after 1 $pages }}
+      <li>
+        <a class="entries__item" href="{{ .RelPermalink }}">
+          <div class="entries__date">{{ .Date.Format "Jan 2, 2006" | upper }}</div>
+          <div>
+            {{- with .Params.kicker | default (index .Params.tags 0) }}
+            <span class="kicker">{{ . }}</span>
+            {{- end }}
+            <div class="entries__title">{{ .Title }}</div>
+          </div>
+          <div class="entries__dek">
+            {{ (.Description | default .Summary) | plainify | truncate 110 }}
+          </div>
+          <div class="entries__time">{{ .ReadingTime }} min</div>
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+
+    {{/* Pagination */}}
+    {{- if gt $paginator.TotalPages 1 }}
+    <nav style="display:flex; justify-content:center; gap: var(--s-3); margin-top: var(--s-10);" aria-label="Pages">
+      {{- if $paginator.HasPrev }}
+        <a class="btn btn--ghost" href="{{ $paginator.Prev.URL }}">← Previous</a>
+      {{- end }}
+      <span style="align-self:center; font-family: var(--font-mono); font-size: 13px; color: var(--mute);">
+        Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+      </span>
+      {{- if $paginator.HasNext }}
+        <a class="btn btn--ghost" href="{{ $paginator.Next.URL }}">Next →</a>
+      {{- end }}
+    </nav>
+    {{- end }}
+  </div>
+</section>
+{{ end }}

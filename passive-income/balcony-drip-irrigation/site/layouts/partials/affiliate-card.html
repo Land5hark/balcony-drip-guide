@@ -1,0 +1,49 @@
+{{/* affiliate-card.html — Editor's Pick callout (default affiliate style).
+     Context: a dict with:
+       name     — product name (required)
+       url      — affiliate URL (required)
+       price    — display price, e.g. "$42" (optional)
+       rating   — 1–5 numeric (optional)
+       reviews  — review count string, e.g. "2,148" (optional)
+       blurb    — short why-we-picked-it (optional)
+       image    — product image URL (optional)
+       retailer — display name, default "Amazon" */}}
+{{- $name     := .name -}}
+{{- $url      := .url -}}
+{{- $price    := .price -}}
+{{- $rating   := .rating -}}
+{{- $reviews  := .reviews -}}
+{{- $blurb    := .blurb -}}
+{{- $image    := .image -}}
+{{- $retailer := .retailer | default "Amazon" -}}
+{{- $why      := .why | default "Why we picked it" -}}
+
+<aside class="pick" role="complementary" aria-label="Editor's pick">
+  <div class="pick__img">
+    {{- if $image }}<img src="{{ $image }}" alt="{{ $name }}" loading="lazy">{{ end }}
+  </div>
+  <div class="pick__body">
+    <span class="pick-badge">
+      <svg width="11" height="11" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M5 2.5h10v15l-5-3.5-5 3.5v-15Z"/>
+      </svg>
+      Editor's Pick
+    </span>
+    <h4 class="pick__name">{{ $name }}</h4>
+    {{- if $rating }}
+    {{ partial "stars.html" (dict "value" $rating "count" $reviews) }}
+    {{- end }}
+    {{- with $blurb }}
+    <p class="pick__blurb">{{ . }}</p>
+    {{- end }}
+    <div class="pick__cta">
+      <a class="btn btn--clay" href="{{ $url }}" rel="sponsored nofollow noopener" target="_blank">
+        {{ if $price }}{{ $price }} on {{ $retailer }}{{ else }}Check on {{ $retailer }}{{ end }}
+        <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+        </svg>
+      </a>
+      <a class="pick__why" href="#pick">{{ $why }}</a>
+    </div>
+  </div>
+</aside>

@@ -1,0 +1,70 @@
+[2026-05-22T02:21:06Z] --- Deployment Verification Start ---
+[2026-05-22T02:21:06Z] Git commit: 2edf2de (branch: master)
+[2026-05-22T02:21:06Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-22T02:21:06Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-22T02:21:06Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-22T02:21:06Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-22T02:21:06Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-22T02:21:06Z] FAIL: Hot weather article not found in live site
+[2026-05-22T02:21:06Z] Deployment status: stale
+[2026-05-22T02:21:06Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-22T02:21:06Z] --- Verification Complete ---
+[2026-05-22T12:02:10Z] --- Deployment Verification Start ---
+[2026-05-22T12:02:10Z] Git commit: 067f7c2 (branch: master)
+[2026-05-22T12:02:10Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-22T12:02:10Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-22T12:02:10Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-22T12:02:10Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-22T12:02:10Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-22T12:02:10Z] FAIL: Hot weather article not found in live site
+[2026-05-22T12:02:10Z] Deployment status: stale
+[2026-05-22T12:02:10Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-22T12:02:10Z] --- Verification Complete ---
+[2026-05-22T12:03:24Z] --- Deployment Verification Start ---
+[2026-05-22T12:03:24Z] Git commit: 067f7c2 (branch: master)
+[2026-05-22T12:03:24Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-22T12:03:24Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-22T12:03:24Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-22T12:03:24Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-22T12:03:24Z] FAIL: Live build fingerprint mismatch. local=local | local-buil | 2026-05-22T08:30:45Z live=missing
+[2026-05-22T12:03:24Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-22T12:03:24Z] PASS: Hot weather article URL is live
+[2026-05-22T12:03:24Z] Deployment status: stale
+[2026-05-22T12:03:24Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-22T12:03:24Z] --- Verification Complete ---
+[2026-05-22T16:30:29Z] --- Deployment Verification Start ---
+[2026-05-22T16:30:29Z] Git commit: 6a873ef (branch: master)
+[2026-05-22T16:30:29Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-22T16:30:29Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-22T16:30:29Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-22T16:30:29Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-22T16:30:29Z] FAIL: Live build fingerprint mismatch. local=local | local-buil | 2026-05-22T16:20:52Z live=missing
+[2026-05-22T16:30:29Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-22T16:30:29Z] PASS: Hot weather article URL is live
+[2026-05-22T16:30:29Z] Deployment status: stale
+[2026-05-22T16:30:29Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-22T16:30:29Z] --- Verification Complete ---
+[2026-05-23T12:01:26Z] --- Deployment Verification Start ---
+[2026-05-23T12:01:26Z] Git commit: 8d1c0cc (branch: master)
+[2026-05-23T12:01:26Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-23T12:01:26Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-23T12:01:26Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-23T12:01:26Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-23T12:01:26Z] FAIL: Live build fingerprint mismatch. local=local | local-buil | 2026-05-23T08:20:01Z live=missing
+[2026-05-23T12:01:26Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-23T12:01:26Z] PASS: Hot weather article URL is live
+[2026-05-23T12:01:26Z] Deployment status: stale
+[2026-05-23T12:01:26Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-23T12:01:26Z] --- Verification Complete ---
+[2026-05-23T12:02:58Z] --- Deployment Verification Start ---
+[2026-05-23T12:02:58Z] Git commit: 8d1c0cc (branch: master)
+[2026-05-23T12:02:58Z] MISMATCH: Category 0 expected 6, got 1
+[2026-05-23T12:02:58Z] MISMATCH: Category 1 expected 19, got 0
+[2026-05-23T12:02:58Z] MISMATCH: Category 2 expected 13, got 0
+[2026-05-23T12:02:58Z] MISMATCH: Category 3 expected 1, got 0
+[2026-05-23T12:02:58Z] FAIL: Live build fingerprint mismatch. local=local | local-buil | 2026-05-23T08:20:01Z live=missing
+[2026-05-23T12:02:58Z] FAIL: robots.txt does not contain expected header. Got: User-agent: *
+[2026-05-23T12:02:58Z] PASS: Hot weather article URL is live
+[2026-05-23T12:02:58Z] Deployment status: stale
+[2026-05-23T12:02:58Z] Report saved to: /home/linuxlite/.openclaw/workspace/reports/balcony-drip-deployment-status.json
+[2026-05-23T12:02:58Z] --- Verification Complete ---

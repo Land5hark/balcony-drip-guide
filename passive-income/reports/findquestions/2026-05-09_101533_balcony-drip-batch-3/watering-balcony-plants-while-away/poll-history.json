@@ -1,0 +1,225 @@
+[
+  {
+    "ts": "2026-05-09T14:15:35.598570+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Travel duration and watering frequency correlation",
+        "Plant types that tolerate neglect better",
+        "Seasonal considerations for plant watering",
+        "Temperature and humidity effects on watering",
+        "Prevention of root rot during vacation",
+        "Managing multiple plant zones on a balcony",
+        "Recovery strategies for underwatered plants",
+        "Indoor vs outdoor plant watering differences",
+        "Pet-safe watering system alternatives",
+        "Combining multiple watering methods for reliability"
+      ],
+      "business": "watering balcony plants while away",
+      "cached": true,
+      "questions": [
+        {
+          "question": "How to Keep Balcony Plants Alive While You're Away",
+          "search_intent": "Customer needs vacation plant care solutions"
+        },
+        {
+          "question": "Best DIY Plant Watering System for Your Balcony",
+          "search_intent": "Customer wants to build their own watering setup"
+        },
+        {
+          "question": "How Long Can Potted Plants Survive Without Water?",
+          "search_intent": "Customer wants to know if plants need care during short trips"
+        },
+        {
+          "question": "Bathtub Plant Watering Trick: Does It Really Work?",
+          "search_intent": "Customer considering the popular bathtub method"
+        },
+        {
+          "question": "String Watering System for Plants: Step-by-Step Guide",
+          "search_intent": "Customer wants detailed instructions for rope/string method"
+        },
+        {
+          "question": "How to Water Outdoor Potted Plants While on Vacation",
+          "search_intent": "Customer has outdoor containers to care for"
+        },
+        {
+          "question": "Self-Watering Plant Containers: Are They Worth It?",
+          "search_intent": "Customer evaluating commercial solutions"
+        },
+        {
+          "question": "How Often Should You Water Balcony Plants?",
+          "search_intent": "Customer learning baseline watering frequency"
+        },
+        {
+          "question": "Hiring Someone to Water Plants While Away: What to Expect",
+          "search_intent": "Customer considering professional plant sitting services"
+        },
+        {
+          "question": "Automatic Plant Watering System for Balcony Plants",
+          "search_intent": "Customer wants timer-based solutions"
+        },
+        {
+          "question": "Can You Overwater Plants Before Vacation?",
+          "search_intent": "Customer worried about pre-trip watering strategy"
+        },
+        {
+          "question": "Plastic Bottle Watering Hack for Plants While Away",
+          "search_intent": "Customer wants cheap DIY solutions"
+        },
+        {
+          "question": "How to Keep Plants Moist During a 2-Week Vacation",
+          "search_intent": "Customer with extended travel plans"
+        },
+        {
+          "question": "Mulch and Black Plastic Trick to Reduce Plant Watering",
+          "search_intent": "Customer wants evaporation reduction methods"
+        },
+        {
+          "question": "What's the Cost of Hiring a Plant Watering Service?",
+          "search_intent": "Customer budgeting for professional care"
+        },
+        {
+          "question": "Best Neighbors to Ask for Plant Watering Help",
+          "search_intent": "Customer considering trusted friend option"
+        },
+        {
+          "question": "Plant Watering While Away: Indoor vs. Outdoor Tips",
+          "search_intent": "Customer has mixed plant collection"
+        },
+        {
+          "question": "Drip Irrigation Setup for Balcony Container Plants",
+          "search_intent": "Customer wants permanent watering solution"
+        },
+        {
+          "question": "How to Position Plants in Bathtub for Vacation Watering",
+          "search_intent": "Customer implementing bathtub method"
+        },
+        {
+          "question": "Clay Pot Watering Spikes: Do They Actually Work?",
+          "search_intent": "Customer evaluating spike watering devices"
+        },
+        {
+          "question": "Vacation Plant Care: What to Do in 24-48 Hours",
+          "search_intent": "Customer with short notice travel"
+        },
+        {
+          "question": "Overwatering Plants: Why It's Worse Than Underwatering",
+          "search_intent": "Customer learning watering mistakes to avoid"
+        },
+        {
+          "question": "Water Globes for Plants: Helpful or Hype?",
+          "search_intent": "Customer researching globe watering devices"
+        },
+        {
+          "question": "Preparing Your Balcony Plants for Extended Time Away",
+          "search_intent": "Customer wants pre-vacation prep checklist"
+        },
+        {
+          "question": "Best Moisture Meters to Monitor Plants While Away",
+          "search_intent": "Customer wants to check soil remotely"
+        },
+        {
+          "question": "How to Set Up a Gravity-Fed Plant Watering System",
+          "search_intent": "Customer wants simple passive system"
+        },
+        {
+          "question": "Emergency Plant Care: Last-Minute Vacation Watering",
+          "search_intent": "Customer with sudden travel plans"
+        },
+        {
+          "question": "Liquid Fertilizer in Plant Watering Systems: Should You?",
+          "search_intent": "Customer wants to combine feeding with watering"
+        },
+        {
+          "question": "Shade Cloths and Plant Watering: Do They Help While Away?",
+          "search_intent": "Customer considering evaporation reduction"
+        },
+        {
+          "question": "Wicking System for Plants: How to Make and Use One",
+          "search_intent": "Customer wants detailed wicking instructions"
+        },
+        {
+          "question": "Plant Watering Apps: Can Technology Help While You're Gone?",
+          "search_intent": "Customer wants smart watering reminders"
+        },
+        {
+          "question": "Vacation Plant Care for Succulents and Drought-Tolerant Plants",
+          "search_intent": "Customer has low-water plants"
+        },
+        {
+          "question": "How Much Water Do Balcony Plants Need? A Beginner's Guide",
+          "search_intent": "Customer learning watering basics"
+        },
+        {
+          "question": "Indoor Plant Humidity While Away: Is It a Concern?",
+          "search_intent": "Customer worried about humidity levels"
+        },
+        {
+          "question": "Container Size and Plant Watering Needs During Vacation",
+          "search_intent": "Customer wants to understand pot size impact"
+        },
+        {
+          "question": "Plant Watering Schedule: What to Do Before Leaving Home",
+          "search_intent": "Customer needs pre-trip checklist"
+        },
+        {
+          "question": "Capillary Mats for Plant Watering: Setup and Benefits",
+          "search_intent": "Customer researching mat-based solutions"
+        },
+        {
+          "question": "How to Tell If Your Plants Are Dehydrated After You Return",
+          "search_intent": "Customer wants to assess plant health post-vacation"
+        },
+        {
+          "question": "Vacation Plant Watering for Herbs and Vegetables",
+          "search_intent": "Customer has edible plants to protect"
+        },
+        {
+          "question": "Budget-Friendly Solutions for Watering Plants While Away",
+          "search_intent": "Customer wants cheap or free options"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "lifehacks",
+          "title": "What's the best way to keep my plants watered while I'm away for 3 ...",
+          "url": "https://www.reddit.com/r/lifehacks/comments/1gpn0jx/whats_the_best_way_to_keep_my_plants_watered/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "How do you handle vacations where you are out of town for several ...",
+          "url": "https://www.reddit.com/r/gardening/comments/1cqaqor/how_do_you_handle_vacations_where_you_are_out_of/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "Going away for 2 weeks, how do i keep my outdoor potted plants ...",
+          "url": "https://www.reddit.com/r/gardening/comments/1qbn4w9/going_away_for_2_weeks_how_do_i_keep_my_outdoor/"
+        },
+        {
+          "subreddit": "UrbanGardening",
+          "title": "Watering plants during vacation : r/UrbanGardening - Reddit",
+          "url": "https://www.reddit.com/r/UrbanGardening/comments/15qzqm5/watering_plants_during_vacation/"
+        },
+        {
+          "subreddit": "howto",
+          "title": "Watering your plants while on vacation. : r/howto - Reddit",
+          "url": "https://www.reddit.com/r/howto/comments/ht4m5d/watering_your_plants_while_on_vacation/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/lifehacks",
+        "r/gardening",
+        "r/UrbanGardening",
+        "r/howto",
+        "r/containergardening",
+        "r/houseplants",
+        "r/balconygardening",
+        "r/IndoorGarden",
+        "r/plants",
+        "r/gardentips"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

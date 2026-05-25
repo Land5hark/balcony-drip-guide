@@ -1,0 +1,335 @@
+[
+  {
+    "ts": "2026-05-03T21:23:31.549872+00:00",
+    "stage": "search",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "Your search has been queued! 1 searches in queue.",
+      "queue_position": 1,
+      "status": "queued"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:33.707065+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:35.864562+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:38.013466+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:40.172516+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:42.333893+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "1 searches in queue",
+      "queue_position": 1,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:44.495390+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:46.657273+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:49.829104+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:52.242781+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:54.437042+00:00",
+    "stage": "status",
+    "response": {
+      "business": "best hose timers for balcony drip irrigation systems",
+      "message": "0 searches in queue",
+      "queue_position": 0,
+      "status": "processing"
+    }
+  },
+  {
+    "ts": "2026-05-03T21:23:56.595944+00:00",
+    "stage": "status",
+    "response": {
+      "bonus_topics": [
+        "How to maintain timers between seasons",
+        "Comparing LinkTap, Rain Bird, and other popular brands",
+        "Water pressure requirements for different timer types",
+        "Frost protection for outdoor hose timers",
+        "Converting manual watering to automatic systems",
+        "Timer reliability in different weather conditions",
+        "Connecting multiple timers to one water source",
+        "Energy consumption of smart hose timers",
+        "App features that actually matter in smart timers",
+        "Upgrading from dial to digital hose timers"
+      ],
+      "business": "best hose timers for balcony drip irrigation systems",
+      "cached": true,
+      "questions": [
+        {
+          "question": "Do You Really Need a Timer for Drip Irrigation?",
+          "search_intent": "Understanding if timers are essential for drip systems"
+        },
+        {
+          "question": "Best Hose Timers for Balcony Gardens: A Beginner's Guide",
+          "search_intent": "Finding the right timer for small spaces"
+        },
+        {
+          "question": "Can You Leave Your Garden Alone? Automatic Watering While on Vacation",
+          "search_intent": "How to maintain plants while traveling"
+        },
+        {
+          "question": "WiFi vs. Battery: Which Smart Hose Timer Should You Buy?",
+          "search_intent": "Comparing smart timer technologies"
+        },
+        {
+          "question": "Do You Leave the Tap Running When Using a Hose Timer?",
+          "search_intent": "Understanding how hose timers work"
+        },
+        {
+          "question": "Drip Irrigation for Raised Beds: Timer Setup Guide",
+          "search_intent": "Installing timers on raised garden systems"
+        },
+        {
+          "question": "How Much Does an Automatic Watering System Actually Cost?",
+          "search_intent": "Budget-friendly watering solutions"
+        },
+        {
+          "question": "Bluetooth Hose Timers: Can You Really Control Them From Your Phone?",
+          "search_intent": "Remote watering capabilities"
+        },
+        {
+          "question": "Best Automatic Watering System for Small Balcony Plants",
+          "search_intent": "Space-saving irrigation solutions"
+        },
+        {
+          "question": "Working 9-5? Here's How to Keep Your Garden Watered",
+          "search_intent": "Hands-off gardening for busy people"
+        },
+        {
+          "question": "What Is a Smart Hose Timer and Do You Need One?",
+          "search_intent": "Understanding smart timer features"
+        },
+        {
+          "question": "Soaker Hoses vs. Drip Irrigation: Which Needs a Timer?",
+          "search_intent": "Comparing watering method options"
+        },
+        {
+          "question": "How to Water Tall Potted Plants Automatically on Your Balcony",
+          "search_intent": "Reaching elevated plants with timers"
+        },
+        {
+          "question": "Wireless Hose Timers: Are They Actually Worth It?",
+          "search_intent": "Evaluating wireless technology value"
+        },
+        {
+          "question": "Setting Up Drip Irrigation With a Timer in 30 Minutes",
+          "search_intent": "Quick installation solutions"
+        },
+        {
+          "question": "Multi-Zone Hose Timers: When Do You Really Need Them?",
+          "search_intent": "Understanding zone watering benefits"
+        },
+        {
+          "question": "Rain Sensors and Hose Timers: Do They Work Together?",
+          "search_intent": "Smart watering during rainy periods"
+        },
+        {
+          "question": "Cheap vs. Expensive Hose Timers: What's Actually the Difference?",
+          "search_intent": "Budget considerations for timers"
+        },
+        {
+          "question": "How to Choose a Hose Timer for Your First Drip System",
+          "search_intent": "Beginner's selection guide"
+        },
+        {
+          "question": "Digital vs. Dial Hose Timers: Which Lasts Longer?",
+          "search_intent": "Timer durability comparison"
+        },
+        {
+          "question": "Will a Basic Timer Work With My Wireless Drip System?",
+          "search_intent": "Compatibility concerns"
+        },
+        {
+          "question": "Moisture Sensors With Hose Timers: Essential or Overkill?",
+          "search_intent": "Advanced timer features"
+        },
+        {
+          "question": "How Often Should You Water With an Automatic System?",
+          "search_intent": "Setting proper watering schedules"
+        },
+        {
+          "question": "Deck and Balcony Watering: Which Timer Setup Works Best?",
+          "search_intent": "Outdoor space-specific solutions"
+        },
+        {
+          "question": "Can You Use One Hose Timer for Multiple Watering Zones?",
+          "search_intent": "Expanding timer coverage"
+        },
+        {
+          "question": "Battery Life on Wireless Hose Timers: What to Expect",
+          "search_intent": "Understanding maintenance needs"
+        },
+        {
+          "question": "Quick Clip Attachments vs. Permanent Drip Setup: Do Both Need Timers?",
+          "search_intent": "Flexibility in timer systems"
+        },
+        {
+          "question": "Automatic Watering for Tea Plants, Herbs, and Vegetables",
+          "search_intent": "Plant-specific watering strategies"
+        },
+        {
+          "question": "Gateway Required? Understanding Wireless Hose Timer Requirements",
+          "search_intent": "Technical setup confusion"
+        },
+        {
+          "question": "Best Budget Hose Timer for Renters on a Balcony",
+          "search_intent": "Non-permanent installation solutions"
+        },
+        {
+          "question": "How to Tell If Your Hose Timer Is Working Properly",
+          "search_intent": "Troubleshooting timer issues"
+        },
+        {
+          "question": "Starter Kit vs. Building Your Own Drip System: Timer Considerations",
+          "search_intent": "DIY vs. pre-made decisions"
+        },
+        {
+          "question": "Watering Schedule Tips for Hose Timer Users",
+          "search_intent": "Optimizing timer settings"
+        },
+        {
+          "question": "Why Smart Hose Timers Are Game-Changers for Apartment Gardeners",
+          "search_intent": "Benefits for limited space gardeners"
+        },
+        {
+          "question": "Can a Basic Hose Timer Handle Multiple Drip Lines?",
+          "search_intent": "Capacity questions"
+        },
+        {
+          "question": "Setting and Forgetting: How Long Can Timers Really Run Unattended?",
+          "search_intent": "Reliability over time"
+        },
+        {
+          "question": "Hose Timer Installation: What Could Go Wrong?",
+          "search_intent": "Common mistakes and solutions"
+        },
+        {
+          "question": "Are Expensive Hose Timers Actually More Reliable?",
+          "search_intent": "Quality vs. price analysis"
+        },
+        {
+          "question": "Turning Your Garden Into an Autopilot System: Step-by-Step",
+          "search_intent": "Complete automation guide"
+        },
+        {
+          "question": "Weekend Getaway? How Hose Timers Give You Peace of Mind",
+          "search_intent": "Travel confidence with automatic systems"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "GardenersJapan",
+          "title": "Automatic watering : r/GardenersJapan - Reddit",
+          "url": "https://www.reddit.com/r/GardenersJapan/comments/1st7jbq/automatic_watering/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "Looking for automated watering options for family member - Reddit",
+          "url": "https://www.reddit.com/r/gardening/comments/1f6sy2r/looking_for_automated_watering_options_for_family/"
+        },
+        {
+          "subreddit": "DIY",
+          "title": "How to build a DIY Automatic Plant Watering System with WiFi alerts",
+          "url": "https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/"
+        },
+        {
+          "subreddit": "Homesteading",
+          "title": "Any recommended automatic garden watering systems? - Reddit",
+          "url": "https://www.reddit.com/r/Homesteading/comments/1es0jjf/any_recommended_automatic_garden_watering_systems/"
+        },
+        {
+          "subreddit": "Teacultivation",
+          "title": "Anyone have recommendations for an automated Drip watering ...",
+          "url": "https://www.reddit.com/r/Teacultivation/comments/1dtp7zg/anyone_have_recommendations_for_an_automated_drip/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/gardening",
+        "r/balconygarden",
+        "r/vegetablegardening",
+        "r/houseplants",
+        "r/DIY",
+        "r/homesteading",
+        "r/apartmentgardening",
+        "r/GardenersJapan",
+        "r/teacultivation",
+        "r/IndoorGarden"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

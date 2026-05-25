@@ -1,0 +1,75 @@
+{{/*
+  {{< affiliate-card
+       name="Raindrip R560DP"
+       url="https://amzn.to/..."
+       price="$42"
+       rating="4.7"
+       reviews="2,148"
+       image="/images/raindrip.jpg"
+       retailer="Amazon"
+       rank="The pick · since 2023"
+       blurb="The only starter kit..."
+       pros="Pressure regulator works|Tubing supple|20 emitters covers most balconies|Three Brooklyn summers, no failures"
+       cons="Timer face hard to read in sun|Sink-thread adapter sold separately"
+       alt_url="https://www.dripworks.com/..."
+       alt_retailer="DripWorks"
+  >}}
+
+  Pros/cons are pipe-separated lists.
+*/}}
+{{- $name     := .Get "name" -}}
+{{- $url      := .Get "url" -}}
+{{- $price    := .Get "price" -}}
+{{- $rating   := .Get "rating" -}}
+{{- $reviews  := .Get "reviews" -}}
+{{- $image    := .Get "image" -}}
+{{- $retailer := .Get "retailer" | default "Amazon" -}}
+{{- $rank     := .Get "rank" -}}
+{{- $blurb    := .Get "blurb" -}}
+{{- $pros     := split (.Get "pros" | default "") "|" -}}
+{{- $cons     := split (.Get "cons" | default "") "|" -}}
+{{- $altUrl   := .Get "alt_url" -}}
+{{- $altRet   := .Get "alt_retailer" | default "another retailer" -}}
+
+<article class="product">
+  <span class="pick-badge product__pick-badge">
+    <svg width="11" height="11" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M5 2.5h10v15l-5-3.5-5 3.5v-15Z"/>
+    </svg>
+    Editor's Pick
+  </span>
+  <div class="product__img">
+    {{- if $image }}<img src="{{ $image }}" alt="{{ $name }}" loading="lazy">{{ end }}
+  </div>
+  <div>
+    {{- with $rank }}<div class="product__rank">{{ . }}</div>{{ end }}
+    <h3 class="product__name">{{ $name }}</h3>
+    <div class="product__meta">
+      {{- if $rating }}{{ partial "stars.html" (dict "value" $rating "count" $reviews) }}{{ end }}
+      {{- if and $rating $price }}<span style="color: var(--rule);">·</span>{{ end }}
+      {{- with $price }}<span class="product__price">{{ . }}</span>{{ end }}
+    </div>
+    {{- with $blurb }}<p class="product__blurb">{{ . }}</p>{{ end }}
+    {{- if or (gt (len $pros) 0) (gt (len $cons) 0) }}
+    <div class="product__pros-cons">
+      <ul class="pros-list">
+        {{- range $pros }}{{- if . }}<li>{{ . }}</li>{{ end }}{{ end }}
+      </ul>
+      <ul class="cons-list">
+        {{- range $cons }}{{- if . }}<li>{{ . }}</li>{{ end }}{{ end }}
+      </ul>
+    </div>
+    {{- end }}
+    <div class="product__cta">
+      <a class="btn btn--primary" href="{{ $url }}" rel="sponsored nofollow noopener" target="_blank">
+        Check price on {{ $retailer }}
+        <svg width="14" height="14" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+        </svg>
+      </a>
+      {{- with $altUrl }}
+      <a class="product__alt-link" href="{{ . }}" rel="sponsored nofollow noopener" target="_blank">Check at {{ $altRet }}</a>
+      {{- end }}
+    </div>
+  </div>
+</article>

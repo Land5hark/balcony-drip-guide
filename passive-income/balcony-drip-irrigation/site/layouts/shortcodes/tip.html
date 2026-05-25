@@ -1,0 +1,15 @@
+{{/*
+  {{% tip title="Optional title" %}}
+  Body markdown.
+  {{% /tip %}}
+*/}}
+<aside class="callout callout--tip">
+  <div class="callout__head">
+    <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="var(--sage)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M16.5 3.5C9 4 4.5 8 4 15.5c7-.5 11.5-5 12.5-12Z"/>
+      <path d="M4.5 15.5 11 9"/>
+    </svg>
+    <span>{{ .Get "title" | default "Tip" }}</span>
+  </div>
+  <div class="callout__body">{{ .Inner }}</div>
+</aside>

@@ -1,0 +1,38 @@
+{{/* article-meta.html — byline, dates, share actions.
+     Context: a page (.). */}}
+{{- $author := .Params.author | default .Site.Params.author -}}
+{{- $initials := $author | replaceRE "(\\b\\w)\\w*\\s*" "$1" | upper -}}
+<div class="article__byline">
+  <div class="author">
+    <div class="author__avatar" aria-hidden="true">{{ $initials }}</div>
+    <div>
+      <div class="author__name">By {{ $author }}</div>
+      <div class="author__meta">
+        {{- if .Lastmod -}}
+          Updated {{ .Lastmod.Format "Jan 2, 2006" }}
+        {{- else -}}
+          {{ .Date.Format "Jan 2, 2006" }}
+        {{- end }} · {{ .ReadingTime }} min read
+      </div>
+    </div>
+  </div>
+  <div class="article__share" aria-label="Share">
+    {{- $title := .Title | urlquery -}}
+    {{- $url := .Permalink | urlquery -}}
+    <a class="icon-btn" href="https://twitter.com/intent/tweet?text={{ $title }}&url={{ $url }}" target="_blank" rel="noopener" aria-label="Share on Twitter">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 4h3l4 6 4-6h3l-5.5 8L18 17h-3l-5-7-5 7H2l5.5-8L3 4Z"/>
+      </svg>
+    </a>
+    <a class="icon-btn" href="mailto:?subject={{ $title }}&body={{ $url }}" aria-label="Share by email">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="2" y="4" width="16" height="12" rx="2"/><path d="m2 5 8 6 8-6"/>
+      </svg>
+    </a>
+    <button class="icon-btn" type="button" data-copy-url aria-label="Copy link">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="3" y="3" width="10" height="10" rx="2"/><rect x="7" y="7" width="10" height="10" rx="2"/>
+      </svg>
+    </button>
+  </div>
+</div>
