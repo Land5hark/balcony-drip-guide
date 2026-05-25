@@ -1,0 +1,18 @@
+{{/*
+  Inline affiliate mention. Use mid-paragraph.
+
+    The kit I recommend is the
+    {{< aff name="Raindrip R560DP" price="$42" url="https://amzn.to/..." retailer="Amazon" >}}.
+*/}}
+{{- $name     := .Get "name" -}}
+{{- $url      := .Get "url" -}}
+{{- $price    := .Get "price" -}}
+{{- $retailer := .Get "retailer" | default "Amazon" -}}
+<a class="aff-inline" href="{{ $url }}" rel="sponsored nofollow noopener" target="_blank">
+  <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M2.5 3.5h2l2 10h9l2-7H6"/><circle cx="7.5" cy="16.5" r="1"/><circle cx="14.5" cy="16.5" r="1"/>
+  </svg>
+  <strong>{{ $name }}</strong>
+  {{- with $price }}<em>· {{ . }}</em>{{ end }}
+  <span>{{ $retailer }} →</span>
+</a>

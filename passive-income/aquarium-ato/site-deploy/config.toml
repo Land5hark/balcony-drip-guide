@@ -1,0 +1,23 @@
+baseURL = "https://nano-tank-ato-reliability.pages.dev/"
+languageCode = "en-us"
+title = "Nano Tank ATO Reliability"
+enableRobotsTXT = true
+
+[params]
+  description = "Practical guides on aquarium auto-top-off reliability for nano and open-top tanks."
+  site_url = "https://nano-tank-ato-reliability.pages.dev/"
+  default_og_image = "/assets/logo.png"
+  cloudflare_analytics_token = "ceb6dbd4f5474c87a1fea52dbf83cf30"
+  disclosure = "Some pages on this site may include affiliate links. If they do, the goal is still to recommend gear based on fit, tradeoffs, maintenance burden, and failure risk — not hype."
+  verification_label = "Verification status"
+  verification_warning = "This page is still in the editorial pipeline. Verify product facts, specs, and any model-specific claims before publishing it externally."
+  disclosure_page = "/affiliate-disclosure/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

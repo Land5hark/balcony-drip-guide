@@ -1,0 +1,6 @@
+{{/* Cloudflare Web Analytics - Privacy-friendly, no cookie banner required */}}
+{{- if and .Site.Params.cloudflare_analytics.enabled .Site.Params.cloudflare_analytics.token -}}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ .Site.Params.cloudflare_analytics.token }}"}'></script>
+<!-- End Cloudflare Web Analytics -->
+{{- end -}}

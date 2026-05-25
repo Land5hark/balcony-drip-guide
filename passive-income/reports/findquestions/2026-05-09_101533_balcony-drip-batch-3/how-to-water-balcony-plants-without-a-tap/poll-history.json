@@ -1,0 +1,223 @@
+[
+  {
+    "ts": "2026-05-09T14:15:37.583093+00:00",
+    "stage": "search",
+    "response": {
+      "bonus_topics": [
+        "Balcony garden drainage solutions",
+        "Plant-specific watering needs",
+        "Container size and water retention",
+        "Wind impact on balcony plant watering",
+        "Balcony railing-mounted watering systems",
+        "Water quality for balcony plants",
+        "Seasonal watering adjustments",
+        "Urban gardening water conservation"
+      ],
+      "business": "how to water balcony plants without a tap",
+      "cached": true,
+      "questions": [
+        {
+          "question": "How to Water Balcony Plants Without a Tap",
+          "search_intent": "Direct solution for no tap access"
+        },
+        {
+          "question": "Best Watering Can for Balcony Plants",
+          "search_intent": "Affordable tool recommendation"
+        },
+        {
+          "question": "Can I Use a Hose Inside to Water My Balcony Garden",
+          "search_intent": "Indoor hose feasibility"
+        },
+        {
+          "question": "How to Keep Balcony Plants Watered While on Vacation",
+          "search_intent": "Solution for time away"
+        },
+        {
+          "question": "DIY Balcony Watering System Without a Tap",
+          "search_intent": "Budget-friendly setup"
+        },
+        {
+          "question": "What Water Can I Use for Balcony Plants",
+          "search_intent": "Alternative water sources"
+        },
+        {
+          "question": "Automatic Watering System for Balcony Gardens",
+          "search_intent": "Hands-off watering"
+        },
+        {
+          "question": "How to Water Plants on a High-Rise Balcony",
+          "search_intent": "Practical solution for apartments"
+        },
+        {
+          "question": "Best Water Butt for Balcony Plant Watering",
+          "search_intent": "Rainwater collection"
+        },
+        {
+          "question": "How Long Can Balcony Plants Go Without Water",
+          "search_intent": "Plant survival timeline"
+        },
+        {
+          "question": "Drip Irrigation for Balcony Plants Without Tap Water",
+          "search_intent": "Efficient watering method"
+        },
+        {
+          "question": "Can I Water Balcony Plants With Collected Rainwater",
+          "search_intent": "Sustainable watering option"
+        },
+        {
+          "question": "Budget Watering Solutions for Apartment Balconies",
+          "search_intent": "Cheap alternatives"
+        },
+        {
+          "question": "How to Water Multiple Balcony Plants Efficiently",
+          "search_intent": "Time-saving methods"
+        },
+        {
+          "question": "Best Timer for Automatic Balcony Plant Watering",
+          "search_intent": "Automated watering device"
+        },
+        {
+          "question": "Can I Keep Balcony Plants in Sealed Bags While Away",
+          "search_intent": "Vacation watering hack"
+        },
+        {
+          "question": "How to Reduce Evaporation in Balcony Plant Containers",
+          "search_intent": "Water conservation"
+        },
+        {
+          "question": "Gardena Balcony Watering System Setup Guide",
+          "search_intent": "Brand-specific solution"
+        },
+        {
+          "question": "What's the Cheapest Way to Water a Balcony Garden",
+          "search_intent": "Cost-effective options"
+        },
+        {
+          "question": "How to Set Up Micro Drip Irrigation on a Balcony",
+          "search_intent": "Professional-style watering"
+        },
+        {
+          "question": "Hand Watering vs Automatic Systems for Balcony Plants",
+          "search_intent": "Method comparison"
+        },
+        {
+          "question": "How to Water Balcony Plants When You Travel",
+          "search_intent": "Temporary watering solutions"
+        },
+        {
+          "question": "Best Container Plants for Minimal Watering",
+          "search_intent": "Low-maintenance alternatives"
+        },
+        {
+          "question": "Can I Use Gray Water to Water Balcony Plants",
+          "search_intent": "Recycled water option"
+        },
+        {
+          "question": "Hose Lock Watering System for Balcony Gardens",
+          "search_intent": "Specific product research"
+        },
+        {
+          "question": "How to Mulch Balcony Plant Containers to Retain Water",
+          "search_intent": "Water retention techniques"
+        },
+        {
+          "question": "South-Facing Balcony Plants: Summer Watering Guide",
+          "search_intent": "Climate-specific advice"
+        },
+        {
+          "question": "Self-Watering Planters for Balconies Without Tap",
+          "search_intent": "Product-based solution"
+        },
+        {
+          "question": "How Often Should I Water Balcony Plants in Summer",
+          "search_intent": "Seasonal watering schedule"
+        },
+        {
+          "question": "Toilet Tank Auto-Watering System for Indoor Balcony Plants",
+          "search_intent": "Creative watering hack"
+        },
+        {
+          "question": "Ziplock Bag Method for Watering Plants While Away",
+          "search_intent": "Vacation watering hack"
+        },
+        {
+          "question": "How to Prevent Clogging in Drip Irrigation Systems",
+          "search_intent": "System maintenance"
+        },
+        {
+          "question": "Best Portable Water Container for Balcony Gardening",
+          "search_intent": "Mobile watering solution"
+        },
+        {
+          "question": "Can Balcony Plants Survive 3 Weeks Without Water",
+          "search_intent": "Extended vacation watering"
+        },
+        {
+          "question": "Apartment Balcony Watering: No Tap, No Problem",
+          "search_intent": "Urban gardening solution"
+        },
+        {
+          "question": "How to Attach a Hose to a Water Butt for Balcony Use",
+          "search_intent": "Equipment connection guide"
+        },
+        {
+          "question": "Best Watering Schedule for Container Balcony Gardens",
+          "search_intent": "Routine establishment"
+        },
+        {
+          "question": "Humidity Control and Watering for Balcony Plants",
+          "search_intent": "Environmental factors"
+        },
+        {
+          "question": "How to Water Balcony Plants in Extreme Heat",
+          "search_intent": "Weather-specific watering"
+        },
+        {
+          "question": "Watering System Filters for Balcony Drip Irrigation",
+          "search_intent": "System components"
+        }
+      ],
+      "sources": [
+        {
+          "subreddit": "UrbanGardening",
+          "title": "anyone here uses a hose from inside to water their garden? - Reddit",
+          "url": "https://www.reddit.com/r/UrbanGardening/comments/8b7pac/big_balcony_garden_and_no_nearby_faucet_anyone/"
+        },
+        {
+          "subreddit": "lifehacks",
+          "title": "What's the best way to keep my plants watered while I'm away for 3 ...",
+          "url": "https://www.reddit.com/r/lifehacks/comments/1gpn0jx/whats_the_best_way_to_keep_my_plants_watered/"
+        },
+        {
+          "subreddit": "vegetablegardening",
+          "title": "Is there a good way to get water to a garden without a hose? - Reddit",
+          "url": "https://www.reddit.com/r/vegetablegardening/comments/mbhs78/is_there_a_good_way_to_get_water_to_a_garden/"
+        },
+        {
+          "subreddit": "homeautomation",
+          "title": "Whats best ways to automate garden watering? - Reddit",
+          "url": "https://www.reddit.com/r/homeautomation/comments/11mcqnn/whats_best_ways_to_automate_garden_watering/"
+        },
+        {
+          "subreddit": "gardening",
+          "title": "How do you handle vacations where you are out of town for several ...",
+          "url": "https://www.reddit.com/r/gardening/comments/1cqaqor/how_do_you_handle_vacations_where_you_are_out_of/"
+        }
+      ],
+      "status": "complete",
+      "subreddits": [
+        "r/UrbanGardening",
+        "r/lifehacks",
+        "r/vegetablegardening",
+        "r/homeautomation",
+        "r/gardening",
+        "r/UKGardening",
+        "r/Switzerland",
+        "r/containergardening",
+        "r/apartmentgardening",
+        "r/balcony"
+      ],
+      "threads_analyzed": 8
+    }
+  }
+]

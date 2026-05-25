@@ -1,0 +1,113 @@
+{{ define "main" }}
+{{- $hasToc := ne (.Params.toc | default true) false -}}
+{{- $tocPos := .Params.toc_position | default "left" -}}
+{{- $tocAttr := cond $hasToc $tocPos "none" -}}
+
+<div class="article-layout" data-toc="{{ $tocAttr }}">
+  {{- if and $hasToc (eq $tocPos "left") }}
+  {{ partial "toc.html" . }}
+  {{- end }}
+
+  <article class="article">
+    {{/* Breadcrumb */}}
+    {{- $section := .Section -}}
+    {{- $sectionPage := site.GetPage (printf "/%s" $section) -}}
+    <nav class="article__breadcrumb" aria-label="Breadcrumb">
+      {{- if $sectionPage }}<a href="{{ $sectionPage.RelPermalink }}">{{ $sectionPage.Title }}</a>{{- end }}
+      {{- with .Params.subcategory }}
+      <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 4 4 6-4 6"/></svg>
+      <span>{{ . }}</span>
+      {{- end }}
+    </nav>
+
+    {{- $kicker := .Params.kicker | default $section -}}
+    {{- with .Params.categories -}}
+      {{- if gt (len .) 0 -}}
+        {{- $kicker = index . 0 -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $kicker }}
+    <span class="kicker">{{ . | humanize | replace "-" " " | title }}</span>
+    {{- end }}
+
+    <h1 class="article__title">{{ .Title }}</h1>
+
+    {{- with (.Description | default .Summary) }}
+    <p class="article__dek">{{ . }}</p>
+    {{- end }}
+
+    {{ partial "article-meta.html" . }}
+
+    {{/* Lead image */}}
+    {{- with .Params.image }}
+    <figure>
+      <div class="article__lead">
+        <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="eager">
+      </div>
+      {{- with $.Params.image_caption }}
+      <figcaption class="article__caption">{{ . }}</figcaption>
+      {{- end }}
+    </figure>
+    {{- end }}
+
+    {{/* FTC disclosure — auto-shown for articles with affiliate links,
+         opt-out via frontmatter `disclosure = false`. */}}
+    {{- if ne (.Params.disclosure | default true) false }}
+    <div style="margin: 1.5rem 0 2.25rem;">
+      {{ partial "disclosure.html" . }}
+    </div>
+    {{- end }}
+
+    {{/* Inline TOC if requested */}}
+    {{- if and $hasToc (eq $tocPos "inline") }}
+    <details class="toc toc--inline" open>
+      <summary>Contents · {{ len (findRE "<li>" .TableOfContents) }} sections</summary>
+      {{ .TableOfContents }}
+    </details>
+    {{- end }}
+
+    {{/* Body */}}
+    <div class="prose">
+      {{ .Content }}
+    </div>
+
+    {{/* Footer: tags + last-verified */}}
+    <div class="article__footer">
+      <div class="tags">
+        {{- range .Params.tags }}
+        <a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{- end }}
+      </div>
+      <div class="article__verified">
+        Last verified {{ (.Lastmod | default .Date).Format "Jan 2006" }} ·
+        <a href="{{ "/methodology/" | relURL }}">How we test</a>
+      </div>
+    </div>
+  </article>
+
+  {{- if and $hasToc (eq $tocPos "floating") }}
+  {{ partial "toc.html" . }}
+  {{- end }}
+</div>
+
+{{/* Related articles */}}
+{{- $related := first 3 (.Site.RegularPages.Related .) -}}
+{{- if $related }}
+<section class="section section--tinted related">
+  <div class="wrap">
+    <header class="section-header">
+      <h2 class="section-header__title">Keep reading</h2>
+    </header>
+    <div class="cats-grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
+      {{- range $related }}
+      {{ partial "article-card.html" (dict "page" . "variant" "default") }}
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "/js/toc.js" | relURL }}" defer></script>
+{{ end }}

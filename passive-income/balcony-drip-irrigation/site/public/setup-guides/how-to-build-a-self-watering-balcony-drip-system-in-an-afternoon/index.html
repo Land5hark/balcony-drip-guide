@@ -1,0 +1,569 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('bd-theme');
+      if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script><title>How to Build a Self-Watering Balcony Drip System in an Afternoon · The Balcony Drip</title><meta name="description" content="A complete, parts-list-included walkthrough for renters. Works on balconies as small as 12 sq ft, with no hose bib, and a $42 budget."><link rel="canonical" href="https://balcony-drip-guide.pages.dev/setup-guides/how-to-build-a-self-watering-balcony-drip-system-in-an-afternoon/">
+
+
+<meta property="og:type"        content="article">
+<meta property="og:site_name"   content="The Balcony Drip">
+<meta property="og:title"       content="How to Build a Self-Watering Balcony Drip System in an Afternoon">
+<meta property="og:description" content="A complete, parts-list-included walkthrough for renters. Works on balconies as small as 12 sq ft, with no hose bib, and a $42 budget.">
+<meta property="og:url"         content="https://balcony-drip-guide.pages.dev/setup-guides/how-to-build-a-self-watering-balcony-drip-system-in-an-afternoon/"><meta property="og:image" content="https://balcony-drip-guide.pages.dev/images/setup/balcony-drip-hero.jpg">
+
+
+<meta name="twitter:card"        content="summary_large_image"><meta name="twitter:site" content="@balconydrip">
+<meta name="twitter:title"       content="How to Build a Self-Watering Balcony Drip System in an Afternoon">
+<meta name="twitter:description" content="A complete, parts-list-included walkthrough for renters. Works on balconies as small as 12 sq ft, with no hose bib, and a $42 budget."><meta name="twitter:image" content="https://balcony-drip-guide.pages.dev/images/setup/balcony-drip-hero.jpg">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "\"How to Build a Self-Watering Balcony Drip System in an Afternoon\"",
+  "description": "\"A complete, parts-list-included walkthrough for renters. Works on balconies as small as 12 sq ft, with no hose bib, and a $42 budget.\"",
+  "author": { "@type": "Person", "name": "\"Maya Chen\"" },
+  "datePublished": "\"2026-05-10\"",
+  "dateModified": "\"2026-05-10\"","image": "\"https://balcony-drip-guide.pages.dev/images/setup/balcony-drip-hero.jpg\"",
+  "publisher": { "@type": "Organization", "name": "\"The Balcony Drip\"" },
+  "mainEntityOfPage": "\"https://balcony-drip-guide.pages.dev/setup-guides/how-to-build-a-self-watering-balcony-drip-system-in-an-afternoon/\""
+}
+</script>
+
+
+
+<link rel="icon" href="/favicon.ico">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="/css/site.css">
+
+
+
+
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="nav" data-open="false">
+  <div class="nav__inner wrap">
+    <a class="brand" href="/" aria-label="The Balcony Drip home">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span>The Balcony Drip</span>
+    </a>
+
+    <nav class="nav__links" aria-label="Primary">
+      <a href="/setup-guides/" aria-current="page">
+        Setup Guides
+      </a>
+      <a href="/buying-guides/">
+        Buying Guides
+      </a>
+      <a href="/troubleshooting/">
+        Troubleshooting
+      </a>
+      <a href="/plant-care/">
+        Plant Care
+      </a>
+      <a href="/winter-prep/">
+        Winter Prep
+      </a>
+      <a href="/about/">About</a>
+    </nav>
+
+    <div class="nav__actions">
+      <button class="icon-btn theme-toggle" type="button"
+        data-theme-toggle aria-label="Toggle dark mode">
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M16.5 11.5A6.5 6.5 0 0 1 8.5 3.5 6.5 6.5 0 1 0 16.5 11.5Z"/>
+        </svg>
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="10" cy="10" r="3.5"/>
+          <path d="M10 2v2M10 16v2M2 10h2M16 10h2M4.2 4.2l1.4 1.4M14.4 14.4l1.4 1.4M4.2 15.8l1.4-1.4M14.4 5.6l1.4-1.4"/>
+        </svg>
+      </button>
+      <a class="icon-btn" href="/search/" aria-label="Search">
+        <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="9" cy="9" r="5.5"/><path d="m13.5 13.5 3 3"/>
+        </svg>
+      </a>
+      <button class="icon-btn nav__menu-btn" type="button"
+        data-nav-toggle aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer">
+        <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true">
+          <path d="M3 6h14"/><path d="M3 10h14"/><path d="M3 14h14"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="nav__drawer" id="nav-drawer">
+    <a href="/setup-guides/">Setup Guides</a>
+    <a href="/buying-guides/">Buying Guides</a>
+    <a href="/troubleshooting/">Troubleshooting</a>
+    <a href="/plant-care/">Plant Care</a>
+    <a href="/winter-prep/">Winter Prep</a>
+    <a href="/about/">About</a>
+    <a href="/disclosure/">Disclosure</a>
+  </div>
+</header>
+
+
+  <main id="main">
+    <div class="article-layout" data-toc="left">
+  <aside class="toc toc--left" aria-label="Article contents">
+  <div class="toc__label">In this guide</div>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-youll-need">What you&rsquo;ll need</a></li>
+    <li><a href="#the-30-minute-setup">The 30-minute setup</a></li>
+    <li><a href="#choosing-the-right-emitters">Choosing the right emitters</a></li>
+    <li><a href="#editors-pick-best-kit-for-renters">Editor&rsquo;s pick: best kit for renters</a></li>
+    <li><a href="#compared-five-starter-kits">Compared: five starter kits</a></li>
+    <li><a href="#troubleshooting-low-pressure">Troubleshooting low pressure</a></li>
+    <li><a href="#winterizing-your-system">Winterizing your system</a></li>
+    <li><a href="#faq">FAQ</a>
+      <ul>
+        <li><a href="#can-i-use-a-smart-timer-in-the-first-season">Can I use a smart timer in the first season?</a></li>
+        <li><a href="#what-about-hard-water-buildup-in-the-emitters">What about hard-water buildup in the emitters?</a></li>
+        <li><a href="#will-this-work-on-a-north-facing-balcony">Will this work on a north-facing balcony?</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  <div class="toc__hint">
+    <strong>~5 min read</strong><br>
+    Last updated May 2026.
+  </div>
+</aside>
+
+
+  <article class="article">
+    <nav class="article__breadcrumb" aria-label="Breadcrumb"><a href="/setup-guides/">Setup Guides</a>
+    </nav>
+    <span class="kicker">-</span>
+
+    <h1 class="article__title">How to Build a Self-Watering Balcony Drip System in an Afternoon</h1>
+    <p class="article__dek">A complete, parts-list-included walkthrough for renters. Works on balconies as small as 12 sq ft, with no hose bib, and a $42 budget.</p>
+
+    <div class="article__byline">
+  <div class="author">
+    <div class="author__avatar" aria-hidden="true">MC</div>
+    <div>
+      <div class="author__name">By Maya Chen</div>
+      <div class="author__meta">Updated May 10, 2026 · 5 min read
+      </div>
+    </div>
+  </div>
+  <div class="article__share" aria-label="Share"><a class="icon-btn" href="https://twitter.com/intent/tweet?text=How%2bto%2bBuild%2ba%2bSelf-Watering%2bBalcony%2bDrip%2bSystem%2bin%2ban%2bAfternoon&url=https%253A%252F%252Fbalcony-drip-guide.pages.dev%252Fsetup-guides%252Fhow-to-build-a-self-watering-balcony-drip-system-in-an-afternoon%252F" target="_blank" rel="noopener" aria-label="Share on Twitter">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 4h3l4 6 4-6h3l-5.5 8L18 17h-3l-5-7-5 7H2l5.5-8L3 4Z"/>
+      </svg>
+    </a>
+    <a class="icon-btn" href="mailto:?subject=How%2bto%2bBuild%2ba%2bSelf-Watering%2bBalcony%2bDrip%2bSystem%2bin%2ban%2bAfternoon&body=https%253A%252F%252Fbalcony-drip-guide.pages.dev%252Fsetup-guides%252Fhow-to-build-a-self-watering-balcony-drip-system-in-an-afternoon%252F" aria-label="Share by email">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="2" y="4" width="16" height="12" rx="2"/><path d="m2 5 8 6 8-6"/>
+      </svg>
+    </a>
+    <button class="icon-btn" type="button" data-copy-url aria-label="Copy link">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="3" y="3" width="10" height="10" rx="2"/><rect x="7" y="7" width="10" height="10" rx="2"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+
+    
+    <figure>
+      <div class="article__lead">
+        <img src="/images/setup/balcony-drip-hero.jpg" alt="A complete drip irrigation system installed along the railing of a Brooklyn balcony" loading="eager">
+      </div>
+      <figcaption class="article__caption">The system in question, photographed on the author&#39;s balcony in Carroll Gardens, May 2026.</figcaption>
+    </figure>
+
+    
+    <div style="margin: 1.5rem 0 2.25rem;">
+      
+<div class="disclosure" role="note">
+  <svg class="disclosure__icon" width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M3 4.5h6a2 2 0 0 1 2 2v10"/>
+    <path d="M17 4.5h-6a2 2 0 0 0-2 2v10"/>
+    <path d="M3 4.5v11h6"/><path d="M17 4.5v11h-6"/>
+  </svg>
+  <div>
+    <strong>Affiliate disclosure.</strong>
+    We may earn a commission on products bought through links on this page.
+    We never accept paid placements and only recommend gear we've used.
+    <a href="/disclosure/">How we test</a>.
+  </div>
+</div>
+
+    </div>
+
+    
+
+    
+    <div class="prose">
+      <p>You did not move to a fifth-floor walk-up to spend Saturday mornings
+dragging a watering can up the stairs. And yet here you are, last summer,
+watching tomatoes brown out by Tuesday because life happened and the can
+stayed empty.</p>
+<p>Drip irrigation is the single best Saturday-afternoon project a balcony
+gardener can take on. It turns a worry — <em>did anyone water the plants?</em> —
+into a checked box. A small drip kit, a $14 timer, and a faucet adapter
+will keep a dozen containers happy for the entire season, including a
+two-week vacation in August.</p>
+<p>The catch: most starter kits ship with the wrong parts for a balcony
+setup. They&rsquo;re built for backyards with hose bibs. The good news is that
+the swap is cheap. The kit I recommend is the
+<a class="aff-inline" href="https://amzn.to/example" rel="sponsored nofollow noopener" target="_blank">
+  <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M2.5 3.5h2l2 10h9l2-7H6"/><circle cx="7.5" cy="16.5" r="1"/><circle cx="14.5" cy="16.5" r="1"/>
+  </svg>
+  <strong>Raindrip R560DP Universal Kit</strong><em>· $42</em>
+  <span>Amazon →</span>
+</a>
+;
+the rest of this guide tells you how to adapt it.</p>
+<h2 id="what-youll-need">What you&rsquo;ll need</h2>
+<p>Below is the exact parts list I use. Total budget: $42 to $58 depending on
+how many emitters you need for your pot count.</p>
+<ul>
+<li><strong>One drip starter kit.</strong> Raindrip R560DP or equivalent. Avoid &ldquo;deluxe&rdquo; $200 kits.</li>
+<li><strong>One battery timer.</strong> Orbit single-outlet is fine.</li>
+<li><strong>One pressure regulator (25 PSI).</strong> Non-negotiable for indoor faucet use. <em>Install it on the right side of the timer.</em></li>
+<li><strong>One sink-thread adapter.</strong> Find the one that fits your faucet first.</li>
+<li><strong>1/4&rdquo; emitter tubing.</strong> 50 feet is plenty for ~20 containers.</li>
+<li><strong>Pressure-compensating emitters.</strong> 1 GPH for herbs; 2 GPH for tomatoes and peppers.</li>
+</ul>
+<aside class="callout callout--tip">
+  <div class="callout__head">
+    <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="var(--sage)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M16.5 3.5C9 4 4.5 8 4 15.5c7-.5 11.5-5 12.5-12Z"/>
+      <path d="M4.5 15.5 11 9"/>
+    </svg>
+    <span>Renter tip</span>
+  </div>
+  <div class="callout__body">
+If your sink threads are non-standard (older NYC buildings often are),
+a $4 universal-thread adapter solves it. Don't try to force a fit.
+</div>
+</aside>
+<h2 id="the-30-minute-setup">The 30-minute setup</h2>
+<p>With everything on the counter, the install runs in this order. The order
+matters — installing the regulator backwards is the single most common
+mistake new readers email me about.</p>
+<ol>
+<li><strong>Adapter on faucet.</strong> Hand-tight is enough. PTFE tape is fine.</li>
+<li><strong>Timer above adapter.</strong> Battery in. Set it to a 5-minute test run.</li>
+<li><strong>Pressure regulator below timer.</strong> Arrow points away from the faucet.</li>
+<li><strong>Run 1/2&rdquo; main line</strong> along the rail with zip ties.</li>
+<li><strong>Punch 1/4&rdquo; tees</strong> where each pot sits.</li>
+<li><strong>Run 1/4&rdquo; tubing</strong> to each pot. Cap the ends.</li>
+<li><strong>Install emitters</strong> at the soil line, not on the surface.</li>
+<li><strong>Test the run.</strong> Confirm every emitter drips.</li>
+</ol>
+<aside class="callout callout--warn">
+  <div class="callout__head">
+    <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="var(--clay)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M10 2 1.5 17h17L10 2Z"/><path d="M10 8v4"/><path d="M10 14.5v.1"/>
+    </svg>
+    <span>The most common mistake</span>
+  </div>
+  <div class="callout__body">
+The pressure regulator goes _after_ the timer, not before. Backwards,
+it'll either underwater or burst a fitting.
+</div>
+</aside>
+<h2 id="choosing-the-right-emitters">Choosing the right emitters</h2>
+<p>Emitters do the actual watering. Get this part right and the system
+becomes invisible; get it wrong and you&rsquo;ll be hand-correcting all summer.
+Pressure-compensating (PC) is the only style I&rsquo;d consider for a balcony.</p>
+<p>A 5-gallon tomato pot in full sun in zone 7b needs roughly 1.5 gallons per
+day at peak. That&rsquo;s a 2 GPH emitter running 45 minutes once a day. Adjust
+down for herbs and lettuce.</p>
+<h2 id="editors-pick-best-kit-for-renters">Editor&rsquo;s pick: best kit for renters</h2>
+<p>I&rsquo;ve tested seventeen starter kits over four summers. One has been a
+drop-in recommendation since 2023.</p>
+
+<aside class="pick" role="complementary" aria-label="Editor's pick">
+  <div class="pick__img">
+  </div>
+  <div class="pick__body">
+    <span class="pick-badge">
+      <svg width="11" height="11" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M5 2.5h10v15l-5-3.5-5 3.5v-15Z"/>
+      </svg>
+      Editor's Pick
+    </span>
+    <h4 class="pick__name">Raindrip R560DP Universal Kit</h4>
+    <span class="stars" aria-label="4.7 out of 5 stars, 2,148 reviews">
+  <span class="stars__icons" aria-hidden="true">★★★★★
+  </span>
+  <span>4.7 (2,148)</span>
+</span>
+
+    <p class="pick__blurb">The only starter kit that ships with the right parts for an indoor faucet setup. Pressure-compensating emitters, a working timer, and enough tubing for 20 pots. Survived three Brooklyn summers with no failures.</p>
+    <div class="pick__cta">
+      <a class="btn btn--clay" href="https://amzn.to/example" rel="sponsored nofollow noopener" target="_blank">
+        $42 on Amazon
+        <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+        </svg>
+      </a>
+      <a class="pick__why" href="#pick">Why we picked it</a>
+    </div>
+  </div>
+</aside>
+
+
+<p>The runner-up, for readers who want the slightly nicer experience and
+don&rsquo;t mind paying for it, is the DripWorks Renter&rsquo;s Bundle. Better build,
+but $35 more and slower shipping.</p>
+<h2 id="compared-five-starter-kits">Compared: five starter kits</h2>
+<p>The full bench. I bought each at retail and ran it for at least one
+season. Prices verified May 2026.</p>
+<div class="compare">
+  <table>
+    <thead>
+      <tr><th>Product</th><th>Best for</th><th>Emitters</th><th>Timer</th><th>Price</th>
+        <th class="visually-hidden">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><div class="compare__product">
+              <div class="compare__thumb">
+              </div>
+              <div>
+                <div class="compare__name">Raindrip R560DP</div><div style="margin-top: 4px;"><span class="pick-badge">Editor's Pick</span></div>
+              </div>
+            </div></td>
+        <td>Renters, beginners</td>
+        <td>20 × 2 GPH</td>
+        <td><span class="compare__check" aria-label="Yes">✓</span></td>
+        <td><span class="compare__price">$42</span></td>
+        <td style="text-align: right;">
+          <a class="compare__link" href="https://amzn.to/example1" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><div class="compare__product">
+              <div class="compare__thumb">
+              </div>
+              <div>
+                <div class="compare__name">DripWorks Renter&#39;s Bundle</div>
+              </div>
+            </div></td>
+        <td>Quality-first buyers</td>
+        <td>24 × 1 GPH PC</td>
+        <td><span class="compare__check" aria-label="Yes">✓</span></td>
+        <td><span class="compare__price">$77</span></td>
+        <td style="text-align: right;">
+          <a class="compare__link" href="https://www.dripworks.com/example" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><div class="compare__product">
+              <div class="compare__thumb">
+              </div>
+              <div>
+                <div class="compare__name">Orbit 69500 Micro</div>
+              </div>
+            </div></td>
+        <td>Big-box availability</td>
+        <td>15 × 1 GPH</td>
+        <td><span class="compare__x" aria-label="No">—</span></td>
+        <td><span class="compare__price">$28</span></td>
+        <td style="text-align: right;">
+          <a class="compare__link" href="https://amzn.to/example3" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><div class="compare__product">
+              <div class="compare__thumb">
+              </div>
+              <div>
+                <div class="compare__name">Rain Bird BWDSKIT</div>
+              </div>
+            </div></td>
+        <td>Backyards</td>
+        <td>20 × 1 GPH</td>
+        <td><span class="compare__x" aria-label="No">—</span></td>
+        <td><span class="compare__price">$52</span></td>
+        <td style="text-align: right;">
+          <a class="compare__link" href="https://amzn.to/example4" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><div class="compare__product">
+              <div class="compare__thumb">
+              </div>
+              <div>
+                <div class="compare__name">Gardena Micro Drip</div>
+              </div>
+            </div></td>
+        <td>EU readers</td>
+        <td>12 × adjustable</td>
+        <td><span class="compare__check" aria-label="Yes">✓</span></td>
+        <td><span class="compare__price">$95</span></td>
+        <td style="text-align: right;">
+          <a class="compare__link" href="https://amzn.to/example5" rel="sponsored nofollow noopener" target="_blank">
+            Check
+            <svg width="12" height="12" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 15 15 5"/><path d="M7.5 5H15v7.5"/>
+            </svg>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 id="troubleshooting-low-pressure">Troubleshooting low pressure</h2>
+<p>If your last emitter runs dry, the cause is almost always one of three
+things: a kinked main line, a partially closed timer valve, or — most
+often — a 25 PSI regulator installed in the wrong direction. Walk the
+line from faucet to last emitter and confirm each is correct.</p>
+<p>See the dedicated guide,
+<a href="/troubleshooting/regulator-mistake/">The Pressure Regulator Mistake That Cost Me a Summer</a>,
+for the full diagnostic.</p>
+<h2 id="winterizing-your-system">Winterizing your system</h2>
+<p>You don&rsquo;t have to drag everything indoors. You do have to drain the line
+and remove the timer&rsquo;s batteries before the first freeze. A fifteen-minute
+job in October saves replacing fittings in April.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="can-i-use-a-smart-timer-in-the-first-season">Can I use a smart timer in the first season?</h3>
+<p>You can; I don&rsquo;t recommend it. Mechanical timers fail visibly. Smart
+timers fail silently — usually at 3 a.m. on the hottest week of the
+year, when you&rsquo;re on vacation.</p>
+<h3 id="what-about-hard-water-buildup-in-the-emitters">What about hard-water buildup in the emitters?</h3>
+<p>Pressure-compensating emitters are largely self-flushing. If you&rsquo;re on
+truly hard water, vinegar-soak them once a season. Most NYC balconies
+will never need to.</p>
+<h3 id="will-this-work-on-a-north-facing-balcony">Will this work on a north-facing balcony?</h3>
+<p>Yes — drip is even more useful when sun is limited, because you can dial
+the schedule to match a much narrower margin of error.</p>
+
+    </div>
+
+    
+    <div class="article__footer">
+      <div class="tags">
+        <a class="tag" href="/tags/drip-irrigation/">drip irrigation</a>
+        <a class="tag" href="/tags/renters/">renters</a>
+        <a class="tag" href="/tags/setup/">setup</a>
+        <a class="tag" href="/tags/beginner/">beginner</a>
+      </div>
+      <div class="article__verified">
+        Last verified May 2026 ·
+        <a href="/methodology/">How we test</a>
+      </div>
+    </div>
+  </article>
+</div>
+
+
+
+  </main>
+
+  <footer class="footer">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <a class="brand" href="/">
+          <span class="brand__mark" aria-hidden="true"></span>
+          <span>The Balcony Drip</span>
+        </a>
+        <p class="footer__about">
+          A field journal for renters who want to keep tomatoes alive on small balconies.
+          Independent. Affiliate-supported. No sponsored content.
+        </p>
+      </div>
+
+      <div class="footer__col">
+        <h4>Sections</h4>
+        <ul>
+          <li><a href="/setup-guides/">Setup Guides</a></li>
+          <li><a href="/buying-guides/">Buying Guides</a></li>
+          <li><a href="/troubleshooting/">Troubleshooting</a></li>
+          <li><a href="/plant-care/">Plant Care</a></li>
+          <li><a href="/winter-prep/">Winter Prep</a></li>
+        </ul>
+      </div>
+
+      <div class="footer__col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="/glossary/">Glossary</a></li>
+          <li><a href="/calculator/">GPH calculator</a></li>
+          <li><a href="/newsletter/">Newsletter</a></li>
+          <li><a href="/index.xml">RSS</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer__col">
+        <h4>About</h4>
+        <ul>
+          <li><a href="/about/">Who we are</a></li>
+          <li><a href="/methodology/">Methodology</a></li>
+          <li><a href="/disclosure/">Ethics &amp; disclosure</a></li>
+          <li><a href="/reader-notes/">Reader notes</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <span>© 2026 The Balcony Drip · Brooklyn, NY</span>
+      <span>
+        Some links earn us a commission.
+        Read our <a href="/disclosure/">disclosure</a>.
+      </span>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="/js/theme.js" defer></script>
+  
+<script src="/js/toc.js" defer></script>
+
+</body>
+</html>

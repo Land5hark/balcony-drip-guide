@@ -1,0 +1,62 @@
+{{/* newsletter.html — Email capture for The Drip newsletter
+
+   Supports two modes:
+   1. Embedded form (if .Site.Params.newsletter_embed is set)
+   2. LocalStorage fallback (development / pre-integration)
+
+   To activate a real newsletter service:
+   1. Sign up for Beehiiv, ConvertKit, Buttondown, or Mailchimp
+   2. Generate an embed form from your dashboard
+   3. Paste the embed code into config.toml as newsletter_embed
+   4. Rebuild and deploy
+*/}}
+<section class="section">
+  <div class="wrap">
+    <div class="newsletter">
+      <div>
+        <span class="kicker">The Drip · Newsletter</span>
+        <h2 class="newsletter__heading">A short letter on Sunday mornings.</h2>
+        <p class="newsletter__blurb">
+          One field note, one product I'm testing, one reader question.
+          1,200 words tops. No tracking pixels, no sponsored sections.
+        </p>
+      </div>
+      
+      {{ if .Site.Params.newsletter_embed }}
+        {{/* Real embed form from newsletter service */}}
+        <div class="newsletter__embed">
+          {{ .Site.Params.newsletter_embed | safeHTML }}
+        </div>
+      {{ else }}
+        {{/* Fallback: localStorage capture + mailto notification */}}
+        <form class="newsletter__form" id="nl-form" onsubmit="handleSubscribe(event)">
+          <label class="visually-hidden" for="nl-email">Email address</label>
+          <input id="nl-email" name="email" type="email" placeholder="you@example.com" required>
+          <button class="btn btn--primary" type="submit">Subscribe</button>
+        </form>
+        <p id="nl-message" style="display: none; margin-top: 1rem; color: var(--sage);"></p>
+        
+        <script>
+        function handleSubscribe(e) {
+          e.preventDefault();
+          const email = document.getElementById('nl-email').value;
+          const message = document.getElementById('nl-message');
+          
+          // Store locally for now
+          let subscribers = JSON.parse(localStorage.getItem('bd_subscribers') || '[]');
+          subscribers.push({email: email, date: new Date().toISOString()});
+          localStorage.setItem('bd_subscribers', JSON.stringify(subscribers));
+          
+          // Show thanks
+          message.textContent = "Thanks! You're on the list. First email goes out Sunday.";
+          message.style.display = 'block';
+          document.getElementById('nl-form').reset();
+          
+          // Also open email client for notification
+          window.location.href = 'mailto:ryanclancey1123@gmail.com?subject=New Balcony Drip Subscriber&body=New subscriber: ' + encodeURIComponent(email);
+        }
+        </script>
+      {{ end }}
+    </div>
+  </div>
+</section>

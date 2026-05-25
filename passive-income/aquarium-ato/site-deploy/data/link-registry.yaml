@@ -1,0 +1,73 @@
+site: nano-tank-ato-reliability
+policy:
+  status: planned-approval-pending
+  owner_affiliate_approval_required: true
+  publishing_without_affiliate_links_allowed: true
+  notes:
+    - Bulk Reef Supply affiliate program confirmed live via Impact (app.impact.com).
+    - Up to 3% commission, 7-day cookie (public terms as of 2026-04-23).
+    - Owner must apply via Impact, confirm approval requirements, and set payout destination.
+    - All current links are governed placeholders; do not activate until affiliate account approved.
+    - Amazon Associates kept as fallback only, not primary strategy.
+links:
+  - slot: ato-system-brs-xp-duetto2-primary
+    article_slug: best-ato-systems-nano-reef-tanks-under-20-gallons
+    merchant: Bulk Reef Supply
+    role: primary
+    monetization_status: placeholder_pending_approval
+    destination_url: "https://www.bulkreefsupply.com/brs-xp-aqua-duetto2-ato"
+    affiliate_url: "PENDING_OWNER_APPROVAL"
+    notes: XP Aqua Duetto2 nano ATO system. Dual-sensor approach for tight spaces. Verify exact product page URL after Impact approval.
+
+  - slot: ato-system-brs-tunze-nano-3152-primary
+    article_slug: best-ato-systems-nano-reef-tanks-under-20-gallons
+    merchant: Bulk Reef Supply
+    role: primary
+    monetization_status: placeholder_pending_approval
+    destination_url: "https://www.bulkreefsupply.com/tunze-osmolator-nano-3152"
+    affiliate_url: "PENDING_OWNER_APPROVAL"
+    notes: Tunze Osmolator Nano 3152. Float-switch approach, strong brand familiarity in reefing. Verify exact product page URL after Impact approval.
+
+  - slot: ato-system-brs-tunze-universal-3155-secondary
+    article_slug: best-ato-systems-nano-reef-tanks-under-20-gallons
+    merchant: Bulk Reef Supply
+    role: secondary
+    monetization_status: placeholder_pending_approval
+    destination_url: "https://www.bulkreefsupply.com/tunze-osmolator-universal-3155"
+    affiliate_url: "PENDING_OWNER_APPROVAL"
+    notes: Tunze Osmolator Universal 3155. Premium option with strong redundancy reputation. Verify exact product page URL after Impact approval.
+
+  - slot: ato-reservoir-brs-innovative-marine-secondary
+    article_slug: how-big-should-your-ato-reservoir-be-for-safety
+    merchant: Bulk Reef Supply
+    role: secondary
+    monetization_status: placeholder_pending_approval
+    destination_url: "https://www.bulkreefsupply.com/innovative-marine-hydrofill-ato-reservoir"
+    affiliate_url: "PENDING_OWNER_APPROVAL"
+    notes: Innovative Marine Hydrofill Reservoir. Common pairing with ATO systems. Verify exact product page URL after Impact approval.
+
+  - slot: ato-accessory-brs-govee-leak-alarm-tertiary
+    article_slug: ato-failure-modes-flood-salinity-crash
+    merchant: Bulk Reef Supply
+    role: tertiary
+    monetization_status: placeholder_pending_approval
+    destination_url: "https://www.bulkreefsupply.com/govee-water-leak-detector"
+    affiliate_url: "PENDING_OWNER_APPROVAL"
+    notes: Govee leak alarm as backup flood detection. Not a monetization priority but fits failure-modes content. Verify exact product page URL after Impact approval.
+
+approval_checklist:
+  - action: "Apply to Bulk Reef Supply affiliate program via Impact (app.impact.com)"
+    blocker: "Owner identity and bank/payout details required"
+    status: pending_owner_action
+  - action: "Confirm approval requirements, payout threshold, and payout method in Impact"
+    blocker: "Requires active application review"
+    status: pending_owner_action
+  - action: "Set payout destination in Impact account"
+    blocker: "Owner bank/PayPal details required"
+    status: pending_owner_action
+  - action: "Replace PENDING_OWNER_APPROVAL affiliate URLs with live Impact tracking links"
+    blocker: "Requires approved affiliate account"
+    status: blocked
+  - action: "Update article frontmatter affiliate_ready from false to true"
+    blocker: "Requires live affiliate URLs verified"
+    status: blocked

@@ -1,0 +1,24 @@
+[
+  {
+    "query": "watering balcony plants while away",
+    "slug": "watering-balcony-plants-while-away",
+    "status": "ok",
+    "error": "",
+    "cached": true,
+    "question_count": 40,
+    "subreddit_count": 10,
+    "suggestion_count": 1,
+    "dir": "/home/linuxlite/.openclaw/workspace/passive-income/reports/findquestions/2026-05-03_173405_pipeline-smoke/watering-balcony-plants-while-away"
+  },
+  {
+    "query": "how to water balcony plants without a tap",
+    "slug": "how-to-water-balcony-plants-without-a-tap",
+    "status": "ok",
+    "error": "",
+    "cached": true,
+    "question_count": 40,
+    "subreddit_count": 10,
+    "suggestion_count": 1,
+    "dir": "/home/linuxlite/.openclaw/workspace/passive-income/reports/findquestions/2026-05-03_173405_pipeline-smoke/how-to-water-balcony-plants-without-a-tap"
+  }
+]

@@ -1,0 +1,15 @@
+{{/*
+  {{% note title="Optional title" %}}
+  Body markdown — neutral aside / context note.
+  {{% /note %}}
+*/}}
+<aside class="callout callout--note">
+  <div class="callout__head">
+    <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="var(--ink-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M3 4.5h6a2 2 0 0 1 2 2v10"/><path d="M17 4.5h-6a2 2 0 0 0-2 2v10"/>
+      <path d="M3 4.5v11h6"/><path d="M17 4.5v11h-6"/>
+    </svg>
+    <span>{{ .Get "title" | default "Note" }}</span>
+  </div>
+  <div class="callout__body">{{ .Inner }}</div>
+</aside>

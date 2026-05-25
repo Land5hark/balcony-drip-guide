@@ -1,0 +1,5 @@
+# Updated 2026-05-21
+User-agent: *
+Allow: /
+
+Sitemap: https://balcony-drip-guide.pages.dev/sitemap.xml

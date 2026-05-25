@@ -1,0 +1,144 @@
+/* ============================================================
+   The Balcony Drip — Design Tokens
+   Single source of truth for colors, typography, spacing.
+   Override by setting <html data-theme="dark"> or matching
+   prefers-color-scheme.
+   ============================================================ */
+
+:root {
+  /* ── Palette (light) ───────────────────────────────────── */
+  --bg:        #f6f3ec;   /* cream — page background */
+  --surface:   #fbf9f3;   /* card / nav background */
+  --surface-2: #efeadd;   /* tinted band */
+  --ink:       #1f2a24;   /* primary text — deep ink-green, never pure black */
+  --ink-soft:  #3b4842;
+  --mute:      #7d8378;
+  --rule:      #e3ddd0;
+
+  /* Brand */
+  --sage:      #3d6b4a;
+  --sage-bg:   #e1ebd9;
+  --clay:      #a85a35;   /* used sparingly: editor's-pick + warnings */
+  --clay-bg:   #f4e6d8;
+
+  /* Semantic */
+  --accent:     var(--sage);
+  --accent-dim: #5a8266;
+  --accent-ink: var(--bg);
+
+  /* Striped placeholder fallback */
+  --ph-bg:     #ece6d6;
+  --ph-stripe: #d8d1bb;
+
+  /* ── Typography ────────────────────────────────────────── */
+  --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-sans:  'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono:  'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
+
+  /* Type scale */
+  --t-display: clamp(2.5rem, 6vw, 4rem);    /* 40–64 */
+  --t-h1:      clamp(2rem, 4.5vw, 3.25rem); /* 32–52 */
+  --t-h2:      clamp(1.5rem, 2.6vw, 2rem);  /* 24–32 */
+  --t-h3:      1.3125rem;                   /* 21 */
+  --t-h4:      1.1875rem;                   /* 19 */
+  --t-body:    1.0625rem;                   /* 17 (mobile-first; desktop bumps via .article) */
+  --t-small:   0.875rem;                    /* 14 */
+  --t-meta:    0.75rem;                     /* 12 */
+  --t-micro:   0.6875rem;                   /* 11 */
+
+  --lh-tight:  1.1;
+  --lh-snug:   1.3;
+  --lh-body:   1.65;
+
+  /* ── Spacing scale ─────────────────────────────────────── */
+  --s-1:  4px;
+  --s-2:  8px;
+  --s-3:  12px;
+  --s-4:  16px;
+  --s-5:  20px;
+  --s-6:  24px;
+  --s-8:  32px;
+  --s-10: 40px;
+  --s-12: 48px;
+  --s-16: 64px;
+  --s-20: 80px;
+  --s-24: 96px;
+
+  /* ── Layout ────────────────────────────────────────────── */
+  --content-max:  1280px;
+  --article-max:  720px;        /* sweet spot for 17px body */
+  --rail-width:   240px;
+  --gutter:       clamp(20px, 4vw, 56px);
+
+  /* ── Radii ─────────────────────────────────────────────── */
+  --r-1: 4px;
+  --r-2: 6px;
+  --r-pill: 999px;
+
+  /* ── Shadows (used very sparingly) ─────────────────────── */
+  --shadow-sm: 0 1px 0 rgba(31,42,36,0.04), 0 0 0 1px rgba(31,42,36,0.06);
+
+  /* ── Motion ────────────────────────────────────────────── */
+  --easing:  cubic-bezier(0.4, 0, 0.2, 1);
+  --duration:160ms;
+
+  color-scheme: light;
+}
+
+/* ── Dark theme (manual or system) ─────────────────────────── */
+:root[data-theme="dark"] {
+  --bg:        #1c1f1c;
+  --surface:   #24282430;
+  --surface-2: #2a2e2a;
+  --ink:       #ece8dc;
+  --ink-soft:  #c2bfb1;
+  --mute:      #8a8a7e;
+  --rule:      #363b35;
+
+  --sage:      #8aaf8c;
+  --sage-bg:   #243027;
+  --clay:      #d18760;
+  --clay-bg:   #3a2a20;
+
+  --accent:     var(--sage);
+  --accent-dim: #a3c0a4;
+  --accent-ink: #1c1f1c;
+
+  --ph-bg:     #272a26;
+  --ph-stripe: #33372f;
+
+  --shadow-sm: 0 1px 0 rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.04);
+
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:        #1c1f1c;
+    --surface:   #24282430;
+    --surface-2: #2a2e2a;
+    --ink:       #ece8dc;
+    --ink-soft:  #c2bfb1;
+    --mute:      #8a8a7e;
+    --rule:      #363b35;
+    --sage:      #8aaf8c;
+    --sage-bg:   #243027;
+    --clay:      #d18760;
+    --clay-bg:   #3a2a20;
+    --accent:     var(--sage);
+    --accent-dim: #a3c0a4;
+    --accent-ink: #1c1f1c;
+    --ph-bg:     #272a26;
+    --ph-stripe: #33372f;
+    --shadow-sm: 0 1px 0 rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.04);
+    color-scheme: dark;
+  }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
