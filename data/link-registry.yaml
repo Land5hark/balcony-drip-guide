@@ -496,3 +496,19 @@ links:
     destination_url: https://www.dripdepot.com/product/orbit-mechanical-hose-faucet-timer
     affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
     notes: Mechanical fallback timer (approved 2026-05-14).
+  - slot: bdi-soaker-dripdepot-container-primary
+    article_slug: can-i-use-soaker-hoses-on-a-balcony
+    merchant: Drip Depot
+    role: primary
+    monetization_status: approved_active
+    destination_url: https://www.dripdepot.com/drip-irrigation-kit-for-container-gardening
+    affiliate_url: "https://aff.dripdepot.com/aff/idevaffiliate.php?id=546"
+    notes: Faucet-access drip kit referenced in soaker-hose comparison article (approved 2026-05-14).
+  - slot: bdi-soaker-rainpoint-solar-primary
+    article_slug: can-i-use-soaker-hoses-on-a-balcony
+    merchant: RainPoint
+    role: secondary
+    monetization_status: approved_active
+    destination_url: https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants
+    affiliate_url: "https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC"
+    notes: No-faucet solar drip kit referenced in soaker-hose comparison article (approved 2026-05-08).

@@ -9,7 +9,7 @@ tags = ["balcony", "soaker-hose", "drip-irrigation", "container-gardening", "wat
 intent = "solution-aware"
 cluster = "watering-methods"
 verification_status = "verified"
-affiliate_ready = false
+affiliate_ready = true
 show_disclosure = true
 +++
 
@@ -86,6 +86,8 @@ Soaker hoses look cheap because the hose itself is cheap. The reliable balcony s
 | **Saucers or drainage trays** | $10-30 | Reduces neighbor-drip risk |
 
 For many balconies, those extras push the real cost close to a basic drip kit. That does not make soaker hoses bad, but it does mean the "cheap" choice is not always the cheapest working system.
+
+**Cost reality check:** A complete [drip irrigation kit for container gardens](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546) starts around $49 and includes the timer, filter, and pressure reducer you would otherwise buy separately for a soaker setup. If you do not have faucet access, a [solar-powered reservoir drip kit](https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC) lands in a similar range and removes the faucet dependency entirely.
 
 ## How to set up a soaker hose on a balcony (if you choose to)
 
