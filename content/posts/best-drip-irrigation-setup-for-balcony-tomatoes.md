@@ -171,6 +171,33 @@ Useful next read:
 
 - [Drip irrigation for balcony herb gardens](/posts/drip-irrigation-for-balcony-herb-gardens/)
 
+## Blossom end rot: why it happens and how drip irrigation prevents it
+
+Blossom end rot is the most common tomato failure on balconies, and it is almost never a calcium deficiency in the soil.
+
+**The actual cause:** Calcium uptake failure from irregular moisture.
+
+Tomato roots absorb calcium through water. When container soil swings from saturated to dry — which happens easily on hot, windy balconies — the root system cannot maintain steady calcium transport to the fruit. The developing tomato forms without enough calcium in its tissue. The result is the classic dark, sunken patch on the blossom end.
+
+**Why hand-watering makes it worse:**
+- Most people water deeply one day, then skip a day if the soil "looks okay"
+- That skip creates a dry period where calcium uptake stops
+- The next deep watering causes a rush of new growth that outpaces calcium availability
+- The fruit forms in that gap
+
+**How drip irrigation fixes it:**
+- Slow, daily moisture keeps the root zone consistently damp, not wet-and-dry
+- A timer removes the human variable — no skipped days, no overcorrection
+- Even emitter placement prevents dry-side/wet-side pot imbalance
+
+**If you already see blossom end rot:**
+- The damaged fruit will not heal. Remove it so the plant directs energy to new growth.
+- Do not add more calcium fertilizer until you fix the watering consistency. Excess calcium without steady moisture can lock out other nutrients.
+- Install or optimize your drip schedule. Most balcony tomato growers see clean new fruit within 10-14 days of consistent moisture.
+- During the transition, hand-water at the exact same time every day for 10-14 days if you do not have drip yet. Same volume. Same time. No exceptions.
+
+**The one-sentence rule:** Blossom end rot is a logistics problem, not a soil problem. Consistent moisture is the only fix that matters.
+
 ## Renter-friendly installation for balcony tomatoes
 
 **No tools required**:
