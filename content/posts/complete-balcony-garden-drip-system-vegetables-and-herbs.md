@@ -208,6 +208,14 @@ Even with separate water schedules, you can optimize plant placement:
 - Leafy greens (Zone A subset) in partial shade spots where afternoon sun is less intense
 - Moisture herbs (Zone B) in easy-to-reach spots for quick harvest
 
+## Related guides
+
+- [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — starter kits that include the tubing, emitters, and timers needed for multi-zone setups
+- [Best drip irrigation setup for balcony tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/) — deeper dive on tomato-specific emitter placement and schedules
+- [Drip irrigation for balcony herb gardens](/posts/drip-irrigation-for-balcony-herb-gardens/) — herb-specific zones, emitter choices, and seasonal adjustments
+- [How many drip emitters per pot: container size chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) — match emitter count and flow rate to each container size
+- [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — multi-zone timers that let vegetables and herbs run on different schedules
+
 ## Bottom line
 
 A complete balcony garden with vegetables and herbs is absolutely achievable with drip irrigation — but only if you respect the water needs of each plant group. The 3-zone system (vegetables/greens, moisture herbs, Mediterranean herbs) with matched emitters and separate schedules is the difference between a balcony that produces food and one that produces frustration.

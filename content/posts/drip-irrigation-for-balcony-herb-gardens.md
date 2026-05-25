@@ -201,6 +201,14 @@ Herbs in containers without drainage holes + drip irrigation = guaranteed root r
 ### Mistake 4: Forgetting to flush the lines
 Herb pots are often on balconies with partial sun, creating warm, stagnant conditions in drip tubing. Flush the system monthly by removing the end cap and running water for 2 minutes.
 
+## Related guides
+
+- [Complete balcony garden drip system for vegetables and herbs](/posts/complete-balcony-garden-drip-system-vegetables-and-herbs/) — how to combine herb zones with tomato and vegetable zones on the same balcony
+- [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — kits with the emitters, tubing, and timers needed for herb-specific zones
+- [How many drip emitters per pot: container size chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) — match emitter count and flow rate to herb container sizes
+- [Adjustable emitters vs button drippers for container gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — which emitter type works best for herbs that need precise flow control
+- [How to prevent algae growth in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/) — essential for reservoir-fed herb systems on sunny balconies
+
 ## Bottom line
 
 A drip irrigation system for balcony herb gardens is not about convenience — though it is convenient. It's about creating the right moisture conditions for each herb's biology. Basil wants consistency. Rosemary wants drought. Mint wants containment. A three-zone drip setup with the right emitters and schedules turns a balcony herb collection from a daily guessing game into a reliable kitchen supply.
