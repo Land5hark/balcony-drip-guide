@@ -4,7 +4,7 @@ date: 2026-05-10T16:15:00-04:00
 draft: false
 description: "Stop guessing when to water your balcony container plants. Learn the factors that affect watering frequency and how to read your plants' signals."
 slug: how-often-should-you-water-balcony-plants
-categories: ["troubleshooting"]
+categories: ["plant-care"]
 tags: ["balcony", "watering", "container-gardening", "plant-care", "schedule", "frequency"]
 intent: "problem-aware"
 cluster: "watering-schedules"

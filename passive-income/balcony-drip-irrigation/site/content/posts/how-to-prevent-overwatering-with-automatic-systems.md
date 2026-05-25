@@ -4,7 +4,7 @@ date: 2026-05-09T22:15:00-04:00
 draft: false
 description: "Stop drowning your balcony plants. Learn the signs of overwatering, how to adjust automatic timers, and which tools prevent soggy soil in container gardens."
 slug: how-to-prevent-overwatering-with-automatic-systems
-categories: ["troubleshooting"]
+categories: ["plant-care"]
 tags: ["balcony", "overwatering", "automatic-watering", "timers", "troubleshooting", "container-gardening", "soil-health"]
 intent: "problem-aware"
 cluster: "troubleshooting-and-maintenance"
