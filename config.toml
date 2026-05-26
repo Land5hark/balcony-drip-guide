@@ -71,7 +71,7 @@ relativeURLs = false
   number = "01"
   title  = "Do you actually need drip?"
   blurb  = "A four-question test. If you water more than once a week, the answer is probably yes."
-  time   = "4 min read"
+  time   = "8 min read"
   url    = "/posts/balcony-watering-systems-complete-guide/"
 [[params.start_here]]
   number = "02"
@@ -81,10 +81,16 @@ relativeURLs = false
   url    = "/posts/how-much-does-a-basic-balcony-watering-system-cost/"
 [[params.start_here]]
   number = "03"
-  title  = "Your first 30 minutes"
+  title  = "Your first setup"
   blurb  = "Faucet to first drop. The install order matters more than the parts."
-  time   = "12 min read"
-  url    = "/setup-guides/how-to-build-a-self-watering-balcony-drip-system-in-an-afternoon/"
+  time   = "10 min read"
+  url    = "/posts/balcony-drip-irrigation-setup-guide/"
+[[params.start_here]]
+  number = "04"
+  title  = "Your summer schedule"
+  blurb  = "Month-by-month runtimes and frequencies. Exact minutes per plant group for May through September."
+  time   = "6 min read"
+  url    = "/posts/summer-watering-schedule-for-balcony-container-gardens/"
 
 # Build outputs
 [outputs]
