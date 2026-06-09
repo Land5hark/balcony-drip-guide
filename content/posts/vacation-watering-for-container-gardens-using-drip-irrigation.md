@@ -255,6 +255,51 @@ If one or two extremely thirsty containers are the whole problem, think clearly:
 
 Sometimes the smartest vacation-watering move is reducing the system’s hardest load, not pretending the setup is stronger than it is.
 
+## Pre-trip test checklist (run this 3–7 days before leaving)
+
+Do not skip the test run. A system that looks fine on paper fails in reality because of clogs, kinks, tilted emitters, and timers that reset after a power flicker.
+
+### Day 1: Baseline check
+
+- [ ] Confirm every pot has the right emitter count for its size ([emitter count chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/))
+- [ ] Run one full cycle and check that every emitter drips evenly
+- [ ] Check soil moisture at 3–4 inches deep in 3–5 representative pots
+- [ ] Look for standing water in saucers or on the balcony floor after the cycle
+- [ ] Note the timer setting, reservoir level, and weather forecast
+
+### Day 2–3: Monitor and adjust
+
+- [ ] Run the planned schedule for at least two full days while you are home
+- [ ] Check soil moisture again before the morning cycle on day 3
+- [ ] If any pot is soggy, reduce runtime or emitter flow for that pot only
+- [ ] If any pot is dry at the root zone, increase runtime or check for clogs
+- [ ] Confirm the reservoir (if used) drops at the expected rate
+
+### Day 4–5: Stress test
+
+- [ ] If a hot day is forecast, treat it as a preview of the trip
+- [ ] Check if plants wilt by late afternoon and recover by evening
+- [ ] If wilt persists into evening, the schedule is too light
+- [ ] If soil is still damp 12 hours after a cycle, the schedule is too heavy
+- [ ] Test the timer’s battery backup or program retention by unplugging it briefly
+
+### Day 6–7: Final lock-in
+
+- [ ] Walk the full line and fix kinks, loose stakes, or drifting emitters
+- [ ] Write down the timer settings and leave them where a neighbor can find them
+- [ ] Take a photo of the layout in case something shifts while you are away
+- [ ] Fill reservoirs to maximum clean capacity the morning you leave
+- [ ] Run one last cycle right before departure and confirm it starts on time
+
+### The one-minute daily check
+
+If you are home during the test week, spend one minute each morning looking at:
+- Is the timer display showing the right time?
+- Are any emitters visibly clogged, tilted, or displaced?
+- Does any pot look dramatically wetter or drier than its neighbors?
+
+Fix what you see. Do not promise yourself you will fix it later. Later is when you are on a plane.
+
 ## Common mistakes
 
 - trusting plant-count claims more than actual water demand
@@ -315,8 +360,11 @@ If the setup is based on fantasy math and first-day optimism, it can also buy yo
 - [Solar vs Faucet Timer Drip Systems for Patio Plants](/posts/solar-vs-faucet-timer-drip-systems-for-patio-plants/)
 - [Bucket-Fed vs Solar-Pump Drip Systems for Apartment Gardeners](/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/)
 - [Smart Watering Timers for Balcony and Patio Container Gardens](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/)
+- [Summer Watering Schedule for Balcony Container Gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/)
 - [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/)
 - [Container Drip Irrigation Maintenance Checklist for Summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/)
+- [Best Drip Irrigation System for Balcony Peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) — pepper-specific emitter counts and cycle timing for trip planning
+- [Drip Irrigation for Fabric Grow Bags on Patios and Balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/) — grow bags dry fastest; adjust vacation plans accordingly
 
 ## Natural monetization fit
 
