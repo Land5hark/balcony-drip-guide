@@ -440,6 +440,39 @@ Smart timers are especially sensitive to freeze damage.
 
 ---
 
+## Summer runtime settings for balcony timers
+
+Use these starting points for programmable timers on south- and west-facing balconies. Adjust by pot size, plant type, and actual soil moisture checks.
+
+### Single-cycle schedule (spring / mild summer)
+
+| Plant group | Start time | Duration | Frequency |
+|---|---|---|---|
+| Tomatoes/peppers | 6:30 AM | 15–20 min | Daily |
+| Leafy greens | 6:30 AM | 8–10 min | Daily |
+| Herbs (basil/mint) | 6:30 AM | 8–10 min | Daily |
+| Herbs (rosemary/thyme) | 6:30 AM | 10–15 min | Every 2 days |
+| Cucumbers | 6:30 AM | 20–25 min | Daily |
+
+### Split-cycle schedule (peak summer / heat wave)
+
+| Plant group | Morning cycle | Evening cycle | Notes |
+|---|---|---|---|
+| Tomatoes/peppers | 6:00 AM, 12–15 min | 7:00 PM, 10–12 min | Two cycles prevent channeling in compact soil |
+| Leafy greens | 6:00 AM, 10–12 min | — | Usually one cycle; shade if extreme heat |
+| Herbs (basil/mint) | 6:00 AM, 8–10 min | — | Watch for yellowing = too wet |
+| Herbs (rosemary/thyme) | 6:00 AM, 10–12 min | — | Keep every 2 days; do not add evening cycle |
+| Cucumbers | 6:00 AM, 15–18 min | 7:00 PM, 10–12 min | High demand during fruiting |
+
+### Timer programming tips for summer
+
+- **Use multiple start times, not one long run**: Two 12-minute cycles beat one 24-minute cycle because potting mix saturates and sheds water after ~15 minutes.
+- **Set rain delay**: A 24-hour rain delay saves water and prevents soggy soil after summer storms.
+- **Check battery before peak heat**: A timer that resets in mid-July because of low batteries will cost you more in dead plants than a $5 battery replacement.
+- **Test the schedule for 3 days before trusting it**: Run the timer while you are home, check soil moisture at 4 PM, and adjust.
+
+For temperature-specific adjustments above 95°F, see the [heat-specific frequency table](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/). For grow-bag-specific timing, see [drip irrigation for fabric grow bags](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/).
+
 ## Recommendations by Situation
 
 ### Small Balcony (5-10 plants)
@@ -475,6 +508,8 @@ Smart timers are especially sensitive to freeze damage.
 - [Vacation Watering for Container Gardens Using Drip Irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) - Timer setups for travel
 - [Best Drip Irrigation Kits for Balcony Container Gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) - Complete systems including timers
 - [Solar vs Faucet Timer Drip Systems for Patio Plants](/posts/solar-vs-faucet-timer-drip-systems-for-patio-plants/) - Comparing automation approaches
+- [Best Drip Irrigation System for Balcony Peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) - Pepper-specific timer and emitter timing
+- [Drip Irrigation for Fabric Grow Bags on Patios and Balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/) - Grow bags need shorter, split cycles in heat
 
 ---
 
