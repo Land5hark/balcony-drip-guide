@@ -83,7 +83,7 @@ Fix infrastructure that increases execution speed and independence.
 
 Current state: system health dashboard is `attention` only because a runtime update is available; browser dashboard reports live CDP as `running` on port `18800`; cron jobs are installed and log to script-specific files, not `reports/cron.log`; OpenClaw runtime is `2026.5.18` with stable `2026.6.1` available but not silently applied.
 
-**NEW 2026-06-09 14:15**: Updated `scripts/system-health-dashboard.py` to exit 0 when the only attention item is the runtime update. The dashboard was returning exit code 1 every run because `update-available` was flagged as `attention`, which caused cron scripts to signal failure. The fix adds a `non_runtime` check: if the only non-healthy status is the runtime update, the script exits 0. This is correct because the runtime no-upgrade is an explicit operator decision, not a system failure.
+**NEW 2026-06-09 14:15**: Updated `scripts/system-health-dashboard.py` to exit 0 when the only attention item is the runtime update. The dashboard was returning exit code 1 every run because `update-available` was flagged as `attention`, which caused cron scripts to signal failure. The fix adds a `non_runtime` check: if the only non-healthy status is the runtime update, the script exits 0. This is correct because the runtime no-upgrade is an explicit operator decision, not a system failure. Committed and pushed (`b93141c`).
 
 **NEW 2026-06-09 14:15**: Runtime latest version updated to `2026.6.5` (was `2026.6.1`). Installed remains `2026.5.18`. Explicit no-upgrade decision remains in effect.
 
