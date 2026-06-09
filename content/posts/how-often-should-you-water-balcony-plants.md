@@ -117,6 +117,26 @@ Mixed plantings are where schedules fall apart. Basil and rosemary do not belong
 | Leafy greens | Daily in heat | Every 1-2 days | Every 2 days | Bolting, limp leaves, shallow dry soil |
 | Succulents | Weekly or less | Every 1-2 weeks | Every 2-4 weeks | Wrinkling means dry; soft translucent leaves mean too wet |
 
+### Pepper-specific frequency guidance
+
+Peppers are less thirsty than tomatoes and more sensitive to overwatering. Their roots need steady moisture without staying wet. On a balcony, this balance is harder because wind and sun dry the top inch while the center stays damp.
+
+| Condition | 3–5 gallon pepper pot | 7–10 gallon pepper pot |
+|---|---|---|
+| Spring (65–75°F) | Every 2–3 days | Every 3–4 days |
+| Early summer (76–85°F) | Every 1–2 days | Every 2–3 days |
+| Peak summer (86–92°F) | Daily | Every 1–2 days |
+| Heat wave (95°F+) | Daily, split cycles | Daily |
+| Cool/cloudy | Every 3–4 days | Every 4–5 days |
+
+**Pepper warning signs:**
+- **Morning droop that recovers by midday**: Normal heat response, do not add water
+- **Persistent wilting into evening**: Underwatered; increase frequency, not duration
+- **Yellow lower leaves with damp soil**: Overwatered; let soil dry an extra day
+- **Flower drop without stress**: Often inconsistent moisture; switch to shorter, more frequent cycles
+
+For drip-irrigation-specific pepper setup, see the [best drip irrigation system for balcony peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) guide.
+
 These are check intervals, not automatic watering orders. If the soil is still wet at the check, wait.
 
 ---
@@ -463,3 +483,4 @@ If automatic watering causes soggy soil, do not just shorten the timer once and 
 - [Vacation Watering for Container Gardens Using Drip Irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/)
 - [How Much Does a Basic Balcony Watering System Cost?](/posts/how-much-does-a-basic-balcony-watering-system-cost/)
 - [Container Drip Irrigation Maintenance Checklist for Summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/)
+- [Can You Use Drip Irrigation for Balcony Orchids?](/posts/balcony-drip-irrigation-for-orchids/)
