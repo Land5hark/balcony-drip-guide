@@ -224,6 +224,29 @@ Use the no-faucet logic first, then decide whether the right answer is:
 
 If you are comparing those branches directly, [bucket-fed vs solar pump drip systems for apartment gardeners](/posts/bucket-fed-vs-solar-pump-drip-systems-for-apartment-gardeners/) gives a cleaner no-faucet decision framework.
 
+## Summer smart-timer scheduling tips
+
+Smart timers shine in summer because they make schedule changes easier than crawling around a tiny LCD screen in July. Use the app to shift from single-cycle spring schedules to split-cycle summer runs without reprogramming everything manually.
+
+### Recommended smart-timer programs by season
+
+| Season | Program name | Start time | Duration | Frequency | When to activate |
+|---|---|---|---|---|---|
+| Spring | "Spring AM" | 7:00 AM | 15 min | Daily | May, temps 65–75°F |
+| Early summer | "Summer split" | 6:30 AM + 7:00 PM | 12 min each | Daily | June, temps 76–85°F |
+| Peak summer | "Peak split" | 6:00 AM + 7:00 PM | 15 min each | Daily | July–August, temps 86–92°F |
+| Heat wave | "Heat wave" | 6:00 AM + 7:00 PM | 15 min each + optional midday | Daily | 95°F+ days only |
+| Fall | "Fall AM" | 7:30 AM | 12 min | Daily | September, cooling temps |
+
+### Smart features worth using in summer
+
+- **Weather skip**: If your timer supports rain skip or weather-based delay, turn it on. Summer thunderstorms can soak containers that the timer is about to water again.
+- **Seasonal program slots**: Save each season as a separate program. Switching from "Spring AM" to "Summer split" takes 30 seconds in the app instead of crouching over the timer with reading glasses.
+- **Vacation mode**: Before leaving, bump the evening cycle up by 2–3 minutes and enable rain skip. Do not create a brand new untested program the day you leave.
+- **Battery alerts**: Low batteries in peak heat are a common failure mode. If the app shows battery status, check it weekly in July and August.
+
+For exact temperature-based adjustments and container-specific timing, pair timer programs with the [summer runtime settings for hose timers](/posts/best-hose-timers-for-balcony-drip-irrigation/) and the [heat-specific frequency table](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/).
+
 ## Common mistakes
 
 ## Buying a smart timer before fixing uneven watering
@@ -287,3 +310,5 @@ If the layout is broken, it is just an expensive way to automate disappointment.
 - [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/)
 - [Container Drip Irrigation Maintenance Checklist for Summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/)
 - [Adjustable Emitters vs Button Drippers for Container Gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/)
+- [Best Drip Irrigation System for Balcony Peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) — pepper-specific timing for timer programming
+- [Drip Irrigation for Fabric Grow Bags on Patios and Balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/) — grow bags need split cycles in heat
