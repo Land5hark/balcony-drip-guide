@@ -139,6 +139,29 @@ Here's what actually works on a south-facing Brooklyn balcony in July:
 
 Start conservative and adjust by 2-minute increments every 3-4 days. Big timer jumps in hot weather are how you get root rot in July.
 
+## Heat-specific frequency table by temperature
+
+Use this table to adjust your spring baseline schedule as temperatures rise. These are starting points for 5–7 gallon pots with 1 GPH emitters; scale down for smaller pots or lower-flow emitters.
+
+| Temperature range | Daily cycles | Cycle duration | Total daily minutes | Notes |
+|---|---|---|---|---|
+| **65–75°F (spring baseline)** | 1 | 15 min | 15 min | Standard spring schedule |
+| **76–85°F (early summer)** | 1 | 20 min | 20 min | Increase 25–30% from baseline |
+| **86–92°F (mid-summer)** | 2 | 12 min each | 24 min | Split into morning + evening |
+| **93–97°F (heat wave)** | 2 | 15 min each | 30 min | Split only; avoid one long soak |
+| **98°F+ (extreme heat)** | 2–3 | 12–15 min each | 30–40 min | Add brief midday pulse for tomatoes/cucumbers only |
+
+**Important**: Do not simply multiply. Two 15-minute cycles beat one 30-minute cycle because compact potting mix saturates and channels water out the bottom. Split cycles let the root zone absorb between sessions.
+
+### Adjustment by container type
+
+| Container type | 86–92°F adjustment | 93–97°F adjustment |
+|---|---|---|
+| Plastic/resin pots | Split to 2 cycles | Split to 2 cycles, increase 10% |
+| Unglazed terracotta | Split to 2 cycles, add 20% | Split to 2 cycles, add 30% |
+| Fabric grow bags | Split to 2 cycles, add 30% | Split to 2–3 cycles, add 40% |
+| Self-watering pots | Check reservoir daily | Check reservoir twice daily |
+
 ## Hot-weather schedule by plant type
 
 | Plant group | Hot-weather priority | Practical adjustment |
@@ -178,10 +201,13 @@ Useful next reads:
 
 ## Related guides
 
+- [Summer Watering Schedule for Balcony Container Gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) — month-by-month runtimes for May through September
 - [Best Hose Timers for Balcony Drip Irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — dual-program models ranked
 - [How Often Should You Water Balcony Plants?](/posts/how-often-should-you-water-balcony-plants/) — season-by-season frequency guide
 - [Adjustable Emitters vs Button Drippers](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — when to switch emitter types
 - [Best Drip Irrigation Setup for Balcony Tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/) — tomato-specific emitter layout
+- [Best Drip Irrigation System for Balcony Peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) — pepper-specific emitter counts and heat adjustments
+- [Drip Irrigation for Fabric Grow Bags on Patios and Balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/) — grow bags dry fastest in heat
 - [DIY Balcony Watering System for Renters](/posts/diy-balcony-watering-system-for-renters/) — budget gravity-fed setup for no-faucet balconies
 
 ---
