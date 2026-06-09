@@ -203,7 +203,32 @@ Adjust the timer **after** checking emitters, layout, and container grouping.
 
 Timer changes are fine when the system is fundamentally balanced. They are a terrible first fix when it is not.
 
-### 7) Wind and sun are exposing weak spots in the system
+### 7) Fabric grow bags are drying unevenly despite working emitters
+
+Fabric grow bags dry differently than hard pots, and standard drip logic often misses this.
+
+**Why grow bags act uneven:**
+- **Air pruning on the sides**: The porous fabric exposes more soil surface to air, so the outer root zone dries faster than the center
+- **No water reservoir effect**: Unlike hard pots with saucers, excess water drains straight through fabric bags — there is no bottom buffer
+- **Shape collapse**: Soft bags can lean or sag, shifting the emitter away from the intended root zone
+- **Faster dry-back in wind**: Balcony wind pulls moisture through the fabric more aggressively than it would from a ceramic or plastic surface
+
+**What uneven grow-bag watering looks like:**
+- One side of the bag stays moist while the other is dusty
+- The bag dries out 1-2 days faster than a hard pot of the same size on the same timer
+- The emitter point is wet but the rest of the root zone is not
+- Grow bags near the balcony edge dry faster than those against the wall
+
+**First fix for grow bags:**
+- Use **two emitters per bag** for anything 10+ gallons, positioned on opposite sides of the root zone
+- Check the bag is upright and the emitter is not shifted by sagging or leaning
+- Move the driest grow bags to the most protected spots (away from railing edges and direct wind)
+- Shorten the watering cycle and add a second daily cycle if the bag is drying out between runs — see [how to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) for temperature-based timing
+- If you are switching from hard pots to grow bags, do not reuse the same emitter count without checking coverage — the bag needs more points, not just more runtime
+
+For detailed grow-bag drip setup, see [drip irrigation for fabric grow bags on patios and balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/).
+
+### 8) Wind and sun are exposing weak spots in the system
 
 Balcony conditions are not gentle.
 

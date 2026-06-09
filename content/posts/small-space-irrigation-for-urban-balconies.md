@@ -15,6 +15,8 @@ show_disclosure = true
 
 Urban balconies present a unique irrigation challenge: maximum plant density in minimal square footage, often with strict aesthetic requirements and zero tolerance for leaks or overflow. Standard drip kits designed for suburban patios assume space you don't have and flexibility your landlord won't allow.
 
+> **Summer buyer note:** Small balconies heat up faster than larger patios because walls and railings reflect heat, and airflow is limited. A compact drip system is often the only reliable way to keep urban containers alive through July and August without daily hand-watering. If you are planning a summer trip or already seeing heat-stressed plants, start with the [summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) to understand seasonal timing, then return here to choose the right compact hardware.
+
 This guide covers irrigation approaches specifically engineered for urban balconies under 50 square feet—the kind of tight spaces common in apartment buildings, condos, and dense city neighborhoods.
 
 ## The urban balcony irrigation constraints
