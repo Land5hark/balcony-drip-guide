@@ -4,7 +4,7 @@ date = 2026-05-22T20:00:00-04:00
 draft = false
 description = "Design a 3-zone drip irrigation system that handles tomatoes, peppers, lettuce, basil, and rosemary on the same balcony. Complete layout, schedules, and shopping list."
 slug = "complete-balcony-garden-drip-system-vegetables-and-herbs"
-categories = ["setup-guides", "plant-specific"]
+categories = ["setup-guides", "plant-care"]
 tags = ["balcony", "vegetables", "herbs", "drip-irrigation", "multi-zone", "container-gardening", "tomatoes", "basil", "peppers"]
 intent = "how-to"
 cluster = "balcony-complete-system"
@@ -48,6 +48,8 @@ For a typical 8–10 container mixed balcony garden, use three zones:
 - **Emitter setup**: 0.5 GPH soaker rings or drippers, 1 per pot
 - **Schedule**: 10 minutes daily at 7:30 AM
 
+For small herb pots, the most important detail is not the timer. It is whether the emitter actually wets the shallow root zone. Use [micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) when you need the pot-by-pot placement version of this Zone B setup.
+
 ### Zone C: Mediterranean herbs
 - **Plants**: Rosemary, thyme, oregano, sage, lavender, marjoram
 - **Why separate**: These plants die from overwatering faster than any other group. They need infrequent deep soaks and dry soil between cycles.
@@ -82,7 +84,9 @@ For a typical 8–10 container mixed balcony garden, use three zones:
 
 ## The multi-zone timer solution
 
-### Best for faucet-connected balconies: [RainPoint WiFi Hose Timer](https://www.rainpointus.com/)
+### Best for faucet-connected balconies: RainPoint WiFi Hose Timer
+
+[Check RainPoint hose timers](https://www.rainpointus.com/).
 
 **Why it works for mixed gardens:**
 - Controls up to 4 separate zones from one faucet
@@ -92,7 +96,9 @@ For a typical 8–10 container mixed balcony garden, use three zones:
 
 **Setup**: Connect the timer to your faucet. Run the timer's output to a 4-way manifold. Attach inline valves to three manifold outputs (the fourth is a drain/flush port). Run 1/4-inch tubing from each valve to its zone.
 
-### Best for gravity-fed / no-faucet balconies: [RainPoint Solar Timer + pump](https://www.rainpointus.com/)
+### Best for gravity-fed / no-faucet balconies: RainPoint Solar Timer + pump
+
+[Check RainPoint solar timers and pumps](https://www.rainpointus.com/).
 
 For balconies without outdoor faucets, a battery-powered timer with a submersible pump in a reservoir handles all three zones. The timer opens a solenoid valve for each zone sequentially.
 
@@ -213,6 +219,7 @@ Even with separate water schedules, you can optimize plant placement:
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — starter kits that include the tubing, emitters, and timers needed for multi-zone setups
 - [Best drip irrigation setup for balcony tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/) — deeper dive on tomato-specific emitter placement and schedules
 - [Drip irrigation for balcony herb gardens](/posts/drip-irrigation-for-balcony-herb-gardens/) — herb-specific zones, emitter choices, and seasonal adjustments
+- [Micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) — small-pot herb emitter placement when basil, parsley, rosemary, thyme, or mint need separate tuning
 - [How many drip emitters per pot: container size chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) — match emitter count and flow rate to each container size
 - [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — multi-zone timers that let vegetables and herbs run on different schedules
 

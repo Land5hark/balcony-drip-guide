@@ -277,9 +277,12 @@ If you do not have a faucet, start with a reservoir-fed pump kit or gravity syst
 
 ## Related Articles
 
+- [Balcony Watering Systems Hub](/posts/balcony-watering-systems/)
 - [Best Drip Irrigation Kits for Balcony Container Gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
 - [Balcony Drip Irrigation Without a Faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
 - [DIY Balcony Watering System for Renters](/posts/diy-balcony-watering-system-for-renters/)
+- [Summer Watering Schedule for Balcony Container Gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/)
+- [Can You Use Drip Irrigation for Balcony Orchids?](/posts/balcony-drip-irrigation-for-orchids/)
 - [How Much Does a Basic Balcony Watering System Cost?](/posts/how-much-does-a-basic-balcony-watering-system-cost/)
 - [Smart Watering Timers for Balcony and Patio Container Gardens](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/)
 - [Vacation Watering for Container Gardens Using Drip Irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/)

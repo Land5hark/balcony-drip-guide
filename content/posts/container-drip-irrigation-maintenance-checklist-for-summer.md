@@ -166,7 +166,7 @@ A setup that worked in mild weather may now need:
 
 Do not change the schedule blindly, though.
 
-First confirm that the distribution is still sane. If the schedule itself is becoming the question, [smart watering timers for balcony and patio container gardens](/posts/smart-watering-timers-for-balcony-and-patio-container-gardens/) is the cleaner follow-up than guessing your way into timer settings. If the setup is reservoir-fed rather than faucet-fed, keep [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) nearby so summer runtime changes do not get separated from reservoir reality.
+First confirm that the distribution is still sane. If the schedule itself is becoming the question, use the [summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) before guessing your way into timer settings. If the setup is reservoir-fed rather than faucet-fed, keep [balcony drip irrigation without a faucet](/posts/balcony-drip-irrigation-without-a-faucet/) nearby so summer runtime changes do not get separated from reservoir reality.
 
 ## 7) Check for runoff and leak risk
 

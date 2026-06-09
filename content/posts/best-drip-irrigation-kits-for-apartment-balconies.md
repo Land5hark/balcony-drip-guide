@@ -73,7 +73,9 @@ For no-faucet balconies, read the dedicated [balcony drip irrigation without a f
 
 ## Best for apartments with faucet access
 
-### [Drip Depot Container Gardening Kit](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546) (Standard)
+### Drip Depot Container Gardening Kit (Standard)
+
+[Check the Drip Depot Container Gardening Kit](https://aff.dripdepot.com/aff/idevaffiliate.php?id=546).
 
 **Why it works for apartments:**
 - No tools required for installation
@@ -101,7 +103,9 @@ For no-faucet balconies, read the dedicated [balcony drip irrigation without a f
 
 ## Best for apartments without faucet access
 
-### [RainPoint Automatic Watering System](https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC)
+### RainPoint Automatic Watering System
+
+[Check the RainPoint Automatic Watering System](https://www.rainpointonline.com/products/rainpoint-large-display-automatic-plant-waterer-indoor-for-up-to-20-pot-plants?sca_ref=11236345.mbXwGlwAPC).
 
 **Why it works for apartments:**
 - Completely portable (no faucet needed)

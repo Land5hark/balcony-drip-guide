@@ -4,7 +4,7 @@ date = 2026-05-22T14:00:00-04:00
 draft = false
 description = "The right drip irrigation setup for balcony herb gardens prevents root rot in basil, keeps Mediterranean herbs happy, and automates watering for mixed herb containers."
 slug = "drip-irrigation-for-balcony-herb-gardens"
-categories = ["setup-guides", "plant-specific"]
+categories = ["setup-guides", "plant-care"]
 tags = ["balcony", "herbs", "drip-irrigation", "container-gardening", "basil", "rosemary", "mint"]
 intent = "how-to"
 cluster = "balcony-plant-specific"
@@ -70,6 +70,8 @@ On a drip system, a "zone" is any group of pots that share the same watering sch
 | C (mint) | 0.5 GPH dripper or adjustable micro-sprayer | 0.5 GPH | 15 min | Daily, but contained |
 
 **Why soaker rings for Zone A**: A soaker ring (1/4-inch tubing formed into a circle on the soil surface) distributes water evenly across the shallow root zone of basil and cilantro. A single drip point in a 10-inch herb pot creates a dry side and a soggy side.
+
+If you are tuning individual pots instead of designing the whole herb zone, use the more specific guide to [micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) for small-pot placement, basil versus rosemary flow choices, and when a drip ring is worth adding.
 
 ### Step 3: Build the physical layout
 
@@ -205,6 +207,7 @@ Herb pots are often on balconies with partial sun, creating warm, stagnant condi
 
 - [Complete balcony garden drip system for vegetables and herbs](/posts/complete-balcony-garden-drip-system-vegetables-and-herbs/) — how to combine herb zones with tomato and vegetable zones on the same balcony
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/) — kits with the emitters, tubing, and timers needed for herb-specific zones
+- [Micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) — practical small-pot emitter placement for basil, parsley, rosemary, thyme, mint, and mixed herb shelves
 - [How many drip emitters per pot: container size chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) — match emitter count and flow rate to herb container sizes
 - [Adjustable emitters vs button drippers for container gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — which emitter type works best for herbs that need precise flow control
 - [How to prevent algae growth in balcony watering reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/) — essential for reservoir-fed herb systems on sunny balconies
