@@ -15,6 +15,8 @@ show_disclosure = true
 
 This hub organizes every balcony watering approach by your actual constraints: water source access, budget, technical comfort, and plant collection size.
 
+If you want the broader buyer-guide version before choosing a path, start with [Balcony Watering Systems: The Complete Guide for Container Gardens](/posts/balcony-watering-systems-complete-guide/). This hub is the faster routing page once you know your constraint.
+
 ## Choose your starting point
 
 | Your situation | Best first setup | Start here |
@@ -24,6 +26,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 | **Renting / can't modify plumbing** | Removable tubing, bucket reservoir, clip-on routing, no drilling | [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/) |
 | **Mostly railing planters or hanging baskets** | Adjustable emitters with secure tubing clips and shorter runs | [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) |
 | **Herbs or mixed vegetables** | Separate emitter flow by plant type instead of one schedule for everything | [Complete balcony garden drip system for vegetables and herbs](/posts/complete-balcony-garden-drip-system-vegetables-and-herbs/) |
+| **Small herb pots** | Low-flow micro emitters placed by herb type, not just pot diameter | [Micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) |
 | **Frequent travel** | Timer or solar pump with a reservoir sized for the full trip plus buffer | [Vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) |
 | **Hot south or west exposure** | More frequent short cycles, larger reservoir, and shade-aware emitter checks | [How to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) |
 | **Need timer help** | Mechanical or digital timer before smart automation | [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) |
@@ -92,6 +95,11 @@ Avoid relying on terracotta spikes or tiny bottle drippers for trips longer than
 - [How to expand a patio drip kit without losing pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/) - Adding more plants
 - [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) - Vertical gardening
 
+### Plant-specific setups
+- [Micro drip emitters for balcony herbs](/posts/micro-drip-emitters-for-balcony-herbs/) - Small-pot emitter placement for basil, parsley, rosemary, thyme, and mint
+- [Drip irrigation for balcony herb gardens](/posts/drip-irrigation-for-balcony-herb-gardens/) - Whole-zone layout for mixed herb collections
+- [Best drip irrigation setup for balcony tomatoes](/posts/best-drip-irrigation-setup-for-balcony-tomatoes/) - Tomato-focused emitter placement and scheduling
+
 ### Troubleshooting
 - [Why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) - Pressure and flow issues
 - [How to fix clogged drip emitters](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/) - Clogged emitters
@@ -100,6 +108,7 @@ Avoid relying on terracotta spikes or tiny bottle drippers for trips longer than
 
 ### Maintenance and care
 - [Container drip irrigation maintenance checklist](/posts/container-drip-irrigation-maintenance-checklist-for-summer/) - Regular upkeep
+- [Summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) - Month-by-month runtime and frequency adjustments
 - [How to winterize a balcony watering system](/posts/how-to-winterize-a-balcony-watering-system/) - Cold climate protection
 - [How to prevent algae growth in reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/) - Algae prevention
 

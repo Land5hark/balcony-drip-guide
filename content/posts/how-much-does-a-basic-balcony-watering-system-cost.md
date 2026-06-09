@@ -195,6 +195,26 @@ Best fit:
 - [How to set up a gravity-fed watering system](/posts/how-to-set-up-a-gravity-fed-watering-system/)
 - [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/)
 
+## Grow Bag Cost Adjustment
+
+Fabric grow bags usually push a balcony drip budget up by **$10-35** compared with the same number of hard pots. The bags themselves are not the expensive part; the extra cost comes from needing better water coverage and more tuning time.
+
+| Grow Bag Setup | Extra Parts to Budget | Typical Add-On Cost |
+|----------------|-----------------------|---------------------|
+| 3-5 small herb or flower bags | Extra 1/4" tubing, a few tees, spare stakes | $8-15 |
+| 5-8 vegetable grow bags | Extra emitters, goof plugs, shutoff valves for tuning | $15-30 |
+| 8+ mixed grow bags | More tubing, manifolds or splitters, pressure-balancing parts | $25-45 |
+
+The important budgeting mistake is assuming one emitter per grow bag is enough. Many 10-20 gallon fabric bags need two emitters or an adjustable emitter pattern so the root zone does not dry unevenly. Use the [emitter count chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) before buying parts, then check the [hot-weather adjustment guide](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) if the bags sit in full sun or wind.
+
+For most balcony grow-bag gardens, the realistic starting budget is:
+
+- **Small herb bags:** $45-80 if you already have faucet access
+- **5-8 vegetable bags:** $75-140 with timer, filter, regulator, and extra emitters
+- **No-faucet grow bags:** $90-180 because reservoir capacity matters more
+
+If you are deciding between hard pots and fabric bags strictly on irrigation cost, hard pots are cheaper to automate. Grow bags can still be worth it for root health and storage, but budget for the extra emitters before judging the system price.
+
 ## Where the cheap kits usually fail
 
 Cheap kits can work, but the failures are predictable:

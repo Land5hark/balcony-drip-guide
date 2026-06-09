@@ -435,6 +435,7 @@ Old potting mix can also cause weird behavior: it may stay soggy in the lower ha
 - [How Often Should You Water Balcony Plants?](/posts/how-often-should-you-water-balcony-plants/) — Setting frequency before automation
 - [How Much Water Do Balcony Plants Really Need?](/posts/how-much-water-do-balcony-plants-really-need/) — Estimating container water demand
 - [Adjustable Emitters vs Button Drippers for Container Gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) — Choosing emitter style
+- [Can You Use Drip Irrigation for Balcony Orchids?](/posts/balcony-drip-irrigation-for-orchids/) — Keeping specialty plants off a shared daily timer
 
 ---
 

@@ -251,6 +251,7 @@ If you want the precision without the daily math, a drip system with a timer aut
 
 ## Related guides
 
+- [Summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/)
 - [How often should you water balcony plants](/posts/how-often-should-you-water-balcony-plants/)
 - [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/)
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)

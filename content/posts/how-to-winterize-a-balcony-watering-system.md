@@ -4,7 +4,7 @@ date: 2026-05-10T02:15:00-04:00
 draft: false
 description: "Protect your balcony drip irrigation system from freeze damage. Step-by-step winterization for renters and homeowners in cold climates."
 slug: how-to-winterize-a-balcony-watering-system
-categories: ["troubleshooting"]
+categories: ["winter-prep"]
 tags: ["balcony", "winterization", "maintenance", "freeze-protection", "seasonal-care", "drip-irrigation", "cold-climate"]
 intent: "maintenance"
 cluster: "troubleshooting-and-maintenance"

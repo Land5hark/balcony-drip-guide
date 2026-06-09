@@ -29,6 +29,7 @@ If your real issue is not just emitter count, use this shortcut before you start
 
 | If your situation is... | Start here | Why |
 |---|---|---|
+| You are sizing tiny herb pots, basil, rosemary, thyme, mint, or a mixed herb shelf | [Micro Drip Emitters for Balcony Herbs](/posts/micro-drip-emitters-for-balcony-herbs/) | Herbs need emitter placement by watering style, not just pot diameter |
 | One side of the pot stays dry while the other gets soaked | [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) | This is often a distribution problem, not just an emitter-count problem |
 | You are choosing between one adjustable emitter and multiple drippers | [Adjustable Emitters vs Button Drippers for Container Gardens](/posts/adjustable-emitters-vs-button-drippers-for-container-gardens/) | Helps separate flow-control decisions from coverage decisions |
 | You are setting up rail planters or hanging baskets | [Best Drip Setup for Hanging Baskets and Rail Planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) | Long or exposed containers are their own little chaos goblins |

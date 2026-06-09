@@ -25,7 +25,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 | **Mostly railing planters or hanging baskets** | Adjustable emitters with secure tubing clips and shorter runs | [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) |
 | **Herbs or mixed vegetables** | Separate emitter flow by plant type instead of one schedule for everything | [Complete balcony garden drip system for vegetables and herbs](/posts/complete-balcony-garden-drip-system-vegetables-and-herbs/) |
 | **Frequent travel** | Timer or solar pump with a reservoir sized for the full trip plus buffer | [Vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) |
-| **Hot south or west exposure** | More frequent short cycles, larger reservoir, and shade-aware emitter checks | [How to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) |
+| **Hot south or west exposure** | More frequent short cycles, larger reservoir, and shade-aware emitter checks | [Summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) |
 | **Need timer help** | Mechanical or digital timer before smart automation | [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) |
 
 ## The fastest path to a working system

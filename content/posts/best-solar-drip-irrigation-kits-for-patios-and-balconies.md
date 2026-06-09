@@ -90,7 +90,9 @@ The best solar kits let you tune watering around heat, pot size, and short trips
 
 ## The best solar drip irrigation kits for patios and balconies
 
-## 1) Best overall: [RainPoint Compact Programmable Solar Drip Irrigation Pump Kit](https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC)
+## 1) Best overall: RainPoint Compact Programmable Solar Drip Irrigation Pump Kit
+
+[Check the RainPoint Compact Programmable Solar Drip Irrigation Pump Kit](https://www.rainpointonline.com/products/rainpoint-compact-programmable-solar-automatic-drip-irrigation-pump-kits-support-up-to-20-plants?sca_ref=11236345.mbXwGlwAPC).
 
 This is the strongest general pick for readers with a simple goal:
 
@@ -112,7 +114,9 @@ On the current RainPoint product page re-checked 2026-05-06, the product is list
 ### My take
 This is the cleanest category fit when the reader truly needs a no-faucet solar setup rather than a faucet-fed kit.
 
-## 2) Best premium pick: [RainPoint Smart WiFi Solar Plant Watering System Gen 2](https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC)
+## 2) Best premium pick: RainPoint Smart WiFi Solar Plant Watering System Gen 2
+
+[Check the RainPoint Smart WiFi Solar Plant Watering System Gen 2](https://www.rainpointonline.com/products/the-first-all-in-one-smart-home-irrigation-system-for-effortless-sustainable-watering?sca_ref=11236345.mbXwGlwAPC).
 
 If you want more control and better alerts, this is the stronger pick.
 
