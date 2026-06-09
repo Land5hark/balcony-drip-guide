@@ -22,11 +22,13 @@ Ready-to-use promotion assets for The Balcony Drip. All assets are written for t
 | Asset | Article | Channels | Status |
 |-------|---------|----------|--------|
 | `newsletter-issue-001.md` | Newsletter — Issue 001 | Email (Beehiiv) | Ready |
+| `newsletter-issue-002.md` | Newsletter — Issue 002 (timer comparison) | Email (Beehiiv) | Ready — claim-safe draft |
+| `newsletter-issue-003.md` | Newsletter — Issue 003 (blossom end rot / watering consistency) | Email (Beehiiv) | Ready — claim-safe draft |
 
 ## Pending assets
 
 - [ ] Twitter/X thread for tomato article
-- [ ] Newsletter issues 002-004
+- [ ] Newsletter issue 004
 - [ ] Instagram carousel script for emitter placement guide
 
 ## Publishing checklist (when deploy resumes)
