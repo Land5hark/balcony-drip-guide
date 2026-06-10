@@ -22,9 +22,13 @@ This GitHub Actions workflow deploys directly to Cloudflare Pages using wrangler
 ## What the workflow does
 
 1. Checks out the repo
-2. Builds the Hugo site (same as local `hugo --gc --minify`)
-3. Deploys the `public/` directory to Cloudflare Pages using wrangler
-4. Uses branch=`master` and project=`balcony-drip-guide`
+2. Builds the Hugo site from a clean destination directory (same as local `hugo --gc --minify --cleanDestinationDir`)
+3. Runs `python3 scripts/qa_static_build.py` to catch broken internal links, duplicate sitemap URLs, unknown article categories, stale generated category archives, disabled affiliate disclosures, and unregistered governed affiliate URLs
+4. Runs `python3 -m unittest discover -s tests -p 'test_*.py' -v` to protect the title-aware promotion URL verifier without depending on live network state
+5. Deploys the `public/` directory to Cloudflare Pages using wrangler
+6. Uses branch=`master` and project=`balcony-drip-guide`
+
+If `CLOUDFLARE_API_TOKEN` is missing, steps 1-4 still run and the deploy is skipped with a GitHub Actions notice.
 
 ## Fallback option
 

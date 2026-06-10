@@ -1,8 +1,7 @@
 {{- $branch := getenv "CF_PAGES_BRANCH" | default "local" -}}
 {{- $commit := getenv "CF_PAGES_COMMIT_SHA" | default "local-build" -}}
 {{- $shortCommit := cond (gt (len $commit) 10) (substr $commit 0 10) $commit -}}
-{{- $buildTime := now.UTC.Format "2006-01-02T15:04:05Z07:00" -}}
-{{- $fingerprint := printf "%s | %s | %s" $branch $shortCommit $buildTime -}}
+{{- $fingerprint := printf "%s | %s" $branch $shortCommit -}}
 <p class="build-fingerprint" data-build-fingerprint="{{ $fingerprint }}">
   Build: <code>{{ $fingerprint }}</code>
 </p>

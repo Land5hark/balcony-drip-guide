@@ -1,6 +1,6 @@
 {{/* latest-entries.html — journal-style dated list of recent articles. */}}
 {{- $count := .count | default 6 -}}
-{{- $pages := first $count (where .ctx.Site.RegularPages "Section" "in" (slice "setup-guides" "buying-guides" "troubleshooting" "plant-care" "winter-prep")) -}}
+{{- $pages := first $count (where .ctx.Site.RegularPages "Params.categories" "!=" nil) -}}
 <section class="section">
   <div class="wrap">
     <header class="section-header section-header--strong">
@@ -13,8 +13,11 @@
         <a class="entries__item" href="{{ .RelPermalink }}">
           <div class="entries__date">{{ .Date.Format "Jan 2, 2006" | upper }}</div>
           <div>
-            {{- with index .Params.categories 0 }}
-            <span class="kicker">{{ . | humanize | replace "-" " " | title }}</span>
+            {{- $categories := .Params.categories | default (slice) -}}
+            {{- with index $categories 0 }}
+              <span class="kicker">{{ . | humanize | replace "-" " " | title }}</span>
+            {{- else }}
+              <span class="kicker">{{ .Section | humanize | replace "-" " " | title }}</span>
             {{- end }}
             <div class="entries__title">{{ .Title }}</div>
           </div>

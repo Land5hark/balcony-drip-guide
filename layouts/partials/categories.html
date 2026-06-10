@@ -12,8 +12,9 @@
     </header>
     <div class="cats-grid">
       {{- range .Site.Params.categories }}
-      {{- $count := .count | default 0 -}}
-      <a class="cat-card" href="{{ printf "/%s/" .slug | relURL }}">
+      {{- $term := index $.Site.Taxonomies.categories .slug -}}
+      {{- $count := cond (ne $term nil) (len $term.Pages) 0 -}}
+      <a class="cat-card" href="{{ printf "/categories/%s/" .slug | relURL }}">
         {{ partial (printf "ill/%s" .icon) . }}
         <div>
           <div class="cat-card__title">{{ .name }}</div>

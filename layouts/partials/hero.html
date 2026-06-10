@@ -18,7 +18,7 @@
           </svg>
         </a>
         <a class="btn btn--ghost" href="{{ "/posts/" | relURL }}">
-          All articles · {{ len (where .Site.RegularPages "Section" "in" (slice "setup-guides" "buying-guides" "troubleshooting" "plant-care" "winter-prep")) }}
+          All articles · {{ len (where .Site.RegularPages "Params.categories" "!=" nil) }}
         </a>
       </div>
       <dl class="hero__stats">

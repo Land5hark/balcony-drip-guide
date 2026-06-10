@@ -8,8 +8,7 @@ name: Deploy to Cloudflare Pages
 #    - Cloudflare Pages:Edit (for the balcony-drip-guide project)
 # 3. Go to GitHub repo → Settings → Secrets → Actions
 # 4. Add repository secret named: CLOUDFLARE_API_TOKEN
-# Without this secret, the deploy step will fail with:
-# "In a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN"
+# Without this secret, Hugo build and static QA still run, then deploy is skipped.
 
 on:
   push:
@@ -33,10 +32,16 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify
+        run: hugo --gc --minify --cleanDestinationDir
         env:
           CF_PAGES_BRANCH: ${{ github.ref_name }}
           CF_PAGES_COMMIT_SHA: ${{ github.sha }}
+
+      - name: Static QA
+        run: python3 scripts/qa_static_build.py
+
+      - name: Promotion URL verifier tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
 
       - name: Check Cloudflare token
         id: cloudflare-token
