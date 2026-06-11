@@ -24,6 +24,7 @@ This hub organizes every balcony watering approach by your actual constraints: w
 | **Renting / can't modify plumbing** | Removable tubing, bucket reservoir, clip-on routing, no drilling | [DIY balcony watering system for renters](/posts/diy-balcony-watering-system-for-renters/) |
 | **Mostly railing planters or hanging baskets** | Adjustable emitters with secure tubing clips and shorter runs | [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/) |
 | **Herbs or mixed vegetables** | Separate emitter flow by plant type instead of one schedule for everything | [Complete balcony garden drip system for vegetables and herbs](/posts/complete-balcony-garden-drip-system-vegetables-and-herbs/) |
+| **Strawberries in rail planters or baskets** | Low-flow distribution across the shallow root zone | [Balcony drip irrigation for strawberries](/posts/balcony-drip-irrigation-for-strawberries/) |
 | **Frequent travel** | Timer or solar pump with a reservoir sized for the full trip plus buffer | [Vacation watering for container gardens](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/) |
 | **Hot south or west exposure** | More frequent short cycles, larger reservoir, and shade-aware emitter checks | [Summer watering schedule for balcony container gardens](/posts/summer-watering-schedule-for-balcony-container-gardens/) |
 | **Need timer help** | Mechanical or digital timer before smart automation | [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) |
@@ -102,6 +103,7 @@ Avoid relying on terracotta spikes or tiny bottle drippers for trips longer than
 - [Container drip irrigation maintenance checklist for summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/) - Regular upkeep
 - [How to winterize a balcony watering system](/posts/how-to-winterize-a-balcony-watering-system/) - Cold climate protection
 - [How to prevent algae growth in reservoirs](/posts/how-to-prevent-algae-growth-in-balcony-watering-reservoirs/) - Algae prevention
+- [Balcony drip irrigation for strawberries](/posts/balcony-drip-irrigation-for-strawberries/) - Low-flow shallow-root setup for fruiting balcony planters
 
 ### Smart/automation topics
 - [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/) - Timer safety

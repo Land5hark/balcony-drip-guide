@@ -164,6 +164,7 @@ Days shorten. Heat eases. Plants that survived August are tired but still produc
 - [How much water do balcony plants really need?](/posts/how-much-water-do-balcony-plants-really-need/) — Calculate custom volumes for any container size
 - [How to adjust balcony drip irrigation for hot weather](/posts/how-to-adjust-balcony-drip-irrigation-for-hot-weather/) — Emergency adjustments for heat waves above 95°F
 - [Drip irrigation for fabric grow bags on patios and balconies](/posts/drip-irrigation-for-fabric-grow-bags-on-patios-and-balconies/) — Grow bags dry faster in heat; adjust schedules accordingly
+- [Balcony drip irrigation for strawberries](/posts/balcony-drip-irrigation-for-strawberries/) — Tune low-flow cycles for shallow-rooted fruiting planters
 - [Best drip irrigation system for balcony peppers](/posts/best-drip-irrigation-system-for-balcony-peppers/) — Pepper-specific emitter counts and cycle timing
 - [Best hose timers for balcony drip irrigation](/posts/best-hose-timers-for-balcony-drip-irrigation/) — Automate these schedules with programmable timers
 - [How long can balcony plants go without water?](/posts/how-long-can-balcony-plants-go-without-water/) — Plan vacation coverage around your summer schedule

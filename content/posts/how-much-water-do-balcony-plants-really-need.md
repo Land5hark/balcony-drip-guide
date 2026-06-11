@@ -133,6 +133,7 @@ Hanging baskets and rail planters dry faster than floor pots because wind hits m
 Useful next step:
 
 - [Best drip setup for hanging baskets and rail planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/)
+- [Balcony drip irrigation for strawberries](/posts/balcony-drip-irrigation-for-strawberries/) if those rail planters hold shallow-rooted strawberries
 
 ## Step 4: Calculate total daily water needed
 
@@ -256,3 +257,4 @@ If you want the precision without the daily math, a drip system with a timer aut
 - [How to prevent overwatering with automatic systems](/posts/how-to-prevent-overwatering-with-automatic-systems/)
 - [Best drip irrigation kits for balcony container gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
 - [How many drip emitters per pot: container size chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/)
+- [Balcony drip irrigation for strawberries](/posts/balcony-drip-irrigation-for-strawberries/)
