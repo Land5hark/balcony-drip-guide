@@ -83,6 +83,19 @@ So this article focuses on the practical problem:
 
 **how do you expand without turning a decent kit into a patchy mess?**
 
+## Quick pressure-loss diagnostic order
+
+Before you buy a bigger timer or add another branch, check the simple failure points in order:
+
+1. **Filter or inlet screen** — clean it first if the whole system weakened after expansion.
+2. **Pressure reducer** — confirm it is installed in the right direction and has not been moved during the add-on.
+3. **Tubing length** — look for one long branch doing the work that should be split into shorter runs.
+4. **Emitter count** — count every new outlet, especially adjustable emitters that may be wide open.
+5. **Elevation changes** — check whether hanging baskets, rail planters, or raised shelves are now higher than the original floor pots.
+6. **Clogged heads** — test the weak emitters before assuming the entire kit has lost pressure.
+
+If only one or two outlets are weak, start with the emitter and branch. If every outlet got weaker at once, start at the filter, reducer, timer, or faucet/reservoir. For mixed symptoms, use [why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) before expanding again.
+
 ## Why expansion causes trouble
 
 Starter kits are designed for limited, tidy use.
@@ -261,6 +274,7 @@ Add gradually, group smartly, keep routing sane, and stop before one little star
 - [How to Fix Clogged Drip Emitters in Potted Plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
 - [How Many Drip Emitters Per Pot? A Simple Container Starting Chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/)
 - [Do You Need a Filter and Pressure Reducer for Patio Drip Kits?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
+- [How to Stop Balcony Drip Irrigation Runoff](/posts/how-to-stop-balcony-drip-irrigation-runoff/)
 - [Best Drip Irrigation Accessories That Actually Help Container Gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/)
 - [Best Drip Irrigation Kits for Balcony Container Gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
 - [Vacation Watering for Container Gardens Using Drip Irrigation](/posts/vacation-watering-for-container-gardens-using-drip-irrigation/)
