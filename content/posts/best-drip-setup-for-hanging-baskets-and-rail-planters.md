@@ -35,6 +35,7 @@ It usually means these awkward little formats need their own strategy.
 | The basket or planter already waters unevenly in obvious ways | [Why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) | Broader distribution diagnosis first |
 | The hardware keeps drifting, popping loose, or turning messy | [Best drip irrigation accessories that actually help container gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/) | Stakes, clips, and cleaner routing often matter more than fancy emitters |
 | The trouble began after you added more branches or formats | [How to expand a patio drip kit without losing pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/) | Expansion overload often hits awkward formats first |
+| Water is escaping trays, rail brackets, or the balcony edge | [How to stop balcony drip irrigation runoff](/posts/how-to-stop-balcony-drip-irrigation-runoff/) | Drainage containment matters before you trust a timer above another unit |
 | Hot weather keeps exposing weak basket or rail-planter performance | [Container drip irrigation maintenance checklist for summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/) | Seasonal stress makes these containers extra unforgiving |
 
 ## Short answer
@@ -159,6 +160,19 @@ It is part of why these planters produce the classic pattern where one end looks
 
 If you are already seeing that behavior, work through the diagnosis in [why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) before just stretching the timer.
 
+### 4) Decide how drainage will be contained
+
+Rail planters often sit directly above a rail, a balcony edge, or a shared wall. That makes runoff more serious than it is in a floor pot.
+
+Before trusting the timer, check:
+- where water leaves the planter
+- whether the tray or built-in reservoir actually catches it
+- whether wind can push drips outside the balcony
+- whether brackets tilt the planter toward one end
+- whether the drain path sends water toward a neighbor, walkway, or furniture
+
+If the planter drains safely during a short test cycle, tune emitter spacing next. If the tray fills or water escapes the balcony edge, use the [balcony drip runoff troubleshooting guide](/posts/how-to-stop-balcony-drip-irrigation-runoff/) before increasing runtime.
+
 ## Adjustable emitters vs fixed drippers for these formats
 
 This depends on whether the layout is mixed or repeatable.
@@ -243,6 +257,7 @@ Treat them like their own formats and the system usually gets a lot less annoyin
 - [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/)
 - [Best Drip Irrigation Accessories That Actually Help Container Gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/)
 - [Balcony Drip Irrigation Without a Faucet](/posts/balcony-drip-irrigation-without-a-faucet/)
+- [How to Stop Balcony Drip Irrigation Runoff](/posts/how-to-stop-balcony-drip-irrigation-runoff/)
 - [Best Drip Irrigation Kits for Balcony Container Gardens](/posts/best-drip-irrigation-kits-for-balcony-container-gardens/)
 - [How to Expand a Patio Drip Kit Without Losing Pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/)
 - [Container Drip Irrigation Maintenance Checklist for Summer](/posts/container-drip-irrigation-maintenance-checklist-for-summer/)
