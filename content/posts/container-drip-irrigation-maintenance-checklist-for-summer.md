@@ -180,6 +180,8 @@ Look for:
 
 Hot weather does not excuse making a downstairs-neighbor problem.
 
+If water is already escaping trays, fittings, or pot bottoms, use the dedicated [balcony drip runoff troubleshooting guide](/posts/how-to-stop-balcony-drip-irrigation-runoff/) before increasing the timer again.
+
 ## Simple summer rhythm that actually works
 
 A practical pattern is:

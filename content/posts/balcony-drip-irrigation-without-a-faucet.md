@@ -178,6 +178,8 @@ Run the system while you are home first. Watch for:
 - trays that overflow
 - unstable buckets
 
+If the issue is already runoff, overflowing trays, or water dripping below, use [how to stop balcony drip irrigation runoff](/posts/how-to-stop-balcony-drip-irrigation-runoff/) before trusting the reservoir unattended.
+
 ## 2) Group similar plants together
 
 If your smallest basil pot and your biggest tomato tub are on the same simple line, one of them is going to complain.

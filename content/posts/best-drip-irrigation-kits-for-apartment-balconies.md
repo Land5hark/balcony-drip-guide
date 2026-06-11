@@ -44,6 +44,8 @@ Do this before buying anything. Apartment balconies punish sloppy assumptions ha
 | **Noise sensitivity** | Pumps can annoy you or the unit next door if they run loudly | Quiet battery/USB pump or silent gravity setup |
 | **Shared drainage risk** | Overwatering can drip onto lower balconies | Short cycles, saucers, lower-flow emitters, test runs while home |
 
+If shared drainage risk is the main concern, read the [balcony drip runoff troubleshooting guide](/posts/how-to-stop-balcony-drip-irrigation-runoff/) before choosing a larger kit.
+
 If you only have 3-5 pots, keep the system small. A giant "expandable" kit looks like value until half the parts live in a closet and the tubing layout looks like a bad science fair project.
 
 Also check whether the faucet, if you have one, is actually yours to use. Some apartment balconies have hose bibs controlled by building rules, seasonal shutoffs, or shared plumbing. If access is uncertain, choose a system that can fall back to a reservoir.

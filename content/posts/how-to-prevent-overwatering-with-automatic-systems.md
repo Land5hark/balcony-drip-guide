@@ -112,7 +112,7 @@ Balconies add a few extra failure modes:
 - **Travel settings.** People often over-program before leaving town, then come home to soggy soil.
 - **Neighbor risk.** Overwatering is not only a plant problem when runoff can drip below.
 
-If runoff is part of the constraint, use low-flow drip, saucers, and shorter test cycles. Sprayers and misters are usually the wrong tool on balconies unless you enjoy making enemies vertically.
+If runoff is part of the constraint, use low-flow drip, saucers, and shorter test cycles. Sprayers and misters are usually the wrong tool on balconies unless you enjoy making enemies vertically. For a focused diagnostic, use [how to stop balcony drip irrigation runoff](/posts/how-to-stop-balcony-drip-irrigation-runoff/).
 
 ---
 
