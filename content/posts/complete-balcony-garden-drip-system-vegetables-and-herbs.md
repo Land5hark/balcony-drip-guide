@@ -42,6 +42,15 @@ For a typical 8–10 container mixed balcony garden, use three zones:
   - Lettuce/greens: 1 × 0.5 GPH dripper or soaker ring per 6-inch+ pot
 - **Schedule**: 20 minutes daily at 7 AM (greens get shallow soak, vegetables get deep soak)
 
+Do not put the lettuce pot and the tomato bucket at the end of the same unbroken 1/4-inch branch and call it one zone. Keep the schedule shared, but split the layout into short sub-lines:
+
+- one branch for deep fruiting containers such as tomatoes, peppers, and eggplant
+- one branch for shallow greens such as lettuce, spinach, and arugula
+- inline shutoff or adjustable emitters on the shallow branch so greens can be trimmed back during cool weeks
+- a separate runoff check for wide grow bags or railing planters before the timer is trusted
+
+This keeps Zone A practical without pretending a 7-gallon tomato pot and a shallow salad box absorb water the same way. If the shallow containers start overflowing while the fruiting pots still need water, use the [runoff troubleshooting guide](/posts/how-to-stop-balcony-drip-irrigation-runoff/) and the [container emitter chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/) before adding more minutes.
+
 ### Zone B: Moisture-loving herbs
 - **Plants**: Basil, cilantro, parsley, chives, dill
 - **Why separate**: These herbs wilt visibly when dry. They need daily water but in smaller amounts than vegetables.
