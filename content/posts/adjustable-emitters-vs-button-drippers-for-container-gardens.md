@@ -64,6 +64,20 @@ If you want the shortest practical rule:
 | Clogging keeps distorting the results | Read [how to fix clogged drip emitters in potted plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/) and [do you need a filter and pressure reducer for patio drip kits](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/) | Dirty-water problems can make either emitter family look worse than it is. |
 | You are mostly buying support parts, not changing emitter strategy | Jump to [best drip irrigation accessories that actually help container gardens](/posts/best-drip-irrigation-accessories-that-actually-help-container-gardens/) | The real answer may be stakes, filters, or connector cleanup instead of a different dripper family. |
 
+## Before you mix adjustable and fixed emitters
+
+Mixing adjustable emitters and button drippers can work, but only after the system is already calibrated. If you mix them too early, the adjustable heads can hide pressure or runtime problems while the fixed drippers quietly underperform.
+
+Use this order before mixing emitter types on the same setup:
+
+1. Confirm the filter, pressure reducer, and main line are behaving normally.
+2. Run the system with a known short test cycle.
+3. Check whether the farthest fixed drippers still produce steady output.
+4. Tune adjustable emitters only after the fixed-output branch is stable.
+5. Recheck runoff and dry spots ten to fifteen minutes after the cycle ends.
+
+If the far end weakens when adjustable emitters are opened, treat that as an expansion or branch-balance problem, not a reason to keep opening more knobs. Use [how to expand a patio drip kit without losing pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/) and [why your container drip system is watering unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/) before adding more parts.
+
 ## Quick comparison table
 
 | Situation | Usually the better fit | Why |
@@ -286,6 +300,7 @@ That is the part people keep trying to skip.
 
 - [How Many Drip Emitters Per Pot? A Simple Container Starting Chart](/posts/how-many-drip-emitters-per-pot-container-size-chart/)
 - [Why Your Container Drip System Is Watering Unevenly](/posts/why-your-container-drip-system-is-watering-unevenly/)
+- [How to Expand a Patio Drip Kit Without Losing Pressure](/posts/how-to-expand-a-patio-drip-kit-without-losing-pressure/)
 - [Best Drip Setup for Hanging Baskets and Rail Planters](/posts/best-drip-setup-for-hanging-baskets-and-rail-planters/)
 - [How to Fix Clogged Drip Emitters in Potted Plants](/posts/how-to-fix-clogged-drip-emitters-in-potted-plants/)
 - [Do You Need a Filter and Pressure Reducer for Patio Drip Kits?](/posts/do-you-need-a-filter-and-pressure-reducer-for-patio-drip-kits/)
