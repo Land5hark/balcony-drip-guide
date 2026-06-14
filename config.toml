@@ -17,6 +17,9 @@ enableRobotsTXT = true
   category = "categories"
   tag = "tags"
 
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^CF_PAGES_']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
