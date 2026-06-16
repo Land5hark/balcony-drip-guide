@@ -52,4 +52,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: a7517de3b29da43874099ddb6669bfc3
-          command: pages deploy public --project-name=balcony-drip-guide --branch=${{ github.ref_name }}
+          wranglerVersion: "4"
+          command: pages deploy public --project-name=balcony-drip-guide --branch=${{ github.ref_name }} --commit-dirty=true
