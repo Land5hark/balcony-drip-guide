@@ -18,6 +18,9 @@ relativeURLs = false
     endLevel   = 3
     ordered    = false
 
+[security.funcs]
+  getenv = ["^HUGO_", "^CI$", "^CF_PAGES_"]
+
 [params]
   description    = "Honest, tested writing on balcony drip irrigation for renters."
   author         = "Maya Chen"
